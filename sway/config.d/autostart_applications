@@ -56,3 +56,6 @@ exec_always nwg-drawer -r
 
 # swayrd
 exec_always swayrd
+
+# playerctld
+exec playerctld daemon &
