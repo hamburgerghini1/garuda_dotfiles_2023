@@ -1,0 +1,31 @@
+2023-03-18 10:51:55,547 INFO: Azote v1.10.1
+2023-03-18 10:51:55,547 INFO: Lang: 'fi_FI'
+2023-03-18 10:51:55,548 INFO: No translations found for 'fi_FI'
+2023-03-18 10:51:55,550 INFO: Output found: {'name': 'DP-3', 'x': 0, 'y': 0, 'width': 2560, 'height': 1440, 'generic-name': 'STD Computer Inc MD270F 1234567890123'}
+2023-03-18 10:51:55,554 INFO: Creating initial settings
+2023-03-18 10:51:55,554 INFO: Image sorting: new
+2023-03-18 10:51:55,554 INFO: Custom display: None
+2023-03-18 10:51:55,554 INFO: Old thumbnail width: None
+2023-03-18 10:51:55,554 INFO: /home/tommi/.config/azote/azoterc file loaded
+2023-03-18 10:51:55,554 INFO: Thumbnail size: (240, 135)
+2023-03-18 10:51:55,554 INFO: Number of columns: 3
+2023-03-18 10:51:55,554 INFO: Palette quality: 10 (10 by default, the less, the better & slower)
+2023-03-18 10:51:55,554 INFO: Files tracking interval: 5 seconds
+2023-03-18 10:51:55,554 INFO: Screen measurement delay: 300 ms
+2023-03-18 10:51:55,554 WARNING: New thumbnail width: 240, clearing existing thumbnails!
+2023-03-18 10:51:55,556 INFO: Image associations: {'jpg': {('Uusi incognito-ikkuna', 'brave'), ('Image Viewer', 'eog')}, 'jpeg': {('Uusi incognito-ikkuna', 'brave'), ('Image Viewer', 'eog')}, 'png': [('Uusi incognito-ikkuna', 'brave'), ('Image Viewer', 'eog')]}
+2023-03-18 10:51:55,559 INFO: Color picker: imagemagick library found
+2023-03-18 10:51:55,560 INFO: Color picker/Wayland: grim package found
+2023-03-18 10:51:55,562 INFO: Color picker/Wayland: slurp package found
+2023-03-18 10:51:55,562 INFO: Pick color from screen feature enabled
+2023-03-18 10:51:55,562 INFO: Environment: {'send2trash': True, 'yaml': True, 'app_indicator': True, 'wm': 'sway'}
+2023-03-18 10:51:55,562 INFO: Alacritty config file: /home/tommi/.config/alacritty/alacritty.yml
+2023-03-18 10:51:55,563 INFO: ~/.Xresources file not found
+2023-03-18 10:51:55,611 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1136x640.png -> 9a78d47e449284734910570b7fdf53bc.png
+2023-03-18 10:51:55,628 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1136x640_Portrait.png -> 8a9c5e5ab9add0ac2192e0ab4699325a.png
+2023-03-18 10:51:55,651 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1366x768.png -> 8ace5ebf5ec9ae66a4dfce215fe66e1c.png
+2023-03-18 10:51:55,686 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png -> 9839f4a7cbf1ccf008f95982fdcf879c.png
+2023-03-18 10:51:55,724 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_2048x1536.png -> ee3c9b734d6a198c6ce6892a0c1cde0d.png
+2023-03-18 10:51:55,757 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_2048x1536_Portrait.png -> 25de5f2a70fc61051874c31335847665.png
+2023-03-18 10:51:55,777 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_768x1024.png -> 695ab214589d3a5a425b700c08414215.png
+2023-03-18 10:51:55,792 INFO: New thumb: /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_768x1024_Portrait.png -> e7fbb1a176b3c87d3b5e1ddc42179708.png
