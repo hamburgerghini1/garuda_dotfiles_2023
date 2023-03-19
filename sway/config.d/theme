@@ -9,13 +9,21 @@ gaps outer 5
 default_border pixel 1
 
 # Default Font
-font pango:Noto Sans Regular 10
+font pango:Helvetica Neue 13px
 
 # Thin borders:
 smart_borders on
 
 # Set wallpaper:
 exec ~/.azotebg
+
+# Corners
+corner_radius 10
+
+# Shadows
+shadows on
+shadow_blur_radius 20
+shadow_color #eeeeee22
 
 # Title format for windows
 for_window [shell="xdg_shell"] title_format "%title (%app_id)"

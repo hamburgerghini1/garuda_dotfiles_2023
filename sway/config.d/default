@@ -216,7 +216,4 @@ bindsym F10 exec playerctl --ignore-player=firefox,brave volume 1-
 #
 # Screenshots
 #
-    bindsym print exec /usr/share/sway/scripts/grimshot --notify save output
-    bindsym Shift+print exec ~/.config/sway/scripts/screenshot.sh
-    bindsym Alt+print exec /usr/share/sway/scripts/grimshot --notify copy area
-
+    bindsym Print exec  /usr/bin/sway-interactive-screenshot

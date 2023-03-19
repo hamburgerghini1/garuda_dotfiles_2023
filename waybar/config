@@ -6,7 +6,7 @@
     // Choose the order of the modules idle_inhibitor
     "modules-left": ["custom/launcher","sway/workspaces", "sway/mode"],
     "modules-center": ["sway/window"],
-    "modules-right": ["backlight", "custom/keyboard-layout", "custom/spotify", "pulseaudio", "tray", "idle_inhibitor", "clock", "custom/power"], 
+    "modules-right": ["backlight", "custom/keyboard-layout", "custom/spotify", "tray", "clock"], 
     
  // Modules configuration
  
