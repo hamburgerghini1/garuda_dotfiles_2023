@@ -51,20 +51,20 @@ font-family: Ubuntu Mono;
 
 #input {
 border: none;
-background-color: @base10;
+background-color: rgba (0,0,0,0.6);
 border-radius: 0px;
 margin: 4px 4px 8px 4px;
 padding: 8px;
 }
 
 #inner-box {
-color: @base04;
+color: rgba (255,0,0,0.5);
 border-radius: 0px;
 /* margin-right: 180px; */
 }
 
 #outer-box {
-background-color: @base00;
+background-color: rgba (0,0,0,0.5);
 border-radius: 0px;
 border: 1px solid #474747;
 padding: 10px;
