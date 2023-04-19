@@ -27,9 +27,9 @@ exec swayidle -w\
     timeout 770 'swaymsg "output * dpms off"' \
     resume 'swaymsg "output * dpms on"' \
     before-sleep 'swaylock -C ~/.config/swaylock/config'
-# This will lock your screen after 300 seconds of inactivity, then turn off
-# your displays after another 300 seconds, and turn your screens back on when
-# resumed. It will also lock your screen before your computer goes to sleep.
+### This will lock your screen after 300 seconds of inactivity, then turn off
+### your displays after another 300 seconds, and turn your screens back on when
+### resumed. It will also lock your screen before your computer goes to sleep.
 
 ## Lock Screen
  bindsym $mod+f1 exec ~/.config/sway/scripts/lockman.sh
@@ -211,9 +211,19 @@ bindsym F10 exec playerctl --ignore-player=firefox,brave volume 1-
 #
 # App shortcuts
 #
-    bindsym $mod+n exec thunar
     bindsym $mod+o exec firefox
 #
 # Screenshots
 #
     bindsym Print exec  /usr/bin/sway-interactive-screenshot
+
+
+#
+# Ciderbar
+#
+bindsym $mod+m [class="Cider"] scratchpad show
+bindsym $mod+Ctrl+p exec cider-polybar -a playpause
+bindsym $mod+Shift+v exec cider-polybar -a volume -v -0.02
+bindsym $mod+Ctrl+v exec  cider-polybar -a volume -v 0.02
+bindsym $mod+n exec cider-polybar -a next
+bindsym $mod+Ctrl+ n exec cider-polybar -a previous

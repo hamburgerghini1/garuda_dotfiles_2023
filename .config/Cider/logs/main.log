@@ -1,0 +1,183 @@
+[2023-04-19 13:16:26.147] [info]  [AppEvents] App started
+[2023-04-19 13:16:26.391] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-19 13:16:26.463] [info]  [AppEvents] App ready
+[2023-04-19 13:16:26.463] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-19 13:16:26.849] [info]  Setting up handlers for local files
+[2023-04-19 13:16:26.850] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-19 13:16:26.871] [info]  WebSocketServer started on port: 26369
+[2023-04-19 13:16:26.874] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'updated',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-19 13:16:26.899] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    }
+  ]
+}
+[2023-04-19 13:16:26.900] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-19 13:16:26.900] [info]  Cider client port: 9000
+[2023-04-19 13:16:26.901] [info]  Cider remote port: 6942
+[2023-04-19 13:16:26.902] [info]  remote broadcasted
+[2023-04-19 13:16:27.535] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-19 13:22:44.311] [warn]  Cider exited.
+[2023-04-19 13:22:50.012] [info]  [AppEvents] App started
+[2023-04-19 13:22:50.245] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-19 13:22:50.318] [info]  [AppEvents] App ready
+[2023-04-19 13:22:50.319] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-19 13:22:50.327] [info]  Setting up handlers for local files
+[2023-04-19 13:22:50.329] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-19 13:22:50.350] [info]  WebSocketServer started on port: 26369
+[2023-04-19 13:22:50.353] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-19 13:22:50.382] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    }
+  ]
+}
+[2023-04-19 13:22:50.383] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-19 13:22:50.383] [info]  Cider client port: 9000
+[2023-04-19 13:22:50.385] [info]  Cider remote port: 6942
+[2023-04-19 13:22:50.386] [info]  remote broadcasted
+[2023-04-19 13:22:51.048] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-19 13:28:41.943] [warn]  Cider exited.
+[2023-04-19 13:33:05.523] [info]  [AppEvents] App started
+[2023-04-19 13:33:05.823] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-19 13:33:05.910] [info]  [AppEvents] App ready
+[2023-04-19 13:33:05.910] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-19 13:33:05.918] [info]  Setting up handlers for local files
+[2023-04-19 13:33:05.920] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-19 13:33:05.940] [info]  WebSocketServer started on port: 26369
+[2023-04-19 13:33:05.944] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-19 13:33:05.975] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    }
+  ]
+}
+[2023-04-19 13:33:05.976] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-19 13:33:05.976] [info]  Cider client port: 9000
+[2023-04-19 13:33:05.978] [info]  Cider remote port: 6942
+[2023-04-19 13:33:05.979] [info]  remote broadcasted
+[2023-04-19 13:33:06.680] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-19 13:33:16.734] [info]  [DiscordRPC][reload] Reloading DiscordRPC.
+[2023-04-19 13:33:16.950] [info]  [DiscordRPC][reload] DiscordRPC Reloaded.
+[2023-04-19 13:34:24.677] [error] [lastfm:authenticate] Error: Unauthorized Token - This token has not been issued
+[2023-04-19 13:36:30.568] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-19 13:36:41.688] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-19 13:49:48.821] [info]  {}
+[2023-04-19 13:53:30.650] [info]  {}
+[2023-04-19 13:53:55.344] [info]  Client c15da528-29ff-4c65-91df-7fdec6e4f915 connected
+[2023-04-19 13:57:21.516] [info]  {}
+[2023-04-19 14:00:55.474] [info]  {}
+[2023-04-19 14:04:09.918] [info]  {}
+[2023-04-19 14:07:40.892] [info]  {}
+[2023-04-19 14:11:31.359] [info]  {}
+[2023-04-19 14:14:44.552] [info]  {}
+[2023-04-19 14:17:59.708] [info]  {}
+[2023-04-19 14:21:22.201] [info]  {}

@@ -7,23 +7,20 @@
 	"modules-left": [
 		"sway/workspaces",
 		"custom/right-arrow-workspaces",
-		"custom/spotify",
+		"ciderbar",
+		"idle_inhibitor",
 	],
 	"modules-center": [
-		"custom/left-arrow-clock",
+		"sway/window",
 		"clock",
-		"custom/right-arrow-clock"
 	],
 	"modules-right": [
-		"custom-keyboard-layout",
-		"custom/left-arrow-modules",
 		"memory",
 		"cpu",
 		"temperature",
 		"disk",
 		"custom/pacman",
-		"battery",
-		"custom/left-arrow-tray",
+		"custom/keyboard-layout",
 		"tray",
 		"custom/exit"
 	],
@@ -73,14 +70,15 @@
 		"disable-scroll": false,
 		"format": "{name}"
 	},
-        "custom/spotify": {
-        "exec": "/usr/bin/python3 /home/tommi/.config/waybar/scripts/mediaplayer.py --player spotify",
-        "format": "{}  ",
-        "return-type": "json",
-        "on-click": "playerctl play-pause",
-        "on-scroll-up": "playerctl next",
-        "on-scroll-down": "playerctl previous"
-     },
+     
+     	"module/ciderbar": {
+		"type": "custom/script",
+		"exec": "cider-polybar -a get-currentmediaitem",
+		"scroll-up": "cider-polybar -a volume -v 0.01",
+		"scroll-down": "cider-polybar -a volume -v -0.01",
+		"interval": 0.3
+	},
+	
 	"clock": {
 		"format": "{:%a. %d | %H:%M}",
 		"tooltip": false,
@@ -179,7 +177,15 @@
     	       "on-click": "exec nwg-drawer -c 7 -is 70 -spacing 23",
     	       "tooltip": false,
 },
-	"custom/exit": {
+
+      "idle_inhibitor": {
+           "format": "{icon}",
+           "format-icons": {
+              "activated": "",
+              "deactivated": "",
+        }
+},
+    "custom/exit": {
 		"tooltip": false,
 		"format": "⏻",
 		"on-click": "swaymsg exit",

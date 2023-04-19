@@ -15,7 +15,7 @@ font pango:Helvetica Neue 13px
 smart_borders on
 
 # Set wallpaper:
-exec ~/.azotebg
+output "*" bg /home/tommi/Pictures/wallpaper.jpg fill
 
 # Corners
 corner_radius 10

@@ -1,0 +1,36 @@
+2023/04/19-13:33:05.905 110c Reusing MANIFEST /home/tommi/.config/Cider/Local Storage/leveldb/MANIFEST-000001
+2023/04/19-13:33:05.906 110c Recovering log #3
+2023/04/19-13:33:05.906 110c Reusing old log /home/tommi/.config/Cider/Local Storage/leveldb/000003.log 
+2023/04/19-13:57:25.997 3048 Level-0 table #5: started
+2023/04/19-13:57:26.000 3048 Level-0 table #5: 84742 bytes OK
+2023/04/19-13:57:26.001 3048 Delete type=0 #3
+2023/04/19-14:00:59.840 3048 Level-0 table #7: started
+2023/04/19-14:00:59.842 3048 Level-0 table #7: 75523 bytes OK
+2023/04/19-14:00:59.844 3048 Delete type=0 #4
+2023/04/19-14:04:14.274 3048 Level-0 table #9: started
+2023/04/19-14:04:14.276 3048 Level-0 table #9: 74723 bytes OK
+2023/04/19-14:04:14.278 3048 Delete type=0 #6
+2023/04/19-14:07:45.184 3048 Level-0 table #11: started
+2023/04/19-14:07:45.187 3048 Level-0 table #11: 73810 bytes OK
+2023/04/19-14:07:45.189 3048 Delete type=0 #8
+2023/04/19-14:11:35.746 4250 Level-0 table #13: started
+2023/04/19-14:11:35.749 4250 Level-0 table #13: 73476 bytes OK
+2023/04/19-14:11:35.750 4250 Delete type=0 #10
+2023/04/19-14:14:48.850 4848 Level-0 table #15: started
+2023/04/19-14:14:48.852 4848 Level-0 table #15: 73220 bytes OK
+2023/04/19-14:14:48.853 4848 Delete type=0 #12
+2023/04/19-14:14:48.853 4848 Compacting 4@0 + 1@1 files
+2023/04/19-14:14:48.856 4848 Generated table #16@0: 5 keys, 73301 bytes
+2023/04/19-14:14:48.856 4848 Compacted 4@0 + 1@1 files => 73301 bytes
+2023/04/19-14:14:48.858 4848 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/19-14:14:48.858 4848 Delete type=2 #7
+2023/04/19-14:14:48.858 4848 Delete type=2 #9
+2023/04/19-14:14:48.858 4848 Delete type=2 #11
+2023/04/19-14:14:48.858 4848 Delete type=2 #13
+2023/04/19-14:14:48.858 4848 Delete type=2 #15
+2023/04/19-14:18:04.084 4848 Level-0 table #18: started
+2023/04/19-14:18:04.086 4848 Level-0 table #18: 71892 bytes OK
+2023/04/19-14:18:04.087 4848 Delete type=0 #14
+2023/04/19-14:21:26.230 4848 Level-0 table #20: started
+2023/04/19-14:21:26.232 4848 Level-0 table #20: 71798 bytes OK
+2023/04/19-14:21:26.233 4848 Delete type=0 #17

@@ -1,39 +1,6 @@
-2023/03/19-11:34:30.961 bd9 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/03/19-11:34:30.961 bd9 Recovering log #32
-2023/03/19-11:34:30.961 bd9 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000032.log 
-2023/03/19-16:14:35.192 bdb Level-0 table #36: started
-2023/03/19-16:14:35.229 bdb Level-0 table #36: 1474520 bytes OK
-2023/03/19-16:14:35.230 bdb Delete type=0 #32
-2023/03/19-19:38:22.757 10979 Level-0 table #38: started
-2023/03/19-19:38:22.773 10979 Level-0 table #38: 1477121 bytes OK
-2023/03/19-19:38:22.774 10979 Delete type=0 #35
-2023/03/19-19:38:22.775 10979 Compacting 4@0 + 1@1 files
-2023/03/19-19:38:22.793 10979 Generated table #39@0: 87 keys, 1484503 bytes
-2023/03/19-19:38:22.793 10979 Compacted 4@0 + 1@1 files => 1484503 bytes
-2023/03/19-19:38:22.794 10979 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/19-19:38:22.794 10979 Delete type=2 #28
-2023/03/19-19:38:22.794 10979 Delete type=2 #30
-2023/03/19-19:38:22.794 10979 Delete type=2 #33
-2023/03/19-19:38:22.794 10979 Delete type=2 #36
-2023/03/19-19:38:22.794 10979 Delete type=2 #38
-2023/03/20-03:34:41.879 1451e Level-0 table #41: started
-2023/03/20-03:34:41.893 1451e Level-0 table #41: 1472031 bytes OK
-2023/03/20-03:34:41.895 1451e Delete type=0 #37
-2023/03/20-04:40:40.098 1451e Level-0 table #43: started
-2023/03/20-04:40:40.112 1451e Level-0 table #43: 1469741 bytes OK
-2023/03/20-04:40:40.113 1451e Delete type=0 #40
-2023/03/20-08:24:03.841 1451e Level-0 table #45: started
-2023/03/20-08:24:03.855 1451e Level-0 table #45: 1470195 bytes OK
-2023/03/20-08:24:03.856 1451e Delete type=0 #42
-2023/03/20-11:38:11.281 15f22 Level-0 table #47: started
-2023/03/20-11:38:11.293 15f22 Level-0 table #47: 1474651 bytes OK
-2023/03/20-11:38:11.294 15f22 Delete type=0 #44
-2023/03/20-11:38:11.294 15f22 Compacting 4@0 + 1@1 files
-2023/03/20-11:38:11.314 15f22 Generated table #48@0: 87 keys, 1487398 bytes
-2023/03/20-11:38:11.314 15f22 Compacted 4@0 + 1@1 files => 1487398 bytes
-2023/03/20-11:38:11.315 15f22 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/03/20-11:38:11.315 15f22 Delete type=2 #39
-2023/03/20-11:38:11.315 15f22 Delete type=2 #41
-2023/03/20-11:38:11.315 15f22 Delete type=2 #43
-2023/03/20-11:38:11.315 15f22 Delete type=2 #45
-2023/03/20-11:38:11.315 15f22 Delete type=2 #47
+2023/04/19-13:15:20.898 cc8 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/19-13:15:20.898 cc8 Recovering log #46
+2023/04/19-13:15:20.899 cc8 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000046.log 
+2023/04/19-13:17:23.938 1876 Level-0 table #51: started
+2023/04/19-13:17:23.952 1876 Level-0 table #51: 1565554 bytes OK
+2023/04/19-13:17:23.954 1876 Delete type=0 #46
