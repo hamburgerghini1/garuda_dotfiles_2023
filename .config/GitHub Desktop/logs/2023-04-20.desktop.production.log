@@ -1,0 +1,12 @@
+2023-04-20T09:27:53.079Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-20T09:27:53.084Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-04-20T09:27:53.114Z - info: [ui] [BranchPruner] Last prune took place 22 hours ago - skipping
+2023-04-20T09:27:53.211Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.11-zen1-1-zen)
+2023-04-20T09:27:53.212Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-20T09:27:53.482Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-04-20T09:27:58.612Z - info: [ui] Executing getChangesFiles: git log 05c60eeeb49608cf371c68c656c966807e62cb53 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 2.745s)
+2023-04-20T09:28:37.634Z - info: [ui] Executing unstageAll: git reset -- . (took 3.231s)
+2023-04-20T09:28:41.507Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 3.872s)
+2023-04-20T09:28:41.935Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 7.705s
+2023-04-20T09:28:44.166Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: sway_config - hamburgerghini1 (has token)
+2023-04-20T09:28:53.145Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 8.972s)
