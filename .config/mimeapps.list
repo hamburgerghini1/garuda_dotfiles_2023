@@ -32,3 +32,4 @@ text/x-csrc=org.gnome.gedit.desktop;
 application/x-executable=org.gnome.gedit.desktop;
 text/vnd.trolltech.linguist=org.gnome.gedit.desktop;
 application/x-theme=org.gnome.gedit.desktop;
+image/jpeg=org.gnome.eog.desktop;

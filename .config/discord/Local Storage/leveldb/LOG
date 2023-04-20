@@ -1,3 +1,11 @@
-2023/04/20-13:52:13.045 9b8 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/04/20-13:52:13.046 9b8 Recovering log #102
-2023/04/20-13:52:13.048 9b8 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000102.log 
+2023/04/20-22:55:02.128 c5b Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/20-22:55:02.128 c5b Recovering log #118
+2023/04/20-22:55:02.135 c5b Level-0 table #122: started
+2023/04/20-22:55:02.154 c5b Level-0 table #122: 1550070 bytes OK
+2023/04/20-22:55:02.156 c5b Delete type=0 #118
+2023/04/20-22:56:02.635 c5b Level-0 table #125: started
+2023/04/20-22:56:02.636 c5b Level-0 table #125: 14895 bytes OK
+2023/04/20-22:56:02.637 c5b Delete type=0 #123
+2023/04/20-22:58:08.566 c5b Level-0 table #127: started
+2023/04/20-22:58:08.580 c5b Level-0 table #127: 1552164 bytes OK
+2023/04/20-22:58:08.582 c5b Delete type=0 #124

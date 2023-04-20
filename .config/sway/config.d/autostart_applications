@@ -59,3 +59,6 @@ exec_always swayrd
 
 # playerctld
 exec playerctld daemon &
+
+# ly
+exec ly
