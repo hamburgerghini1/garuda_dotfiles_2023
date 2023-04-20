@@ -1358,3 +1358,225 @@
 2023-04-19T10:32:54.351Z [Modules] Host is up to date.
 2023-04-19T10:32:54.351Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 2023-04-19T10:32:54.354Z [Modules] No module updates available.
+2023-04-19T11:32:54.202Z [Modules] Checking for host updates.
+2023-04-19T11:32:54.378Z [Modules] Host is up to date.
+2023-04-19T11:32:54.378Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T11:32:54.396Z [Modules] No module updates available.
+2023-04-19T11:34:55.106Z [Modules] Modules initializing
+2023-04-19T11:34:55.106Z [Modules] Distribution: remote
+2023-04-19T11:34:55.106Z [Modules] Host updates: enabled
+2023-04-19T11:34:55.106Z [Modules] Module updates: enabled
+2023-04-19T11:34:55.106Z [Modules] Module install path: /home/tommi/.config/discord/0.0.26/modules
+2023-04-19T11:34:55.106Z [Modules] Module installed file path: /home/tommi/.config/discord/0.0.26/modules/installed.json
+2023-04-19T11:34:55.106Z [Modules] Module download path: /home/tommi/.config/discord/0.0.26/modules/pending
+2023-04-19T11:34:55.239Z [Modules] No updates to install
+2023-04-19T11:34:55.240Z [Modules] Checking for host updates.
+2023-04-19T11:34:55.456Z [Modules] Host is up to date.
+2023-04-19T11:34:55.456Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T11:34:55.458Z [Modules] No module updates available.
+2023-04-19T11:34:57.178Z [Modules] Checking for host updates.
+2023-04-19T11:34:57.345Z [Modules] Host is up to date.
+2023-04-19T11:34:57.345Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T11:34:57.347Z [Modules] No module updates available.
+2023-04-19T12:34:57.180Z [Modules] Checking for host updates.
+2023-04-19T12:34:57.373Z [Modules] Host is up to date.
+2023-04-19T12:34:57.373Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T12:34:57.391Z [Modules] No module updates available.
+2023-04-19T13:34:57.180Z [Modules] Checking for host updates.
+2023-04-19T13:34:57.876Z [Modules] Host is up to date.
+2023-04-19T13:34:57.876Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T13:34:57.906Z [Modules] No module updates available.
+2023-04-19T13:44:54.731Z [Modules] Modules initializing
+2023-04-19T13:44:54.731Z [Modules] Distribution: remote
+2023-04-19T13:44:54.731Z [Modules] Host updates: enabled
+2023-04-19T13:44:54.731Z [Modules] Module updates: enabled
+2023-04-19T13:44:54.731Z [Modules] Module install path: /home/tommi/.config/discord/0.0.26/modules
+2023-04-19T13:44:54.731Z [Modules] Module installed file path: /home/tommi/.config/discord/0.0.26/modules/installed.json
+2023-04-19T13:44:54.731Z [Modules] Module download path: /home/tommi/.config/discord/0.0.26/modules/pending
+2023-04-19T13:44:54.879Z [Modules] No updates to install
+2023-04-19T13:44:54.880Z [Modules] Checking for host updates.
+2023-04-19T13:44:55.084Z [Modules] Host is up to date.
+2023-04-19T13:44:55.084Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T13:44:55.106Z [Modules] No module updates available.
+2023-04-19T13:44:56.764Z [Modules] Checking for host updates.
+2023-04-19T13:44:56.939Z [Modules] Host is up to date.
+2023-04-19T13:44:56.939Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T13:44:56.941Z [Modules] No module updates available.
+2023-04-19T13:52:31.792Z [Modules] Modules initializing
+2023-04-19T13:52:31.793Z [Modules] Distribution: remote
+2023-04-19T13:52:31.793Z [Modules] Host updates: enabled
+2023-04-19T13:52:31.793Z [Modules] Module updates: enabled
+2023-04-19T13:52:31.793Z [Modules] Module install path: /home/tommi/.config/discord/0.0.26/modules
+2023-04-19T13:52:31.793Z [Modules] Module installed file path: /home/tommi/.config/discord/0.0.26/modules/installed.json
+2023-04-19T13:52:31.794Z [Modules] Module download path: /home/tommi/.config/discord/0.0.26/modules/pending
+2023-04-19T13:52:31.985Z [Modules] No updates to install
+2023-04-19T13:52:31.985Z [Modules] Checking for host updates.
+2023-04-19T13:52:32.199Z [Modules] Host is up to date.
+2023-04-19T13:52:32.199Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T13:52:32.218Z [Modules] No module updates available.
+2023-04-19T13:52:34.465Z [Modules] Checking for host updates.
+2023-04-19T13:52:34.622Z [Modules] Host is up to date.
+2023-04-19T13:52:34.622Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T13:52:34.626Z [Modules] No module updates available.
+2023-04-19T14:52:34.468Z [Modules] Checking for host updates.
+2023-04-19T14:52:34.658Z [Modules] Host is up to date.
+2023-04-19T14:52:34.658Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T14:52:34.681Z [Modules] No module updates available.
+2023-04-19T15:52:34.467Z [Modules] Checking for host updates.
+2023-04-19T15:52:34.672Z [Modules] Host is up to date.
+2023-04-19T15:52:34.672Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T15:52:34.709Z [Modules] No module updates available.
+2023-04-19T16:52:34.467Z [Modules] Checking for host updates.
+2023-04-19T16:52:34.625Z [Modules] Host is up to date.
+2023-04-19T16:52:34.625Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T16:52:34.651Z [Modules] No module updates available.
+2023-04-19T16:56:31.846Z [Modules] Modules initializing
+2023-04-19T16:56:31.846Z [Modules] Distribution: remote
+2023-04-19T16:56:31.846Z [Modules] Host updates: enabled
+2023-04-19T16:56:31.846Z [Modules] Module updates: enabled
+2023-04-19T16:56:31.847Z [Modules] Module install path: /home/tommi/.config/discord/0.0.26/modules
+2023-04-19T16:56:31.847Z [Modules] Module installed file path: /home/tommi/.config/discord/0.0.26/modules/installed.json
+2023-04-19T16:56:31.847Z [Modules] Module download path: /home/tommi/.config/discord/0.0.26/modules/pending
+2023-04-19T16:56:32.001Z [Modules] No updates to install
+2023-04-19T16:56:32.002Z [Modules] Checking for host updates.
+2023-04-19T16:56:32.250Z [Modules] Host is up to date.
+2023-04-19T16:56:32.250Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T16:56:32.269Z [Modules] No module updates available.
+2023-04-19T16:56:34.593Z [Modules] Checking for host updates.
+2023-04-19T16:56:34.752Z [Modules] Host is up to date.
+2023-04-19T16:56:34.752Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T16:56:34.754Z [Modules] No module updates available.
+2023-04-19T17:56:34.595Z [Modules] Checking for host updates.
+2023-04-19T17:56:34.749Z [Modules] Host is up to date.
+2023-04-19T17:56:34.749Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T17:56:34.774Z [Modules] Module update available: discord_utils@2 [installed: 1]
+2023-04-19T17:56:34.774Z [Modules] Fetching discord_utils@2 from https://discord.com/api/modules/stable/discord_utils/2
+2023-04-19T17:56:34.775Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip
+2023-04-19T17:56:34.963Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 1%
+2023-04-19T17:56:34.967Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 3%
+2023-04-19T17:56:34.969Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 5%
+2023-04-19T17:56:34.969Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 6%
+2023-04-19T17:56:34.972Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 8%
+2023-04-19T17:56:34.972Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 9%
+2023-04-19T17:56:34.973Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 11%
+2023-04-19T17:56:34.974Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 14%
+2023-04-19T17:56:34.975Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 16%
+2023-04-19T17:56:34.976Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 18%
+2023-04-19T17:56:34.976Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 19%
+2023-04-19T17:56:34.976Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 22%
+2023-04-19T17:56:34.977Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 23%
+2023-04-19T17:56:34.977Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 25%
+2023-04-19T17:56:34.978Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 27%
+2023-04-19T17:56:34.979Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 29%
+2023-04-19T17:56:34.980Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 31%
+2023-04-19T17:56:34.980Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 32%
+2023-04-19T17:56:34.980Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 33%
+2023-04-19T17:56:34.981Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 35%
+2023-04-19T17:56:34.982Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 36%
+2023-04-19T17:56:34.982Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 39%
+2023-04-19T17:56:34.982Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 41%
+2023-04-19T17:56:34.983Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 42%
+2023-04-19T17:56:34.983Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 43%
+2023-04-19T17:56:34.983Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 44%
+2023-04-19T17:56:34.984Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 46%
+2023-04-19T17:56:34.985Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 48%
+2023-04-19T17:56:34.985Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 51%
+2023-04-19T17:56:34.986Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 53%
+2023-04-19T17:56:34.986Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 54%
+2023-04-19T17:56:34.987Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 56%
+2023-04-19T17:56:34.987Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 58%
+2023-04-19T17:56:34.988Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 61%
+2023-04-19T17:56:34.988Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 63%
+2023-04-19T17:56:34.989Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 65%
+2023-04-19T17:56:34.990Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 66%
+2023-04-19T17:56:34.990Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 69%
+2023-04-19T17:56:34.990Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 70%
+2023-04-19T17:56:34.991Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 72%
+2023-04-19T17:56:34.991Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 73%
+2023-04-19T17:56:34.992Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 76%
+2023-04-19T17:56:34.993Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 78%
+2023-04-19T17:56:34.993Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 79%
+2023-04-19T17:56:34.993Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 81%
+2023-04-19T17:56:34.994Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 83%
+2023-04-19T17:56:34.995Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 84%
+2023-04-19T17:56:34.995Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 86%
+2023-04-19T17:56:34.996Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 88%
+2023-04-19T17:56:34.996Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 89%
+2023-04-19T17:56:34.996Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 91%
+2023-04-19T17:56:34.997Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 92%
+2023-04-19T17:56:34.998Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 95%
+2023-04-19T17:56:34.999Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 97%
+2023-04-19T17:56:34.999Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 99%
+2023-04-19T17:56:35.000Z [Modules] Streaming discord_utils@2 to /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip: 100%
+2023-04-19T17:56:35.001Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2023-04-19T19:30:53.539Z [Modules] Relaunching to install module updates...
+2023-04-19T19:30:53.973Z [Modules] Modules initializing
+2023-04-19T19:30:53.973Z [Modules] Distribution: remote
+2023-04-19T19:30:53.973Z [Modules] Host updates: enabled
+2023-04-19T19:30:53.974Z [Modules] Module updates: enabled
+2023-04-19T19:30:53.974Z [Modules] Module install path: /home/tommi/.config/discord/0.0.26/modules
+2023-04-19T19:30:53.974Z [Modules] Module installed file path: /home/tommi/.config/discord/0.0.26/modules/installed.json
+2023-04-19T19:30:53.974Z [Modules] Module download path: /home/tommi/.config/discord/0.0.26/modules/pending
+2023-04-19T19:30:54.106Z [Modules] Installing updates...
+2023-04-19T19:30:54.107Z [Modules] Installing discord_utils@2 from /home/tommi/.config/discord/0.0.26/modules/pending/discord_utils-2.zip
+2023-04-19T19:30:54.381Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-04-19T19:30:54.381Z [Modules] Checking for host updates.
+2023-04-19T19:30:54.586Z [Modules] Host is up to date.
+2023-04-19T19:30:54.586Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T19:30:54.623Z [Modules] No module updates available.
+2023-04-19T19:30:56.917Z [Modules] Checking for host updates.
+2023-04-19T19:30:57.081Z [Modules] Host is up to date.
+2023-04-19T19:30:57.081Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T19:30:57.083Z [Modules] No module updates available.
+2023-04-19T20:30:56.919Z [Modules] Checking for host updates.
+2023-04-19T20:30:57.093Z [Modules] Host is up to date.
+2023-04-19T20:30:57.093Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T20:30:57.110Z [Modules] No module updates available.
+2023-04-19T21:30:56.925Z [Modules] Checking for host updates.
+2023-04-19T21:30:57.118Z [Modules] Host is up to date.
+2023-04-19T21:30:57.118Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T21:30:57.138Z [Modules] No module updates available.
+2023-04-19T22:30:56.923Z [Modules] Checking for host updates.
+2023-04-19T22:30:57.097Z [Modules] Host is up to date.
+2023-04-19T22:30:57.098Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T22:30:57.119Z [Modules] No module updates available.
+2023-04-19T23:30:56.925Z [Modules] Checking for host updates.
+2023-04-19T23:30:57.098Z [Modules] Host is up to date.
+2023-04-19T23:30:57.098Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-19T23:30:57.120Z [Modules] No module updates available.
+2023-04-20T00:30:56.923Z [Modules] Checking for host updates.
+2023-04-20T00:30:57.102Z [Modules] Host is up to date.
+2023-04-20T00:30:57.102Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T00:30:57.120Z [Modules] No module updates available.
+2023-04-20T01:30:56.918Z [Modules] Checking for host updates.
+2023-04-20T01:30:57.101Z [Modules] Host is up to date.
+2023-04-20T01:30:57.101Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T01:30:57.124Z [Modules] No module updates available.
+2023-04-20T02:30:56.919Z [Modules] Checking for host updates.
+2023-04-20T02:30:57.091Z [Modules] Host is up to date.
+2023-04-20T02:30:57.091Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T02:30:57.108Z [Modules] No module updates available.
+2023-04-20T03:30:56.923Z [Modules] Checking for host updates.
+2023-04-20T03:30:57.087Z [Modules] Host is up to date.
+2023-04-20T03:30:57.088Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T03:30:57.121Z [Modules] No module updates available.
+2023-04-20T04:30:56.923Z [Modules] Checking for host updates.
+2023-04-20T04:30:57.102Z [Modules] Host is up to date.
+2023-04-20T04:30:57.102Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T04:30:57.130Z [Modules] No module updates available.
+2023-04-20T05:30:56.923Z [Modules] Checking for host updates.
+2023-04-20T05:30:57.099Z [Modules] Host is up to date.
+2023-04-20T05:30:57.099Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T05:30:57.123Z [Modules] No module updates available.
+2023-04-20T06:30:56.923Z [Modules] Checking for host updates.
+2023-04-20T06:30:57.117Z [Modules] Host is up to date.
+2023-04-20T06:30:57.118Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T06:30:57.148Z [Modules] No module updates available.
+2023-04-20T07:30:56.919Z [Modules] Checking for host updates.
+2023-04-20T07:30:57.109Z [Modules] Host is up to date.
+2023-04-20T07:30:57.110Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T07:30:57.147Z [Modules] No module updates available.
+2023-04-20T08:30:56.919Z [Modules] Checking for host updates.
+2023-04-20T08:30:57.099Z [Modules] Host is up to date.
+2023-04-20T08:30:57.100Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-20T08:30:57.128Z [Modules] No module updates available.

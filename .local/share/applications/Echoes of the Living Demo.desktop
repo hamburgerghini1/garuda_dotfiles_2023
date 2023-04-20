@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Echoes of the Living Demo
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/2308010
-Icon=steam_icon_2308010
-Terminal=false
-Type=Application
-Categories=Game;

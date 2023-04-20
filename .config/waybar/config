@@ -15,6 +15,7 @@
 		"clock",
 	],
 	"modules-right": [
+		"custom/pipewire",
 		"memory",
 		"cpu",
 		"temperature",
@@ -77,6 +78,19 @@
 		"scroll-up": "cider-polybar -a volume -v 0.01",
 		"scroll-down": "cider-polybar -a volume -v -0.01",
 		"interval": 0.3
+	},
+
+
+	"custom/pipewire": {
+    		"exec": "pw-volume status",
+    		"return-type": "json",
+    		"interval": "once",
+   	 	"signal": 8,
+    		"format": "{icon} {percentage}",
+    		"format-icons": {
+        	"mute": "",
+        	"default": ["󰕿", "󰖀", "󰕾"]
+		}
 	},
 	
 	"clock": {

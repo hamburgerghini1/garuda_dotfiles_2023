@@ -1,6 +1,45 @@
-2023/04/19-13:15:20.898 cc8 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/04/19-13:15:20.898 cc8 Recovering log #46
-2023/04/19-13:15:20.899 cc8 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000046.log 
-2023/04/19-13:17:23.938 1876 Level-0 table #51: started
-2023/04/19-13:17:23.952 1876 Level-0 table #51: 1565554 bytes OK
-2023/04/19-13:17:23.954 1876 Delete type=0 #46
+2023/04/19-19:56:31.855 9b2 Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/19-19:56:31.855 9b2 Recovering log #69
+2023/04/19-19:56:31.856 9b2 Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000069.log 
+2023/04/19-19:57:32.368 9b3 Level-0 table #74: started
+2023/04/19-19:57:32.371 9b3 Level-0 table #74: 18647 bytes OK
+2023/04/19-19:57:32.374 9b3 Delete type=0 #69
+2023/04/19-19:58:32.359 9b3 Level-0 table #76: started
+2023/04/19-19:58:32.398 9b3 Level-0 table #76: 1543550 bytes OK
+2023/04/19-19:58:32.399 9b3 Delete type=0 #73
+2023/04/19-20:22:13.994 2793 Level-0 table #78: started
+2023/04/19-20:22:13.995 2793 Level-0 table #78: 18118 bytes OK
+2023/04/19-20:22:13.997 2793 Delete type=0 #75
+2023/04/19-20:22:29.027 9b3 Level-0 table #80: started
+2023/04/19-20:22:29.028 9b3 Level-0 table #80: 15410 bytes OK
+2023/04/19-20:22:29.029 9b3 Delete type=0 #77
+2023/04/19-20:22:29.029 9b3 Compacting 4@0 + 1@1 files
+2023/04/19-20:22:29.043 9b3 Generated table #81@0: 93 keys, 1570704 bytes
+2023/04/19-20:22:29.043 9b3 Compacted 4@0 + 1@1 files => 1570704 bytes
+2023/04/19-20:22:29.044 9b3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/19-20:22:29.044 9b3 Delete type=2 #71
+2023/04/19-20:22:29.044 9b3 Delete type=2 #74
+2023/04/19-20:22:29.044 9b3 Delete type=2 #76
+2023/04/19-20:22:29.044 9b3 Delete type=2 #78
+2023/04/19-20:22:29.044 9b3 Delete type=2 #80
+2023/04/19-20:24:44.176 2b19 Level-0 table #83: started
+2023/04/19-20:24:44.178 2b19 Level-0 table #83: 15418 bytes OK
+2023/04/19-20:24:44.179 2b19 Delete type=0 #79
+2023/04/19-20:24:59.216 9b3 Level-0 table #85: started
+2023/04/19-20:24:59.217 9b3 Level-0 table #85: 15449 bytes OK
+2023/04/19-20:24:59.218 9b3 Delete type=0 #82
+2023/04/19-20:25:44.290 2b19 Level-0 table #87: started
+2023/04/19-20:25:44.291 2b19 Level-0 table #87: 15487 bytes OK
+2023/04/19-20:25:44.292 2b19 Delete type=0 #84
+2023/04/19-22:18:58.651 4e47 Level-0 table #89: started
+2023/04/19-22:18:58.652 4e47 Level-0 table #89: 16247 bytes OK
+2023/04/19-22:18:58.653 4e47 Delete type=0 #86
+2023/04/19-22:18:58.653 4e47 Compacting 4@0 + 1@1 files
+2023/04/19-22:18:58.669 4e47 Generated table #90@0: 93 keys, 1570781 bytes
+2023/04/19-22:18:58.669 4e47 Compacted 4@0 + 1@1 files => 1570781 bytes
+2023/04/19-22:18:58.671 4e47 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/19-22:18:58.671 4e47 Delete type=2 #81
+2023/04/19-22:18:58.671 4e47 Delete type=2 #83
+2023/04/19-22:18:58.671 4e47 Delete type=2 #85
+2023/04/19-22:18:58.671 4e47 Delete type=2 #87
+2023/04/19-22:18:58.671 4e47 Delete type=2 #89

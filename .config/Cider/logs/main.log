@@ -181,3 +181,21 @@
 [2023-04-19 14:14:44.552] [info]  {}
 [2023-04-19 14:17:59.708] [info]  {}
 [2023-04-19 14:21:22.201] [info]  {}
+[2023-04-19 14:25:00.950] [info]  {}
+[2023-04-19 14:28:27.150] [info]  {}
+[2023-04-19 14:31:39.350] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-19 14:31:39.503] [info]  {}
+[2023-04-19 14:34:49.074] [info]  {}
+[2023-04-19 14:38:19.530] [info]  {}
+[2023-04-19 14:41:20.545] [info]  {}
+[2023-04-19 14:45:07.750] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-19 14:45:07.907] [info]  {}
+[2023-04-19 14:48:06.531] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-19 14:48:06.688] [info]  {}
+[2023-04-19 14:48:06.832] [error] [lastfm:updateNowPlaying] Now Playing Update failed: Invalid parameters - Your request is missing a required parameter
+[2023-04-19 14:49:33.321] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-19 14:51:01.851] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-19 14:51:02.002] [info]  {}
+[2023-04-19 14:51:02.225] [error] [lastfm:updateNowPlaying] Now Playing Update failed: Invalid parameters - Your request is missing a required parameter
+[2023-04-19 14:52:31.064] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-19 14:53:31.730] [warn]  Cider exited.

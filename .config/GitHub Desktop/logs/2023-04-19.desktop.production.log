@@ -7,3 +7,59 @@
 2023-04-19T11:22:39.347Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/sway_config.git - hamburgerghini1 (has token)
 2023-04-19T11:22:57.005Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/sway_config.git /home/tommi/Asiakirjat/GitHub/sway_config (took 17.648s)
 2023-04-19T11:22:57.032Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2023-04-19T11:24:25.690Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: sway_config - hamburgerghini1 (has token)
+2023-04-19T11:24:26.885Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 5.2s of which 0.0s paused, total 5.2s
+2023-04-19T11:26:30.409Z - info: [ui] Executing unstageAll: git reset -- . (took 1.414s)
+2023-04-19T11:26:40.250Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 9.840s)
+2023-04-19T11:26:40.304Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'tommi@garuda-sway.(none)')
+
+2023-04-19T11:26:40.305Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 11.593s
+2023-04-19T11:26:51.887Z - info: [ui] [AppStore] removing account hamburgerghini1 (hamburgerghini1) from store
+2023-04-19T11:26:51.891Z - info: [ui] Unubscribed 'hamburgerghini1' from Alive channel
+2023-04-19T11:26:53.573Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-04-19T11:26:53.577Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=d0ed36fc-9774-40e9-a0e9-30eaff5eaa90
+2023-04-19T11:27:00.194Z - info: [main] Received possible protocol arguments: 3
+2023-04-19T11:27:00.194Z - info: [main] Processing protocol url
+2023-04-19T11:27:00.200Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-04-19T11:27:00.252Z - info: [main] Received possible protocol arguments: 2
+2023-04-19T11:27:00.254Z - info: [main] Processing protocol url
+2023-04-19T11:27:00.933Z - info: [ui] [SignInStore] account resolved
+2023-04-19T11:27:00.933Z - info: [ui] [AppStore] adding account hamburgerghini1 (hamburgerghini1) to store
+2023-04-19T11:27:01.325Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-04-19T11:27:22.780Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 2.020s)
+2023-04-19T11:27:22.816Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'tommi@garuda-sway.(none)')
+
+2023-04-19T11:27:22.816Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 2.342s
+2023-04-19T11:28:27.616Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 2.037s)
+2023-04-19T11:28:30.055Z - info: [ui] Executing createCommit: git commit -F - (took 2.420s)
+2023-04-19T11:28:30.095Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 4.785s
+2023-04-19T11:28:32.950Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: sway_config - hamburgerghini1 (has token)
+2023-04-19T11:28:56.443Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 23.491s)

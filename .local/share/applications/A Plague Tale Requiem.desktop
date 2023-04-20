@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=A Plague Tale: Requiem
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/1182900
-Icon=steam_icon_1182900
-Terminal=false
-Type=Application
-Categories=Game;

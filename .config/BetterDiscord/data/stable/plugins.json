@@ -1,1 +1,8 @@
-{}
+{
+    "Timezones": true,
+    "WriteUpperCase": true,
+    "BetterNsfwTag": true,
+    "BlurNSFW": true,
+    "ZeresPluginLibrary": true,
+    "BDFDB": true
+}
