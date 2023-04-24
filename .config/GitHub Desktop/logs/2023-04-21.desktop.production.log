@@ -1,0 +1,61 @@
+2023-04-21T19:07:03.993Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-21T19:07:03.998Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-04-21T19:07:04.029Z - info: [ui] [BranchPruner] Last prune took place 23 hours ago - skipping
+2023-04-21T19:07:04.490Z - warn: [ui] Error refreshing account 'hamburgerghini1'
+Error: Cannot update an account which doesn't have a token: hamburgerghini1
+    at Je (/home/tommi/webpack:/app/src/lib/fatal-error.ts:3:9)
+    at /home/tommi/webpack:/app/src/lib/stores/accounts-store.ts:214:12
+    at Zn.tryUpdateAccount (/home/tommi/webpack:/app/src/lib/stores/accounts-store.ts:134:20)
+    at /home/tommi/webpack:/app/src/lib/stores/accounts-store.ts:114:37
+    at Array.map (<anonymous>)
+    at Zn.refresh (/home/tommi/webpack:/app/src/lib/stores/accounts-store.ts:114:21)
+    at Zn.loadInitialState (/home/tommi/webpack:/app/src/lib/stores/app-store.ts:2118:24)
+2023-04-21T19:07:04.550Z - warn: [ui] fetchRepository: 'hamburgerghini1/sway_config' returned a 404
+2023-04-21T19:07:04.551Z - warn: [ui] fetchMentionables: 'repos/hamburgerghini1/sway_config/mentionables/users' returned a 404
+2023-04-21T19:07:04.551Z - warn: [ui] fetchAll: 'repos/hamburgerghini1/sway_config/issues?state=open' returned a 404
+2023-04-21T19:07:04.556Z - info: [ui] [fetchProtectedBranches] unable to list protected branches
+Error: Not Found
+    at Dt (/home/tommi/webpack:/app/src/lib/http.ts:178:11)
+    at vn.fetchProtectedBranches (/home/tommi/webpack:/app/src/lib/api.ts:1548:7)
+    at Zn.updateBranchProtectionsFromAPI (/home/tommi/webpack:/app/src/lib/stores/app-store.ts:3969:11)
+2023-04-21T19:07:04.719Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-04-21T19:07:04.784Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.11-zen1-1-zen)
+2023-04-21T19:07:04.785Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-21T19:07:04.903Z - warn: [ui] fetchAll: 'repos/hamburgerghini1/sway_config/pulls?state=open' returned a 404
+2023-04-21T19:07:05.012Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-04-21T19:07:05.049Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-04-21T19:07:05.195Z - warn: [ui] Alive channel request failed: Error: Not Found
+2023-04-21T19:07:30.058Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-21T19:07:30.061Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-04-21T19:07:30.092Z - info: [ui] [BranchPruner] Last prune took place 23 hours ago - skipping
+2023-04-21T19:07:30.238Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.11-zen1-1-zen)
+2023-04-21T19:07:30.241Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-21T19:07:30.505Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-04-21T19:09:12.769Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: sway_config - hamburgerghini1 (has token)
+2023-04-21T19:09:33.398Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 16.979s)
+2023-04-21T19:09:33.888Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 17.495s
+2023-04-21T19:09:33.907Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-04-21T19:09:35.512Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: sway_config - hamburgerghini1 (has token)
+2023-04-21T19:10:24.360Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 48.816s)
+2023-04-21T19:11:21.377Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-21T19:11:21.381Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-04-21T19:11:21.401Z - info: [ui] [BranchPruner] Last prune took place 23 hours ago - skipping
+2023-04-21T19:11:21.480Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.11-zen1-1-zen)
+2023-04-21T19:11:21.482Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-21T19:11:21.805Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-04-21T19:12:04.006Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/garuda_dotfiles_2023.git - hamburgerghini1 (has token)
+2023-04-21T19:13:24.763Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/garuda_dotfiles_2023.git /home/tommi/GitHub/garuda_dotfiles_2023 (took 80.749s)
+2023-04-21T19:13:24.770Z - info: [ui] [AppStore] adding repository at /home/tommi/GitHub/garuda_dotfiles_2023 to store
+2023-04-21T19:22:44.875Z - info: [ui] [AppStore] loading 2 repositories from store
+2023-04-21T19:22:44.878Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-04-21T19:22:44.906Z - info: [ui] [BranchPruner] Last prune took place 9 minutes ago - skipping
+2023-04-21T19:22:45.012Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.11-zen1-1-zen)
+2023-04-21T19:22:45.013Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-21T19:22:45.291Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-04-21T19:47:40.382Z - info: [ui] [AppStore] loading 2 repositories from store
+2023-04-21T19:47:40.385Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-04-21T19:47:40.411Z - info: [ui] [BranchPruner] Last prune took place 34 minutes ago - skipping
+2023-04-21T19:47:40.500Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.11-zen1-1-zen)
+2023-04-21T19:47:40.500Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-21T19:47:40.811Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel

@@ -27,3 +27,62 @@
 2023-04-20T19:58:02.441Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
 2023-04-20T19:58:02.533Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
 2023-04-20T19:58:02.833Z - info: [ui] Stats reported.
+2023-04-20T19:59:54.572Z - info: [ui] Executing unstageAll: git reset -- . (took 4.100s)
+2023-04-20T19:59:55.322Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+warning: in the working copy of '.config/discord/modules.log', CRLF will be replaced by LF the next time Git touches it
+error: open("etc/.pwd.lock"): Permission denied
+fatal: Unable to process path etc/.pwd.lock
+
+2023-04-20T19:59:55.323Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 4.911s
+2023-04-20T20:00:43.073Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+warning: in the working copy of '.config/discord/modules.log', CRLF will be replaced by LF the next time Git touches it
+error: open("etc/.pwd.lock"): Permission denied
+fatal: Unable to process path etc/.pwd.lock
+
+2023-04-20T20:00:43.073Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 0.213s
+2023-04-20T20:01:34.101Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+warning: in the working copy of '.config/discord/modules.log', CRLF will be replaced by LF the next time Git touches it
+error: open("etc/audit/audisp-remote.conf"): Permission denied
+fatal: Unable to process path etc/audit/audisp-remote.conf
+
+2023-04-20T20:01:34.101Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 0.219s
+2023-04-20T20:01:52.920Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+warning: in the working copy of '.config/discord/modules.log', CRLF will be replaced by LF the next time Git touches it
+error: open("etc/audit/zos-remote.conf"): Permission denied
+fatal: Unable to process path etc/audit/zos-remote.conf
+
+2023-04-20T20:01:52.920Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 0.222s
+2023-04-20T20:02:08.012Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+warning: in the working copy of '.config/discord/modules.log', CRLF will be replaced by LF the next time Git touches it
+error: open("etc/audit/zos-remote.conf"): Permission denied
+fatal: Unable to process path etc/audit/zos-remote.conf
+
+2023-04-20T20:02:08.013Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 0.216s
+2023-04-20T20:02:26.458Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+warning: in the working copy of '.config/discord/modules.log', CRLF will be replaced by LF the next time Git touches it
+error: open("etc/crypttab"): Permission denied
+fatal: Unable to process path etc/crypttab
+
+2023-04-20T20:02:26.458Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 0.267s
+2023-04-20T20:02:43.678Z - error: [ui] `git update-index --add --remove --replace -z --stdin` exited with an unexpected code: 128.
+stderr:
+warning: in the working copy of '.config/discord/modules.log', CRLF will be replaced by LF the next time Git touches it
+error: open("etc/default/useradd"): Permission denied
+fatal: Unable to process path etc/default/useradd
+
+2023-04-20T20:02:43.678Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 0.227s
+2023-04-20T20:07:07.702Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-20T20:07:07.706Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-04-20T20:07:07.732Z - info: [ui] [BranchPruner] Last prune took place 9 minutes ago - skipping
+2023-04-20T20:07:08.188Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-04-20T20:07:08.189Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.2.11-zen1-1-zen)
+2023-04-20T20:07:08.189Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-04-20T20:07:25.209Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/sway_config' took 0.328s
+2023-04-20T20:07:26.841Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: sway_config - hamburgerghini1 (has token)
+2023-04-20T20:07:30.908Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 4.062s)

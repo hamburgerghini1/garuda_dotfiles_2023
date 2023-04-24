@@ -199,3 +199,1455 @@
 [2023-04-19 14:51:02.225] [error] [lastfm:updateNowPlaying] Now Playing Update failed: Invalid parameters - Your request is missing a required parameter
 [2023-04-19 14:52:31.064] [error] [lastfm] [album.getInfo] Error: Album not found
 [2023-04-19 14:53:31.730] [warn]  Cider exited.
+[2023-04-21 11:33:39.980] [info]  [AppEvents] App started
+[2023-04-21 11:33:40.281] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-21 11:33:40.369] [info]  [AppEvents] App ready
+[2023-04-21 11:33:40.369] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-21 11:33:40.382] [info]  Setting up handlers for local files
+[2023-04-21 11:33:40.385] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-21 11:33:40.408] [info]  WebSocketServer started on port: 26369
+[2023-04-21 11:33:40.413] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-21 11:33:40.444] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-21 11:33:40.445] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-21 11:33:40.445] [info]  Cider client port: 9000
+[2023-04-21 11:33:40.446] [info]  Cider remote port: 6942
+[2023-04-21 11:33:40.448] [info]  remote broadcasted
+[2023-04-21 11:33:41.187] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-21 11:33:44.072] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-21 11:33:44.224] [info]  {}
+[2023-04-21 11:33:44.365] [error] [lastfm:updateNowPlaying] Now Playing Update failed: Invalid parameters - Your request is missing a required parameter
+[2023-04-21 11:35:23.716] [info]  [AppEvents] App started
+[2023-04-21 11:35:23.988] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-21 11:35:24.063] [info]  [AppEvents] App ready
+[2023-04-21 11:35:24.064] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-21 11:35:24.075] [info]  Setting up handlers for local files
+[2023-04-21 11:35:24.077] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=46047
+[2023-04-21 11:35:24.104] [info]  WebSocketServer started on port: 26369
+[2023-04-21 11:35:24.107] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-21 11:35:24.108] [info]  [InstanceHandler] (second-instance) Instance started with /usr/bin/cider,--enable-crashpad,--allow-file-access-from-files,--secure-schemes,--bypasscsp-schemes=sentry-ipc,--cors-schemes=sentry-ipc,--fetch-schemes=sentry-ipc,--service-worker-schemes,--standard-schemes,--streaming-schemes,--js-flags=--max-old-space-size=350,--js-flags=--expose_gc,--enable-accelerated-mjpeg-decode,--enable-accelerated-video,--disable-gpu-driver-bug-workarounds,--ignore-gpu-blacklist,--enable-native-gpu-memory-buffers,--enable-accelerated-video-decode,--enable-gpu-rasterization,--enable-native-gpu-memory-buffers,--enable-oop-rasterization,--disable-features=MediaSessionService,--enable-features=UseOzonePlatform,--ozone-platform=x11
+[2023-04-21 11:35:24.109] [info]  /usr/bin/cider
+[2023-04-21 11:35:24.122] [info]  --enable-crashpad
+[2023-04-21 11:35:24.134] [info]  --allow-file-access-from-files
+[2023-04-21 11:35:24.145] [info]  --secure-schemes
+[2023-04-21 11:35:24.162] [info]  --bypasscsp-schemes=sentry-ipc
+[2023-04-21 11:35:24.173] [info]  --cors-schemes=sentry-ipc
+[2023-04-21 11:35:24.185] [info]  --fetch-schemes=sentry-ipc
+[2023-04-21 11:35:24.196] [info]  --service-worker-schemes
+[2023-04-21 11:35:24.207] [info]  --standard-schemes
+[2023-04-21 11:35:24.221] [info]  --streaming-schemes
+[2023-04-21 11:35:24.232] [info]  --js-flags=--max-old-space-size=350
+[2023-04-21 11:35:24.243] [info]  --js-flags=--expose_gc
+[2023-04-21 11:35:24.260] [info]  --enable-accelerated-mjpeg-decode
+[2023-04-21 11:35:24.274] [info]  --enable-accelerated-video
+[2023-04-21 11:35:24.286] [info]  --disable-gpu-driver-bug-workarounds
+[2023-04-21 11:35:24.297] [info]  --ignore-gpu-blacklist
+[2023-04-21 11:35:24.309] [info]  --enable-native-gpu-memory-buffers
+[2023-04-21 11:35:24.320] [info]  --enable-accelerated-video-decode
+[2023-04-21 11:35:24.341] [info]  --enable-gpu-rasterization
+[2023-04-21 11:35:24.353] [info]  --enable-native-gpu-memory-buffers
+[2023-04-21 11:35:24.365] [info]  --enable-oop-rasterization
+[2023-04-21 11:35:24.377] [info]  --disable-features=MediaSessionService
+[2023-04-21 11:35:24.388] [info]  --enable-features=UseOzonePlatform
+[2023-04-21 11:35:24.400] [info]  --ozone-platform=x11
+[2023-04-21 11:35:24.412] [info]  [Cider] Another instance has been found, quitting.
+[2023-04-21 11:35:24.413] [warn]  Cider exited.
+[2023-04-21 11:35:24.439] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-21 11:35:24.440] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-21 11:35:24.440] [info]  Cider client port: 46047
+[2023-04-21 11:35:24.453] [info]  Cider remote port: 43939
+[2023-04-21 11:35:24.455] [info]  remote broadcasted
+[2023-04-21 11:35:27.305] [warn]  Cider exited.
+[2023-04-21 11:35:31.718] [info]  [AppEvents] App started
+[2023-04-21 11:35:31.964] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-21 11:35:32.042] [info]  [AppEvents] App ready
+[2023-04-21 11:35:32.042] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-21 11:35:32.054] [info]  Setting up handlers for local files
+[2023-04-21 11:35:32.060] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-21 11:35:32.089] [info]  WebSocketServer started on port: 26369
+[2023-04-21 11:35:32.098] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-21 11:35:32.128] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-21 11:35:32.129] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-21 11:35:32.130] [info]  Cider client port: 9000
+[2023-04-21 11:35:32.131] [info]  Cider remote port: 6942
+[2023-04-21 11:35:32.132] [info]  remote broadcasted
+[2023-04-21 11:35:32.784] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-21 11:35:35.210] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-21 11:35:35.363] [info]  {}
+[2023-04-21 11:35:35.508] [error] [lastfm:updateNowPlaying] Now Playing Update failed: Invalid parameters - Your request is missing a required parameter
+[2023-04-21 11:45:25.950] [warn]  Cider exited.
+[2023-04-21 11:45:29.913] [info]  [AppEvents] App started
+[2023-04-21 11:45:30.165] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-21 11:45:30.244] [info]  [AppEvents] App ready
+[2023-04-21 11:45:30.244] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-21 11:45:30.253] [info]  Setting up handlers for local files
+[2023-04-21 11:45:30.255] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-21 11:45:30.275] [info]  WebSocketServer started on port: 26369
+[2023-04-21 11:45:30.278] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-21 11:45:30.305] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-21 11:45:30.306] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-21 11:45:30.306] [info]  Cider client port: 9000
+[2023-04-21 11:45:30.308] [info]  Cider remote port: 6942
+[2023-04-21 11:45:30.309] [info]  remote broadcasted
+[2023-04-21 11:45:30.972] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-21 11:45:33.628] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-21 11:45:33.779] [info]  {}
+[2023-04-21 11:45:33.976] [error] [lastfm:updateNowPlaying] Now Playing Update failed: Invalid parameters - Your request is missing a required parameter
+[2023-04-21 11:48:49.298] [info]  [AppEvents] App started
+[2023-04-21 11:48:49.644] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-21 11:48:49.899] [info]  [AppEvents] App ready
+[2023-04-21 11:48:49.900] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-21 11:48:49.915] [info]  Setting up handlers for local files
+[2023-04-21 11:48:49.917] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=43659
+[2023-04-21 11:48:50.006] [info]  WebSocketServer started on port: 26369
+[2023-04-21 11:48:50.021] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-21 11:48:50.024] [info]  [InstanceHandler] (second-instance) Instance started with /tmp/.mount_Cider-SnyRdM/cider,--enable-crashpad,--allow-file-access-from-files,--secure-schemes,--bypasscsp-schemes=sentry-ipc,--cors-schemes=sentry-ipc,--fetch-schemes=sentry-ipc,--service-worker-schemes,--standard-schemes,--streaming-schemes,--js-flags=--max-old-space-size=350,--js-flags=--expose_gc,--enable-accelerated-mjpeg-decode,--enable-accelerated-video,--disable-gpu-driver-bug-workarounds,--ignore-gpu-blacklist,--enable-native-gpu-memory-buffers,--enable-accelerated-video-decode,--enable-gpu-rasterization,--enable-native-gpu-memory-buffers,--enable-oop-rasterization,--disable-features=MediaSessionService,--enable-features=UseOzonePlatform,--ozone-platform=x11
+[2023-04-21 11:48:50.024] [info]  /tmp/.mount_Cider-SnyRdM/cider
+[2023-04-21 11:48:50.028] [info]  --enable-crashpad
+[2023-04-21 11:48:50.031] [info]  --allow-file-access-from-files
+[2023-04-21 11:48:50.034] [info]  --secure-schemes
+[2023-04-21 11:48:50.036] [info]  --bypasscsp-schemes=sentry-ipc
+[2023-04-21 11:48:50.038] [info]  --cors-schemes=sentry-ipc
+[2023-04-21 11:48:50.040] [info]  --fetch-schemes=sentry-ipc
+[2023-04-21 11:48:50.042] [info]  --service-worker-schemes
+[2023-04-21 11:48:50.044] [info]  --standard-schemes
+[2023-04-21 11:48:50.046] [info]  --streaming-schemes
+[2023-04-21 11:48:50.049] [info]  --js-flags=--max-old-space-size=350
+[2023-04-21 11:48:50.051] [info]  --js-flags=--expose_gc
+[2023-04-21 11:48:50.053] [info]  --enable-accelerated-mjpeg-decode
+[2023-04-21 11:48:50.055] [info]  --enable-accelerated-video
+[2023-04-21 11:48:50.056] [info]  --disable-gpu-driver-bug-workarounds
+[2023-04-21 11:48:50.059] [info]  --ignore-gpu-blacklist
+[2023-04-21 11:48:50.060] [info]  --enable-native-gpu-memory-buffers
+[2023-04-21 11:48:50.063] [info]  --enable-accelerated-video-decode
+[2023-04-21 11:48:50.065] [info]  --enable-gpu-rasterization
+[2023-04-21 11:48:50.067] [info]  --enable-native-gpu-memory-buffers
+[2023-04-21 11:48:50.069] [info]  --enable-oop-rasterization
+[2023-04-21 11:48:50.071] [info]  --disable-features=MediaSessionService
+[2023-04-21 11:48:50.073] [info]  --enable-features=UseOzonePlatform
+[2023-04-21 11:48:50.075] [info]  --ozone-platform=x11
+[2023-04-21 11:48:50.077] [info]  [Cider] Another instance has been found, quitting.
+[2023-04-21 11:48:50.078] [warn]  Cider exited.
+[2023-04-21 11:48:50.119] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-21 11:48:50.120] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-21 11:48:50.120] [info]  Cider client port: 43659
+[2023-04-21 11:48:50.134] [info]  Cider remote port: 33187
+[2023-04-21 11:48:50.135] [info]  remote broadcasted
+[2023-04-21 11:49:00.465] [warn]  Cider exited.
+[2023-04-21 11:49:06.511] [info]  [AppEvents] App started
+[2023-04-21 11:49:06.856] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-21 11:49:07.119] [info]  [AppEvents] App ready
+[2023-04-21 11:49:07.120] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-21 11:49:07.137] [info]  Setting up handlers for local files
+[2023-04-21 11:49:07.139] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-21 11:49:07.209] [info]  WebSocketServer started on port: 26369
+[2023-04-21 11:49:07.244] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-21 11:49:07.290] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-21 11:49:07.291] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-21 11:49:07.291] [info]  Cider client port: 9000
+[2023-04-21 11:49:07.293] [info]  Cider remote port: 6942
+[2023-04-21 11:49:07.294] [info]  remote broadcasted
+[2023-04-21 11:49:08.146] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-21 11:49:10.650] [error] [lastfm] [album.getInfo] Error: Album not found
+[2023-04-21 11:49:10.803] [info]  {}
+[2023-04-21 11:49:10.946] [error] [lastfm:updateNowPlaying] Now Playing Update failed: Invalid parameters - Your request is missing a required parameter
+[2023-04-21 11:50:57.111] [info]  {}
+[2023-04-21 11:54:11.834] [info]  {}
+[2023-04-21 11:57:16.188] [info]  {}
+[2023-04-21 11:57:49.950] [info]  {}
+[2023-04-21 12:01:05.604] [info]  {}
+[2023-04-21 12:04:51.046] [info]  {}
+[2023-04-21 12:07:46.945] [info]  {}
+[2023-04-21 12:12:02.122] [info]  {}
+[2023-04-21 12:12:41.067] [info]  {}
+[2023-04-21 12:16:03.192] [info]  {}
+[2023-04-21 12:16:28.788] [warn]  Cider exited.
+[2023-04-21 12:16:34.228] [info]  [AppEvents] App started
+[2023-04-21 12:16:34.584] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-21 12:16:34.847] [info]  [AppEvents] App ready
+[2023-04-21 12:16:34.847] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-21 12:16:34.867] [info]  Setting up handlers for local files
+[2023-04-21 12:16:34.869] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-21 12:16:34.942] [info]  WebSocketServer started on port: 26369
+[2023-04-21 12:16:34.969] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-21 12:16:35.012] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-21 12:16:35.013] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-21 12:16:35.013] [info]  Cider client port: 9000
+[2023-04-21 12:16:35.015] [info]  Cider remote port: 6942
+[2023-04-21 12:16:35.016] [info]  remote broadcasted
+[2023-04-21 12:16:35.853] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-21 12:16:38.388] [info]  {}
+[2023-04-21 12:19:32.399] [info]  {}
+[2023-04-21 12:22:35.323] [info]  {}
+[2023-04-21 12:25:51.042] [info]  {}
+[2023-04-21 12:28:53.632] [info]  {}
+[2023-04-21 13:34:23.191] [warn]  Cider exited.
+[2023-04-22 10:57:46.637] [info]  [AppEvents] App started
+[2023-04-22 10:57:46.966] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-22 10:57:47.221] [info]  [AppEvents] App ready
+[2023-04-22 10:57:47.222] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-22 10:57:47.239] [info]  Setting up handlers for local files
+[2023-04-22 10:57:47.240] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-22 10:57:47.308] [info]  WebSocketServer started on port: 26369
+[2023-04-22 10:57:47.340] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-22 10:57:47.386] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-22 10:57:47.387] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-22 10:57:47.387] [info]  Cider client port: 9000
+[2023-04-22 10:57:47.389] [info]  Cider remote port: 6942
+[2023-04-22 10:57:47.390] [info]  remote broadcasted
+[2023-04-22 10:57:48.208] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-22 10:57:50.552] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 10:57:50.553] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 10:57:50.553] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+(Use `cider --trace-warnings ...` to show where the warning was created)
+[2023-04-22 10:57:50.553] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+[2023-04-22 10:57:51.409] [info]  {}
+[2023-04-22 10:57:57.345] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 10:57:57.346] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 10:57:57.346] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 10:57:57.346] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+[2023-04-22 10:57:59.090] [info]  {}
+[2023-04-22 11:00:59.306] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:00:59.307] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:00:59.308] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:00:59.309] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+[2023-04-22 11:00:59.758] [info]  {}
+[2023-04-22 11:03:58.372] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:03:58.373] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:03:58.373] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:03:58.374] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 7)
+[2023-04-22 11:03:59.036] [info]  {}
+[2023-04-22 11:06:41.185] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:06:41.186] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:06:41.186] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:06:41.186] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 8)
+[2023-04-22 11:06:42.289] [info]  {}
+[2023-04-22 11:09:58.823] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:09:58.823] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:09:58.824] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:09:58.824] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 9)
+[2023-04-22 11:09:59.376] [info]  {}
+[2023-04-22 11:13:02.612] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-22 11:13:09.100] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:13:09.100] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:13:09.100] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:13:09.100] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 10)
+[2023-04-22 11:13:09.604] [info]  {}
+[2023-04-22 11:13:14.727] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-22 11:17:36.503] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:17:36.503] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:17:36.503] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:17:36.503] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 11)
+[2023-04-22 11:17:36.944] [info]  {}
+[2023-04-22 11:20:51.968] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:20:51.968] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:20:51.969] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:20:51.969] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 12)
+[2023-04-22 11:20:52.460] [info]  {}
+[2023-04-22 11:22:46.070] [info]  Client 4b954c67-d0d7-4493-b2d6-45c19cfddc17 connected
+[2023-04-22 11:22:50.573] [info]  Client e4784f23-dff0-46fa-b53f-ff60506daced connected
+[2023-04-22 11:22:58.481] [info]  Client c5f25eda-5169-4180-8696-5468ffe35107 connected
+[2023-04-22 11:24:01.976] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:24:01.976] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:24:01.976] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:24:01.976] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 13)
+[2023-04-22 11:24:02.828] [info]  {}
+[2023-04-22 11:24:43.757] [info]  Client 477ba08f-93b0-4923-bfc9-51a44bb3e6cd connected
+[2023-04-22 11:24:50.062] [info]  Client b1859c14-35b3-477f-84e9-07b4cfc9f74f connected
+[2023-04-22 11:24:56.357] [info]  Client ac096324-565c-42c2-a249-c28bfc57e072 connected
+[2023-04-22 11:25:02.672] [info]  Client c8d2b6ba-343a-4403-a801-88f1ea60235c connected
+[2023-04-22 11:25:08.948] [info]  Client b47f727d-2d82-4c35-ae1d-6db6cc873c46 connected
+[2023-04-22 11:25:15.247] [info]  Client d3c88c48-0284-42e2-8742-74f47d7c71e2 connected
+[2023-04-22 11:25:21.555] [info]  Client f8a885f2-7e83-4dcd-a970-2576d9ff60de connected
+[2023-04-22 11:25:27.859] [info]  Client f34e1c4b-08c9-47d4-9bff-4901115825e6 connected
+[2023-04-22 11:25:34.136] [info]  Client 10c4f962-32fc-43a4-9c34-8b6a74860ff0 connected
+[2023-04-22 11:25:40.417] [info]  Client 85d17d94-161d-46d7-bff7-8cb2ead58edd connected
+[2023-04-22 11:25:46.699] [info]  Client d094b758-4c0e-47a4-99f5-a2619c6e6a8e connected
+[2023-04-22 11:25:52.977] [info]  Client 8158a2be-b865-43ee-95b9-e7cc5683fe9e connected
+[2023-04-22 11:25:59.257] [info]  Client ee6c1fd0-655a-4377-aaef-a239d41e9d4f connected
+[2023-04-22 11:26:05.535] [info]  Client 7f7f6690-f81a-496e-b4a9-a60b9542b27e connected
+[2023-04-22 11:26:11.810] [info]  Client c347aac2-65fc-44f2-8bc8-00934e66fd8b connected
+[2023-04-22 11:26:18.130] [info]  Client d0f4d2f5-141a-449f-96a8-65e7b6b7dacb connected
+[2023-04-22 11:26:24.437] [info]  Client 23d529bc-0f41-4fcd-843a-14f3e8434954 connected
+[2023-04-22 11:26:30.734] [info]  Client 228d7888-6ae5-4d24-bbbc-33738e2699b6 connected
+[2023-04-22 11:26:37.049] [info]  Client 5b756275-bc25-459c-98f1-3130b836a71f connected
+[2023-04-22 11:26:43.316] [info]  Client c7f4a112-e1a9-4205-a37f-e0441c4f8717 connected
+[2023-04-22 11:26:49.609] [info]  Client 08a7849c-c6d2-4aab-8c80-610119644e47 connected
+[2023-04-22 11:26:55.894] [info]  Client 9234dbfd-8611-4f38-9e9e-173125d0164b connected
+[2023-04-22 11:26:59.086] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:26:59.086] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:26:59.086] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:26:59.086] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 14)
+[2023-04-22 11:26:59.821] [info]  {}
+[2023-04-22 11:27:02.209] [info]  Client 013e3aad-4f03-4623-99f8-db3d00b161b7 connected
+[2023-04-22 11:27:08.475] [info]  Client 06dea30f-0114-41df-8336-1bc1ae6977e5 connected
+[2023-04-22 11:27:14.787] [info]  Client f3d1c006-4637-49e3-8349-3025499dc2b2 connected
+[2023-04-22 11:27:21.073] [info]  Client 14e1fc84-7bad-4a48-8b31-5d0cfac0ac0d connected
+[2023-04-22 11:27:27.347] [info]  Client 91859816-7cf7-4ff4-84b6-ab01795625bd connected
+[2023-04-22 11:27:33.659] [info]  Client e46098b5-2d84-4d72-82f9-769314f19a5c connected
+[2023-04-22 11:27:39.938] [info]  Client 436e123a-2b70-44b6-8998-729d5ee4158c connected
+[2023-04-22 11:27:46.246] [info]  Client af6d08d3-9174-4016-b0cc-24f597ea0d28 connected
+[2023-04-22 11:27:52.540] [info]  Client 1337fabd-5f01-45b1-82d5-bb8285b16963 connected
+[2023-04-22 11:27:58.848] [info]  Client e5529324-3ed6-4826-930f-adf88183bd71 connected
+[2023-04-22 11:28:05.183] [info]  Client ed9aa6c3-3531-4432-a499-171588fe28a8 connected
+[2023-04-22 11:28:11.491] [info]  Client 3ed1faed-89dd-4e6a-aa80-56688493253b connected
+[2023-04-22 11:28:17.783] [info]  Client 9311b46f-b180-4f98-8697-5ec1b6fd79da connected
+[2023-04-22 11:28:24.109] [info]  Client f355cbfa-8362-4ade-b1fa-fcb6f145fca8 connected
+[2023-04-22 11:28:30.385] [info]  Client b349cec0-3998-4201-a842-1d3a93fd6e7d connected
+[2023-04-22 11:28:36.671] [info]  Client 28119dc1-3dc9-4b28-97c0-4b09582232a0 connected
+[2023-04-22 11:28:42.968] [info]  Client 38039046-82bd-462b-9bc1-c0b88a2be04f connected
+[2023-04-22 11:28:49.299] [info]  Client 51d6eae7-aa98-43a3-8e9c-5358abcbb3ad connected
+[2023-04-22 11:28:55.637] [info]  Client b6463059-3bc4-4b34-9c93-3709c018a2c9 connected
+[2023-04-22 11:29:01.954] [info]  Client 4f71bf33-f737-43ba-8f0d-404e9b37654c connected
+[2023-04-22 11:29:08.532] [info]  Client 51ed6ec3-fb92-4b2e-843f-dfb815e7ab5c connected
+[2023-04-22 11:29:14.829] [info]  Client bce01ffc-918a-4873-b571-4abd0662f3c9 connected
+[2023-04-22 11:29:21.154] [info]  Client 5536bc77-52bb-40af-bbf3-4d7c17e037b8 connected
+[2023-04-22 11:29:27.436] [info]  Client 8fe3edf7-d4e3-4749-9db7-ff1e70cca094 connected
+[2023-04-22 11:29:33.738] [info]  Client e02f9346-5f1d-4ee8-ab81-d1f209b3b66f connected
+[2023-04-22 11:29:40.069] [info]  Client 1fa82f93-48a4-4544-8a4b-4758db8237bb connected
+[2023-04-22 11:29:46.344] [info]  Client be0851e9-627c-4b62-b8c0-4d71a3a6d27a connected
+[2023-04-22 11:30:11.057] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:30:11.058] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:30:11.059] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:30:11.060] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 15)
+[2023-04-22 11:30:11.521] [info]  {}
+[2023-04-22 11:32:00.389] [info]  Client 64e7c8fb-00c2-4faa-a07e-e03536394aa0 connected
+[2023-04-22 11:32:06.710] [info]  Client 4e41f657-48bc-41da-b7de-da2b938979a3 connected
+[2023-04-22 11:32:12.995] [info]  Client 0091ab23-0989-4fd7-ba2a-fe320ea0e960 connected
+[2023-04-22 11:32:14.347] [info]  Client 6bbe8916-1802-4dcd-8bbc-b5dd4aa95220 connected
+[2023-04-22 11:32:20.671] [info]  Client 26a882db-285d-4a78-b9ae-b47bcbb78629 connected
+[2023-04-22 11:32:26.960] [info]  Client eae64716-34a9-45d7-a8e6-a3d31130d369 connected
+[2023-04-22 11:32:33.285] [info]  Client f277fed3-b528-4102-8b2b-66f0406d4861 connected
+[2023-04-22 11:32:39.590] [info]  Client 743a882c-0987-4038-9332-35c123d5631a connected
+[2023-04-22 11:32:44.939] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-22 11:32:44.939] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:32:44.939] [error] (node:46076) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-tyfkWX/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-22 11:32:44.939] [error] (node:46076) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 16)
+[2023-04-22 11:32:45.521] [info]  {}
+[2023-04-22 11:32:45.872] [info]  Client 89b756f2-7041-47a1-807e-c773b62b3a33 connected
+[2023-04-22 11:32:52.168] [info]  Client d22eb6ea-8fc7-4119-ae86-e92e55769895 connected
+[2023-04-22 11:32:58.495] [info]  Client adfa7253-fcac-4210-b020-aa65f646e1b0 connected
+[2023-04-22 11:33:04.826] [info]  Client ce2db4b3-a936-490d-bc07-1875e4c3b5ef connected
+[2023-04-22 11:33:11.112] [info]  Client 636dbb3d-2ebc-4025-9417-2c188367529b connected
+[2023-04-22 11:33:17.381] [info]  Client 2b0339ca-6ffc-4e66-9bf2-438eb2e307ca connected
+[2023-04-22 11:33:23.687] [info]  Client a6eee51b-e48e-46eb-9225-26945bbe8d67 connected
+[2023-04-22 11:33:30.017] [info]  Client f90d01b8-fb05-4809-a27a-c9eba57ab68d connected
+[2023-04-22 11:33:36.300] [info]  Client 139e7c2a-86e8-4ba0-b3c5-5e25ea258131 connected
+[2023-04-22 11:33:42.634] [info]  Client a459b762-0fb1-4e70-97b6-c53f3f17928e connected
+[2023-04-22 11:33:48.920] [info]  Client b40d65a0-e3ee-4631-9ec4-b9a473bd5f1b connected
+[2023-04-22 11:33:55.216] [info]  Client 9a9b4856-3ec4-4c43-946c-321bcbe95e50 connected
+[2023-04-22 11:34:01.507] [info]  Client 227d325b-b868-4da9-9725-5dfcc9166f03 connected
+[2023-04-22 11:34:07.795] [info]  Client a678663d-8e34-4d14-8e24-ee30c6b38e30 connected
+[2023-04-22 11:34:14.114] [info]  Client d6977020-4707-483a-a04a-43b5c3601800 connected
+[2023-04-22 11:34:20.440] [info]  Client 88988863-7405-4111-843c-810524e6bcfb connected
+[2023-04-22 11:34:26.710] [info]  Client 40f96238-bff0-4d55-b0f4-21270af79ac9 connected
+[2023-04-22 11:34:33.006] [info]  Client b17c81a2-75f9-4ade-a28d-1e5cd3eeddbc connected
+[2023-04-22 11:34:39.333] [info]  Client f2d58e64-d8aa-4b2c-be28-93fba8c7cac8 connected
+[2023-04-22 11:34:45.606] [info]  Client e1c3f28c-024e-450f-9706-0d34369dad17 connected
+[2023-04-22 11:34:51.932] [info]  Client fefb1660-461e-4c6b-8628-5a6c611d201e connected
+[2023-04-22 11:34:58.213] [info]  Client 13711f84-693f-4f4a-86fa-a94cd2bf8884 connected
+[2023-04-22 11:35:04.542] [info]  Client db046754-5d12-4674-a8e0-ead6bc240395 connected
+[2023-04-22 11:35:10.816] [info]  Client bdf3aae1-c8e6-4f6a-b3e5-87f6daf1638c connected
+[2023-04-22 11:35:17.101] [info]  Client 8e2e852e-b14f-4c4d-9c71-03ecdbf19c9f connected
+[2023-04-22 11:35:23.386] [info]  Client 5166ee29-6c64-433c-807a-e4824be5fcd9 connected
+[2023-04-22 11:35:25.248] [warn]  Cider exited.
+[2023-04-24 12:15:50.828] [info]  [AppEvents] App started
+[2023-04-24 12:15:51.174] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'playbackNotifications.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2023-04-24 12:15:51.441] [info]  [AppEvents] App ready
+[2023-04-24 12:15:51.441] [info]  [Cider] Application is Ready. Creating Window.
+[2023-04-24 12:15:51.456] [info]  Setting up handlers for local files
+[2023-04-24 12:15:51.458] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2023-04-24 12:15:51.546] [info]  WebSocketServer started on port: 26369
+[2023-04-24 12:15:51.585] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2557.0'
+  }
+}
+[2023-04-24 12:15:51.627] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 29663,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 9476,
+      gpuPreference: 0,
+      vendorId: 4318
+    }
+  ]
+}
+[2023-04-24 12:15:51.628] [info]  From here can you check for real changes, the initial scan has been completed.
+[2023-04-24 12:15:51.629] [info]  Cider client port: 9000
+[2023-04-24 12:15:51.630] [info]  Cider remote port: 6942
+[2023-04-24 12:15:51.631] [info]  remote broadcasted
+[2023-04-24 12:15:52.546] [info]  [DiscordRPC][connect] Successfully Connected to Discord. Authed for user: 875014785119445053.
+[2023-04-24 12:15:54.253] [info]  Client 22c901ee-fc47-4131-9368-bed8c98692a6 connected
+[2023-04-24 12:15:54.662] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:15:54.662] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:15:54.662] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+(Use `cider --trace-warnings ...` to show where the warning was created)
+[2023-04-24 12:15:54.663] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+[2023-04-24 12:15:55.388] [info]  {}
+[2023-04-24 12:16:00.519] [info]  Client 338eb485-b46f-4681-893d-50901ca1dade connected
+[2023-04-24 12:16:06.647] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:16:06.647] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:16:06.647] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:16:06.647] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+[2023-04-24 12:16:06.799] [info]  Client 16607f5d-fe1f-4c16-8f78-b709c90c3346 connected
+[2023-04-24 12:16:07.395] [info]  {}
+[2023-04-24 12:16:13.121] [info]  Client 0c340a5c-3a01-4a74-a25b-37bfa730a1cf connected
+[2023-04-24 12:16:19.442] [info]  Client 162d8742-44e0-4ce9-b8ba-f9bceb6f5268 connected
+[2023-04-24 12:16:25.763] [info]  Client f6c4e13e-ac43-44b3-bb39-ebe06c490fb3 connected
+[2023-04-24 12:16:32.082] [info]  Client 258a6032-aec5-446d-a270-4a61a39085a0 connected
+[2023-04-24 12:16:38.404] [info]  Client 8a8ee7c1-7937-403b-915c-a8001451fa24 connected
+[2023-04-24 12:16:44.715] [info]  Client 7f79dee7-04ca-4e1b-80f9-7d62e845d654 connected
+[2023-04-24 12:16:51.047] [info]  Client dfa37957-e17e-4d04-9913-326e622072ba connected
+[2023-04-24 12:16:57.361] [info]  Client 9f02a4bf-e357-4e69-a2f7-bc36fd1dc9fd connected
+[2023-04-24 12:17:03.678] [info]  Client 1e1eb9aa-ac5f-43c2-9efb-416fc38ce1f0 connected
+[2023-04-24 12:17:09.973] [info]  Client f775bb4b-623c-48d3-a650-27b4fee79b46 connected
+[2023-04-24 12:17:16.247] [info]  Client bd38e950-8a9d-4fdd-9dd3-edc91343fd43 connected
+[2023-04-24 12:17:22.557] [info]  Client 2c42ea8b-4770-4c26-b863-67ef3d41d479 connected
+[2023-04-24 12:17:28.869] [info]  Client ba4441f7-9531-4877-9ac2-c450e394ed3c connected
+[2023-04-24 12:17:35.183] [info]  Client 869d1692-7bed-4a74-aa26-9b002a9a8ed4 connected
+[2023-04-24 12:17:41.486] [info]  Client 3b5941f1-abd5-4d60-9493-2c043bdbd84a connected
+[2023-04-24 12:17:47.757] [info]  Client cca4e6df-e980-4c0e-bf35-f8e192118af5 connected
+[2023-04-24 12:17:54.083] [info]  Client 6e701749-0321-44f1-9cee-db781eb0f724 connected
+[2023-04-24 12:18:00.391] [info]  Client 68631f79-9ec4-4686-96e1-ba380ce02d41 connected
+[2023-04-24 12:18:06.658] [info]  Client b4d4a896-9ddd-4179-a890-2da75958a531 connected
+[2023-04-24 12:18:12.971] [info]  Client 4f139be5-e21d-44f9-8f68-a1aec3d87a67 connected
+[2023-04-24 12:18:19.291] [info]  Client 57fca442-d85c-4102-b880-cd1eb110ec38 connected
+[2023-04-24 12:18:25.610] [info]  Client add9d631-d535-431b-b39f-125c968a9739 connected
+[2023-04-24 12:18:31.890] [info]  Client 65c8fa68-a1b8-4efc-b2dd-5e317b43c3dd connected
+[2023-04-24 12:18:38.205] [info]  Client c8c44208-ddf2-45d6-8806-ca4d693c84df connected
+[2023-04-24 12:18:44.525] [info]  Client d29d63d2-639c-4e07-b8a2-5578f3080be5 connected
+[2023-04-24 12:18:51.037] [info]  Client 86dbb991-9be4-4aa0-ad0c-502459934c80 connected
+[2023-04-24 12:18:57.310] [info]  Client 8c06cf6d-e0f8-4fb2-8198-46ea754cc7c6 connected
+[2023-04-24 12:19:03.598] [info]  Client 65ea2e3c-a41c-4308-b402-badec9e15d20 connected
+[2023-04-24 12:19:09.869] [info]  Client 3bf83848-7591-4adc-b530-c62503753409 connected
+[2023-04-24 12:19:16.185] [info]  Client 62622ab2-5e13-43b6-b632-d7e881a477d0 connected
+[2023-04-24 12:19:22.503] [info]  Client d54babac-a60d-4253-b6b3-9cedecf56023 connected
+[2023-04-24 12:19:28.812] [info]  Client 34dc3a4e-98af-4799-9194-6bd5d5f1c23b connected
+[2023-04-24 12:19:35.087] [info]  Client f8a7b652-cac3-4f8f-893d-5391ac4e59d1 connected
+[2023-04-24 12:19:41.372] [info]  Client bd1ca605-c679-4dcc-a4c1-ae3e986796d6 connected
+[2023-04-24 12:19:41.736] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:19:41.736] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:19:41.736] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:19:41.737] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+[2023-04-24 12:19:42.369] [info]  {}
+[2023-04-24 12:19:47.643] [info]  Client 05c26524-5613-40d1-8f44-6a061261647a connected
+[2023-04-24 12:19:53.971] [info]  Client 5415de41-a669-4206-abd2-bd0a1d276e4f connected
+[2023-04-24 12:20:00.300] [info]  Client 2b107b7e-d191-4fab-80b0-65ecc0b328c4 connected
+[2023-04-24 12:20:06.573] [info]  Client 62014d97-030c-4c06-ab5d-7b7b99056744 connected
+[2023-04-24 12:20:12.842] [info]  Client 04a767eb-071b-4d3f-b1f1-63536368fdc9 connected
+[2023-04-24 12:20:19.116] [info]  Client 0aa1d11b-6127-477c-9906-9b3651f0da1b connected
+[2023-04-24 12:20:25.400] [info]  Client 586e0d12-e299-4aa4-9339-ed1cebe2179c connected
+[2023-04-24 12:20:31.669] [info]  Client 6a29db6f-41fe-4dbc-8845-f8f525cef4de connected
+[2023-04-24 12:20:37.989] [info]  Client ada36b91-ca1c-4ebb-af4e-712dd9ff44f2 connected
+[2023-04-24 12:20:44.302] [info]  Client 7812e4d8-0658-4eda-ae0d-40e9d8213447 connected
+[2023-04-24 12:20:50.576] [info]  Client 4a985f7e-df38-400e-8868-f9d8ff08fc7d connected
+[2023-04-24 12:20:56.895] [info]  Client 7c0a5325-42c0-49aa-b08b-7ebbf231e61d connected
+[2023-04-24 12:21:03.171] [info]  Client 5f3589d1-f0f7-4819-a488-9161328173cc connected
+[2023-04-24 12:21:09.447] [info]  Client 1b6712ae-2968-4841-90e2-a6816b03cfe2 connected
+[2023-04-24 12:21:15.774] [info]  Client adc3fd2b-dbd8-488c-952a-1aa9923967c0 connected
+[2023-04-24 12:21:22.094] [info]  Client dba3961e-d903-437c-b66d-2b9a688f0e70 connected
+[2023-04-24 12:21:28.376] [info]  Client 66320b75-1b4f-415e-a278-665cd4fbd476 connected
+[2023-04-24 12:21:34.661] [info]  Client 60d83694-d963-496f-9010-023d4aa44f90 connected
+[2023-04-24 12:21:40.990] [info]  Client c718a295-f329-4567-8369-7cda2ada5409 connected
+[2023-04-24 12:21:47.314] [info]  Client a9dc3314-7b4d-497e-8aa0-37a548a30f83 connected
+[2023-04-24 12:21:53.638] [info]  Client 34b98277-ea3b-4f80-9d1c-5e37e9ea5f14 connected
+[2023-04-24 12:21:59.906] [info]  Client 5a11a5a1-c7dc-4eb1-9388-a698ac121182 connected
+[2023-04-24 12:22:06.223] [info]  Client b93d50ca-b7a4-4838-901f-3428582ea628 connected
+[2023-04-24 12:22:12.550] [info]  Client d2aabd0f-ce39-4b64-bf78-429a55a8e28d connected
+[2023-04-24 12:22:18.842] [info]  Client 18f0a28d-d0cf-41ed-a551-d4f86c0981fe connected
+[2023-04-24 12:22:25.130] [info]  Client 632d420a-821f-43b4-871e-a46d7fca859e connected
+[2023-04-24 12:22:31.418] [info]  Client c6de203c-9d74-445e-9601-01576278df22 connected
+[2023-04-24 12:22:37.687] [info]  Client 131dd419-6adb-48d5-8e0a-014d6642c8e8 connected
+[2023-04-24 12:22:43.974] [info]  Client 3dfdc1ec-b6e8-4b53-b0ce-19e5762a1a5e connected
+[2023-04-24 12:22:50.261] [info]  Client 2b7c133b-1e1e-49b1-b8d3-57e4556476c0 connected
+[2023-04-24 12:22:56.574] [info]  Client d760b601-a5ca-4771-bf30-06392e9c0177 connected
+[2023-04-24 12:22:57.002] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:22:57.002] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:22:57.003] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:22:57.003] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 7)
+[2023-04-24 12:22:57.596] [info]  {}
+[2023-04-24 12:23:02.846] [info]  Client f1dbd503-0c45-47eb-9615-50bb6135ca0a connected
+[2023-04-24 12:23:09.168] [info]  Client 4ed85448-ecb0-43b4-8da3-f5df40add97f connected
+[2023-04-24 12:23:15.477] [info]  Client 7bca5e61-6cb7-4c45-bab1-5a1434ed7789 connected
+[2023-04-24 12:23:21.801] [info]  Client bbf560b0-3eba-4dc6-bac4-5c419a009eea connected
+[2023-04-24 12:23:28.071] [info]  Client 691f8446-e835-4767-a832-618965d834aa connected
+[2023-04-24 12:23:34.382] [info]  Client 923e5486-2e7c-41d8-94b1-68b05952c166 connected
+[2023-04-24 12:23:40.664] [info]  Client 51cdb517-0dca-4703-9646-55da65351e66 connected
+[2023-04-24 12:23:46.942] [info]  Client a7f5ee84-2c3f-4ce7-a4f6-3d35effa91b0 connected
+[2023-04-24 12:23:53.268] [info]  Client 4e45f78c-17ff-4f34-83b2-75becc508b81 connected
+[2023-04-24 12:23:59.607] [info]  Client 43c68a22-e431-4538-9c66-730cabd7b980 connected
+[2023-04-24 12:24:05.927] [info]  Client e6866a87-efbe-49f8-913a-ea980479d77f connected
+[2023-04-24 12:24:12.200] [info]  Client e9dae9a2-56fc-4769-a67d-29655449325b connected
+[2023-04-24 12:24:18.517] [info]  Client 63f14e10-79ea-41ca-8418-2df33c43e2b9 connected
+[2023-04-24 12:24:24.841] [info]  Client 62f149de-1d04-4c27-88b4-f284be66a6a0 connected
+[2023-04-24 12:24:31.159] [info]  Client ce87e5e6-b909-455b-a396-260ad0d923a7 connected
+[2023-04-24 12:24:37.439] [info]  Client 828c6399-2067-4940-878b-f94e051b0833 connected
+[2023-04-24 12:24:43.774] [info]  Client 2348ec84-7cc2-4d99-b874-b7302056906f connected
+[2023-04-24 12:24:50.093] [info]  Client db589968-4ef2-47ff-a7e4-2efb2a9df7f6 connected
+[2023-04-24 12:24:56.366] [info]  Client b9212485-0dc3-465f-9f51-7d09d6c41606 connected
+[2023-04-24 12:25:02.637] [info]  Client 29cbea92-eb58-4841-ba0f-21b06b822344 connected
+[2023-04-24 12:25:08.906] [info]  Client 5319370b-7933-46ca-9eee-3be46eaf1b1f connected
+[2023-04-24 12:25:15.231] [info]  Client 77744dba-0f2c-4c7d-8557-906f318e9bfb connected
+[2023-04-24 12:25:21.509] [info]  Client eeca6b26-a8ac-4648-b8fd-522c866eecbd connected
+[2023-04-24 12:25:27.789] [info]  Client f73ce55b-bd3a-49e6-94de-4ccd570f9194 connected
+[2023-04-24 12:25:34.061] [info]  Client 8ee231a9-ebe1-447a-aa02-b7e54ea7bced connected
+[2023-04-24 12:25:40.332] [info]  Client 72cbea3e-f75f-4c04-b32a-d964a6f0f5d0 connected
+[2023-04-24 12:25:46.651] [info]  Client 477de446-8d7f-4696-afd6-8807a9ec83f4 connected
+[2023-04-24 12:25:52.965] [info]  Client 7645d5ae-084c-4de8-b0cc-0845d3d8f5b2 connected
+[2023-04-24 12:25:59.235] [info]  Client facb7a03-39af-465f-a646-dc95b11e1d3f connected
+[2023-04-24 12:26:05.514] [info]  Client 26f9b398-7e75-48e7-9934-7fbce90f1913 connected
+[2023-04-24 12:26:11.790] [info]  Client ea5194c8-0f80-42a1-baff-cc8a338b0ed9 connected
+[2023-04-24 12:26:18.060] [info]  Client dfb84bb4-a21f-4cce-873a-4f22d0d382c9 connected
+[2023-04-24 12:26:24.341] [info]  Client bd2cf8d4-6324-46c4-8224-48aa8521d197 connected
+[2023-04-24 12:26:27.906] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:26:27.906] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:26:27.906] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:26:27.907] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 8)
+[2023-04-24 12:26:28.501] [info]  {}
+[2023-04-24 12:26:30.608] [info]  Client 39071cf0-ae8c-48a0-ae18-620b2b16e9b0 connected
+[2023-04-24 12:26:36.885] [info]  Client ed72b4c9-c10f-4782-a3a7-0a4df92e45a8 connected
+[2023-04-24 12:26:43.161] [info]  Client 68d13887-6b12-46fa-ba7a-1e628f65b59e connected
+[2023-04-24 12:26:49.445] [info]  Client 2207c342-1b6e-4241-a40d-eab5066fd2b7 connected
+[2023-04-24 12:26:55.726] [info]  Client 30fd17af-a625-4cbe-9c7c-b552c5a9dd28 connected
+[2023-04-24 12:27:02.043] [info]  Client d75e0415-0731-4e23-b0e9-c088805aaa71 connected
+[2023-04-24 12:27:08.349] [info]  Client 5320d77d-453f-4638-b93d-4744f2d6f868 connected
+[2023-04-24 12:27:14.665] [info]  Client 4f1535aa-1628-4683-a7fa-9c50aba7d797 connected
+[2023-04-24 12:27:20.943] [info]  Client b43f6aa1-2587-4534-9901-db3c6b0b4962 connected
+[2023-04-24 12:27:27.217] [info]  Client 7357339e-7434-4f16-95fa-66d189e180cb connected
+[2023-04-24 12:27:33.490] [info]  Client f2b3ddc4-a700-40f1-9d19-f3bd9b0af120 connected
+[2023-04-24 12:27:39.790] [info]  Client cf28b0e1-9b22-4ed4-a2ec-7626d8edb75d connected
+[2023-04-24 12:27:46.075] [info]  Client e9d4d277-8dbb-41d0-865b-247527d2ee47 connected
+[2023-04-24 12:27:52.345] [info]  Client 93227d1e-daa0-49b3-93b7-db5431d3ce5e connected
+[2023-04-24 12:27:58.662] [info]  Client 660e2896-522b-4f23-823f-4ed7e665e66b connected
+[2023-04-24 12:28:04.937] [info]  Client 4be13c32-35e8-4fd7-84b4-7e624112922c connected
+[2023-04-24 12:28:11.213] [info]  Client b053ad65-6955-491f-b141-0dd011b4d41d connected
+[2023-04-24 12:28:17.552] [info]  Client a433776b-1d19-4252-b988-2e4d99166247 connected
+[2023-04-24 12:28:23.837] [info]  Client cfb9f275-099f-4c67-a5a0-fb5c568a3b28 connected
+[2023-04-24 12:28:30.103] [info]  Client 29dfe5ba-4107-481d-ba99-3c2e8839e0a8 connected
+[2023-04-24 12:28:36.385] [info]  Client 0b0bd014-85e9-4a58-ba27-6d46a4498249 connected
+[2023-04-24 12:28:42.667] [info]  Client eda4f0e0-867d-47a0-8596-de4813aae837 connected
+[2023-04-24 12:28:48.969] [info]  Client db7bb980-49a8-4c91-ab00-125018c967b5 connected
+[2023-04-24 12:28:55.294] [info]  Client 4c8897ec-298c-48cc-bf1c-a26d055256fe connected
+[2023-04-24 12:29:01.572] [info]  Client 4bea78e7-ba55-478e-acd8-1bd12ad598bb connected
+[2023-04-24 12:29:07.844] [info]  Client c02c5bc7-5183-4a07-b9ad-61d043079f0e connected
+[2023-04-24 12:29:14.161] [info]  Client 20599b5e-84a9-49ff-a047-39e598b6d19b connected
+[2023-04-24 12:29:20.447] [info]  Client 99bd8bf4-e892-4fd0-9b56-95391fad883c connected
+[2023-04-24 12:29:26.717] [info]  Client 4213a8f4-8718-4f42-995a-2c111f2fd379 connected
+[2023-04-24 12:29:33.007] [info]  Client 30845101-2224-42f4-ac35-af7403bb5c63 connected
+[2023-04-24 12:29:39.330] [info]  Client c6e02c30-97c8-497e-be97-f9822e962b8f connected
+[2023-04-24 12:29:45.606] [info]  Client 30a6e184-d8b3-4c94-930c-9a02ccc8ba4b connected
+[2023-04-24 12:29:51.880] [info]  Client 44c1fdf6-2631-413c-bc47-787fcf75b024 connected
+[2023-04-24 12:29:58.158] [info]  Client c9b448aa-379b-425b-894d-9a0b994ad6c1 connected
+[2023-04-24 12:30:04.431] [info]  Client 1f2f6858-0e0e-4310-8ef0-e899f738d5d6 connected
+[2023-04-24 12:30:10.754] [info]  Client 6a640b03-2a37-45f6-8057-3b088b4620b9 connected
+[2023-04-24 12:30:17.087] [info]  Client 0999be1d-2f05-40b9-ae14-8964c578ae38 connected
+[2023-04-24 12:30:18.475] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:30:18.476] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:30:18.476] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:30:18.476] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 9)
+[2023-04-24 12:30:19.099] [info]  {}
+[2023-04-24 12:30:23.425] [info]  Client 326e892a-217d-4ebf-a7da-35c3a236a953 connected
+[2023-04-24 12:30:29.703] [info]  Client 47627e1d-b396-4262-9046-465c5404854b connected
+[2023-04-24 12:30:35.979] [info]  Client a4610908-4d5b-43d2-a174-a1e4cd6dac0b connected
+[2023-04-24 12:30:42.256] [info]  Client 9c13fec7-06ab-4cbb-9c1a-85bd9378bcba connected
+[2023-04-24 12:30:48.542] [info]  Client c413ff67-0c99-4b3c-8c60-8ca5f9eda9a8 connected
+[2023-04-24 12:30:54.828] [info]  Client d58e2b7e-bcf1-4c04-bcae-fdf0ddbcd33c connected
+[2023-04-24 12:31:01.143] [info]  Client 58560442-f429-42d8-9bd2-407f2f7f621e connected
+[2023-04-24 12:31:07.431] [info]  Client 333738b4-6835-4900-8629-5f48afa10e4c connected
+[2023-04-24 12:31:13.713] [info]  Client d436b7de-2d95-4f03-af78-755bb80b2d1b connected
+[2023-04-24 12:31:20.002] [info]  Client 2924c6b0-79ae-4bd6-814a-48d29ea856e2 connected
+[2023-04-24 12:31:26.283] [info]  Client c22366bf-d0e7-4445-a7fc-15f5f485b61d connected
+[2023-04-24 12:31:32.562] [info]  Client ebccb045-b153-45e5-b8f0-2b62d8e91f32 connected
+[2023-04-24 12:31:38.887] [info]  Client 01eab752-dd8e-46be-aaca-c2b12e6ceb34 connected
+[2023-04-24 12:31:45.212] [info]  Client b4c56a30-2013-4844-aab1-50c0abedf504 connected
+[2023-04-24 12:31:51.492] [info]  Client c100a29e-62d3-4f52-88a6-04a059f8355f connected
+[2023-04-24 12:31:57.782] [info]  Client d45e1384-35cf-434e-942d-fd15c83b3c7f connected
+[2023-04-24 12:32:04.075] [info]  Client 05f6f562-3b36-44ad-b862-76c87a04159f connected
+[2023-04-24 12:32:10.343] [info]  Client 720363dd-9c95-4854-b623-989a19d08d66 connected
+[2023-04-24 12:32:16.624] [info]  Client e10f5cff-4c74-414b-93a6-11e70b1fd992 connected
+[2023-04-24 12:32:22.954] [info]  Client 3c736fd2-dc6f-408f-ad78-f70b332b03f9 connected
+[2023-04-24 12:32:29.231] [info]  Client 2de0e184-d681-4d78-97d1-158d5cb8ae32 connected
+[2023-04-24 12:32:35.509] [info]  Client cc388b77-3d76-4884-ae4a-882598272ebb connected
+[2023-04-24 12:32:41.826] [info]  Client 5bc4bac8-7a4c-4c9e-8a69-3fdf4bb67d69 connected
+[2023-04-24 12:32:48.102] [info]  Client 1029fb46-a828-432a-9cb8-cc586594aff5 connected
+[2023-04-24 12:32:54.377] [info]  Client b76d06cf-ee12-401e-ad44-7df776f074f1 connected
+[2023-04-24 12:33:00.652] [info]  Client fa6c45cc-2e6b-4cb3-916d-14cebfc76e3b connected
+[2023-04-24 12:33:06.918] [info]  Client 77b99f38-7d24-478f-83a4-fd4f1aa6bc3c connected
+[2023-04-24 12:33:13.258] [info]  Client efd19313-c44b-4e45-920d-7fa98f5cbfb4 connected
+[2023-04-24 12:33:19.593] [info]  Client 5d6a3dcd-cc29-47ef-8b6d-c6fa5877bb0a connected
+[2023-04-24 12:33:25.871] [info]  Client c04c5cfb-460f-4caf-886c-eb32be03fbb4 connected
+[2023-04-24 12:33:31.833] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:33:31.833] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:33:31.833] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:33:31.833] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 10)
+[2023-04-24 12:33:32.148] [info]  Client f81da638-4b62-4f5a-8d6b-1a4cacc380d8 connected
+[2023-04-24 12:33:32.505] [info]  {}
+[2023-04-24 12:33:38.428] [info]  Client b0c90053-3c0a-4ad0-b636-1b7472fa5b12 connected
+[2023-04-24 12:33:44.705] [info]  Client 62726f58-edc4-4131-827d-324789853242 connected
+[2023-04-24 12:33:50.972] [info]  Client eba3edb9-4c7c-4373-a4ec-789a67c9ef20 connected
+[2023-04-24 12:33:57.252] [info]  Client ec1b6433-902a-4381-8672-b19fbadc7dde connected
+[2023-04-24 12:34:03.529] [info]  Client ad5ea044-af83-461a-9a3c-9ab81ef9d583 connected
+[2023-04-24 12:34:09.836] [info]  Client d5274ad7-ab4a-4ca1-b1c7-71d0a715238d connected
+[2023-04-24 12:34:16.156] [info]  Client 113a4242-01ef-47c8-9df8-a4198b22b258 connected
+[2023-04-24 12:34:22.447] [info]  Client db648d5d-5500-474b-b7e8-b1dbd13fb8c2 connected
+[2023-04-24 12:34:28.711] [info]  Client a5d804c6-4ec8-4e3c-8870-30c9cd5ec2a7 connected
+[2023-04-24 12:34:34.996] [info]  Client 57237f66-fac6-43f1-93ac-673a9ddca018 connected
+[2023-04-24 12:34:41.313] [info]  Client 350fd27c-1ad2-4d41-bcab-169280651470 connected
+[2023-04-24 12:34:47.582] [info]  Client b3ee84dc-10f8-40d2-b11e-821961077daa connected
+[2023-04-24 12:34:53.860] [info]  Client ae354047-3c75-4de2-99c9-18f2c88a2a6d connected
+[2023-04-24 12:35:00.195] [info]  Client 418b6d39-c274-45b1-8f59-f10672014806 connected
+[2023-04-24 12:35:06.473] [info]  Client d23dd535-e73c-48ca-b18c-326f2ddb635c connected
+[2023-04-24 12:35:12.749] [info]  Client 4e898632-672d-474e-8a75-bc9dad516958 connected
+[2023-04-24 12:35:19.028] [info]  Client c6dcdc75-430e-4919-8885-ad0517a9e134 connected
+[2023-04-24 12:35:25.315] [info]  Client 85b9bf23-3f21-40a7-a01e-808da1a30bfd connected
+[2023-04-24 12:35:31.602] [info]  Client c4e1b66f-73be-4899-865a-bfb2744071b3 connected
+[2023-04-24 12:35:37.903] [info]  Client 3e51b88d-ff8b-4108-8d72-c47ccce39b4d connected
+[2023-04-24 12:35:44.174] [info]  Client 979435ff-5658-4e7d-9307-f2e976619701 connected
+[2023-04-24 12:35:50.459] [info]  Client 5531857a-df2b-4ae5-ab03-d8c80bd2a542 connected
+[2023-04-24 12:35:56.779] [info]  Client f09baad2-7eb0-48e3-9b73-fc4e472c06c2 connected
+[2023-04-24 12:36:03.053] [info]  Client 990f9cdb-675e-4eca-adf1-539046f1e534 connected
+[2023-04-24 12:36:09.328] [info]  Client 88b0bb1a-cd47-49a7-ab4c-098afb0ab23b connected
+[2023-04-24 12:36:15.614] [info]  Client ab80a916-3caa-44c2-b69b-6301f56d222c connected
+[2023-04-24 12:36:21.883] [info]  Client 18985ea4-f39f-4481-ae3c-bfb57da69f5b connected
+[2023-04-24 12:36:28.169] [info]  Client 93d10251-f399-4a3f-907c-969f579a4f9c connected
+[2023-04-24 12:36:34.445] [info]  Client 3218a5f5-6fe6-49ec-bd13-49381b5a4d01 connected
+[2023-04-24 12:36:40.714] [info]  Client 4b1c3013-7cad-4ea9-bb95-8270f43ec765 connected
+[2023-04-24 12:36:46.797] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:36:46.797] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:36:46.797] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:36:46.797] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 11)
+[2023-04-24 12:36:47.061] [info]  Client 9d73af38-ce5b-430c-901a-dae3a7f02361 connected
+[2023-04-24 12:36:47.388] [info]  {}
+[2023-04-24 12:36:53.361] [info]  Client f55e86a0-8bab-4565-a57f-a1ac9ae64aa9 connected
+[2023-04-24 12:36:59.637] [info]  Client c77049c4-55e6-40e0-aba8-949fb6ba9dc5 connected
+[2023-04-24 12:37:05.942] [info]  Client ad3ce110-fc2a-444d-9043-3a97d560b969 connected
+[2023-04-24 12:37:12.221] [info]  Client e2896893-b5c2-4b63-a1a4-4e6cb3d874ef connected
+[2023-04-24 12:37:18.499] [info]  Client e60cceaf-3876-4969-b328-685d3d3c7e29 connected
+[2023-04-24 12:37:25.059] [info]  Client 176a92ff-488a-4b5f-979e-d49ff09378e1 connected
+[2023-04-24 12:37:31.249] [info]  Client 41354357-bcb3-49f0-a182-0e2e8697b34b connected
+[2023-04-24 12:37:37.547] [info]  Client 91e9266b-6ea1-4ca6-968c-244c5b669a10 connected
+[2023-04-24 12:37:43.877] [info]  Client cf0d45bb-8b26-46de-b75d-92500bb83434 connected
+[2023-04-24 12:37:50.196] [info]  Client 3df3c448-e551-4c66-a8e7-4f57410b280c connected
+[2023-04-24 12:37:56.486] [info]  Client c0c618d4-b15f-4cb4-9097-631d8df77366 connected
+[2023-04-24 12:38:02.754] [info]  Client 8df724d7-f6af-4aa0-b158-3c85eb1aeb2b connected
+[2023-04-24 12:38:09.073] [info]  Client 53ad206f-bcfe-46b4-9fed-bb7812cca95a connected
+[2023-04-24 12:38:15.362] [info]  Client a4d89fd2-c9ee-4ca3-aa16-4f8df8fe8e39 connected
+[2023-04-24 12:38:21.635] [info]  Client 0a8a9157-14b3-4712-8e96-e67e6e4ed6a3 connected
+[2023-04-24 12:38:27.915] [info]  Client 8843072a-834d-444e-94ef-03d9676213c5 connected
+[2023-04-24 12:38:34.189] [info]  Client 4171ab09-7dc9-4bf7-8861-19b129e065a3 connected
+[2023-04-24 12:38:40.466] [info]  Client 73abb0cb-3035-49dc-8d68-0cdd6b0949d3 connected
+[2023-04-24 12:38:46.741] [info]  Client 86bdf89e-76e2-4a77-a3ca-44783ffa286b connected
+[2023-04-24 12:38:53.012] [info]  Client 425b06d9-6aa9-464e-b1a3-d04c552e1f33 connected
+[2023-04-24 12:38:59.335] [info]  Client 0174660c-ca32-4ded-be63-eb889ea24b1f connected
+[2023-04-24 12:39:05.612] [info]  Client e169eac1-9266-4498-9fe1-ac37f952439f connected
+[2023-04-24 12:39:11.882] [info]  Client 6dfc5a0f-1a4f-4491-90d0-d109a44895f4 connected
+[2023-04-24 12:39:18.216] [info]  Client 9ee01ad2-a020-4354-922c-9102ab8bdc93 connected
+[2023-04-24 12:39:24.500] [info]  Client 3f0693f8-1175-4907-bdf8-e7c27be1a41f connected
+[2023-04-24 12:39:30.819] [info]  Client 68f8dbf7-19dd-4b22-a088-38e5d92d3235 connected
+[2023-04-24 12:39:37.097] [info]  Client 1d208599-343c-4d46-941f-ddeb9c6affd6 connected
+[2023-04-24 12:39:43.414] [info]  Client e4908fd0-03fe-4630-aa1c-67951e2e050f connected
+[2023-04-24 12:39:49.717] [info]  Client dc260ebd-8e78-4bd4-bc66-05ffac880981 connected
+[2023-04-24 12:39:55.994] [info]  Client e0d9efb4-d7de-4b5e-95a5-fb01fa333519 connected
+[2023-04-24 12:40:02.277] [info]  Client 1e3eca10-b60b-41b0-96b3-cddf7074f930 connected
+[2023-04-24 12:40:08.563] [info]  Client af395723-5085-42be-b64d-076128ab37d9 connected
+[2023-04-24 12:40:09.183] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:40:09.183] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:40:09.183] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:40:09.183] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 12)
+[2023-04-24 12:40:09.706] [info]  {}
+[2023-04-24 12:40:14.854] [info]  Client 2b84ba58-1955-4a6f-adfb-61cf31aa2beb connected
+[2023-04-24 12:40:21.141] [info]  Client 5a765db8-4e9c-403c-8bd4-2c800b8380b5 connected
+[2023-04-24 12:40:27.461] [info]  Client 1d1672bd-67b4-4063-bace-663208f37a3a connected
+[2023-04-24 12:40:33.777] [info]  Client a254e75a-19ab-4f3a-ab00-08ed78077ed9 connected
+[2023-04-24 12:40:40.055] [info]  Client 4599dc6d-86f2-42dd-89b8-49422f4ef98e connected
+[2023-04-24 12:40:46.369] [info]  Client 93e59fce-78fa-4256-b156-78115f644817 connected
+[2023-04-24 12:40:52.700] [info]  Client 5f5fda93-651a-46ab-8da8-f47e523cd25b connected
+[2023-04-24 12:40:58.995] [info]  Client 4a387f6a-ba19-4d03-bb5c-14f3faa5c196 connected
+[2023-04-24 12:41:05.289] [info]  Client 8cf1b55f-3723-43af-aef4-86b29e2c06ec connected
+[2023-04-24 12:41:11.567] [info]  Client a53de0d2-4faf-48d1-9cf0-d572531ffda9 connected
+[2023-04-24 12:41:17.850] [info]  Client d3a977f1-acb7-4eb6-bfb2-753d85e752e9 connected
+[2023-04-24 12:41:24.141] [info]  Client a993f0bf-2237-4a62-babc-1215e34dd04e connected
+[2023-04-24 12:41:30.458] [info]  Client ac318925-a7dc-4e6a-ae90-bcae5177b408 connected
+[2023-04-24 12:41:36.741] [info]  Client 9853aa7d-8661-428c-8a4b-168fb07d4ce1 connected
+[2023-04-24 12:41:43.012] [info]  Client c5bdb180-3c48-4722-afa3-ed5f486ec55e connected
+[2023-04-24 12:41:49.342] [info]  Client a0707ab2-59cb-4a39-82e0-0e9373a5fb67 connected
+[2023-04-24 12:41:55.654] [info]  Client 470d37ec-0573-49cd-88ef-b5f4f9988bac connected
+[2023-04-24 12:42:01.930] [info]  Client a9c0ca3b-a302-4a7f-aa85-9cad209ecefe connected
+[2023-04-24 12:42:08.237] [info]  Client 2980b8a3-2468-4891-af92-e6e965bb0cbf connected
+[2023-04-24 12:42:14.553] [info]  Client 78123938-a2c0-4f6b-bc49-c6dc21c7e21d connected
+[2023-04-24 12:42:20.835] [info]  Client 917e6662-6891-4d65-9b54-36588ec78c4f connected
+[2023-04-24 12:42:27.112] [info]  Client 033c2cb0-be6e-4237-b956-a7d20ad70c9b connected
+[2023-04-24 12:42:33.400] [info]  Client 3dba0ce9-bff0-47cd-8051-f7a0955d963c connected
+[2023-04-24 12:42:39.728] [info]  Client b071dcf5-1ee8-4810-8f9e-983607c18fda connected
+[2023-04-24 12:42:46.021] [info]  Client ad38ba9a-622b-4bc3-8867-445ea144e800 connected
+[2023-04-24 12:42:52.292] [info]  Client d72cb324-18db-42d8-84b1-4510685baf2d connected
+[2023-04-24 12:42:58.592] [info]  Client dda327db-153f-44cf-ae6b-325627cdbc8e connected
+[2023-04-24 12:43:04.859] [info]  Client 0fa866ef-48d7-4d2f-9ada-93fd67325c2d connected
+[2023-04-24 12:43:11.144] [info]  Client baad2a55-0709-4bcd-abf3-2cf066fb4552 connected
+[2023-04-24 12:43:17.463] [info]  Client 153c479c-d339-425c-8deb-330ef664e2dc connected
+[2023-04-24 12:43:23.742] [info]  Client b69aecc7-9954-45bb-a92f-69965619ce30 connected
+[2023-04-24 12:43:30.047] [info]  Client 3b6f0f53-6ba4-4e51-89d2-465694256998 connected
+[2023-04-24 12:43:36.362] [info]  Client 2f808c35-7d43-4e7b-afbf-e19b074f8a07 connected
+[2023-04-24 12:43:42.652] [info]  Client b8fb788d-adf4-4769-9b98-57493f5418f3 connected
+[2023-04-24 12:43:48.113] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:43:48.113] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:43:48.113] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:43:48.113] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 13)
+[2023-04-24 12:43:48.618] [info]  {}
+[2023-04-24 12:43:48.920] [info]  Client 8e1efc96-86a9-4c3a-877a-9f8c8fd27820 connected
+[2023-04-24 12:43:55.244] [info]  Client 46010147-42c4-489b-b12a-183e1e44384c connected
+[2023-04-24 12:44:01.519] [info]  Client e43286fb-66e3-4380-a560-6a04c02ec3ea connected
+[2023-04-24 12:44:07.797] [info]  Client 291ad0ea-bf08-4cbc-bcf1-236d24a4d35b connected
+[2023-04-24 12:44:14.088] [info]  Client acfbe13a-0fdb-4600-be35-2b64d5e4a464 connected
+[2023-04-24 12:44:20.395] [info]  Client 2bf8e125-b574-43ed-85c8-e17fcf533e2f connected
+[2023-04-24 12:44:26.672] [info]  Client 77cc2c5d-9e83-40b3-9d33-2e8fcba56d4a connected
+[2023-04-24 12:44:32.987] [info]  Client fa6ca7aa-a415-4e1c-88d3-3a206207bc2c connected
+[2023-04-24 12:44:39.270] [info]  Client a8ab1810-3ba5-40a9-a6f6-6f95dc8d5695 connected
+[2023-04-24 12:44:45.546] [info]  Client 6f4123db-64d5-41b4-ae78-eb823a2d1c9e connected
+[2023-04-24 12:44:51.815] [info]  Client e91c8dc0-9c25-472c-831f-53bea92fa2aa connected
+[2023-04-24 12:44:58.100] [info]  Client 7e91f3b2-134f-4e5e-bf12-2028f9839554 connected
+[2023-04-24 12:45:04.414] [info]  Client 4df4a3dd-9339-4e48-9c37-ea40d4110c3b connected
+[2023-04-24 12:45:10.689] [info]  Client cb91a9b0-80e5-4c8f-8f4c-e3813f6ab8e8 connected
+[2023-04-24 12:45:17.015] [info]  Client 0b924861-80df-4678-b7e9-f02aa3cbe138 connected
+[2023-04-24 12:45:23.343] [info]  Client b55a7a88-fa13-4ea8-9302-c0ed38e1fc5b connected
+[2023-04-24 12:45:29.625] [info]  Client e16709b1-5e2b-4ff3-8fa1-c26264e46330 connected
+[2023-04-24 12:45:35.898] [info]  Client 0fd36c87-3294-429a-bc6a-761c6fbba936 connected
+[2023-04-24 12:45:42.165] [info]  Client 3488e5ed-9f04-42e3-af29-b3959d87c9df connected
+[2023-04-24 12:45:48.449] [info]  Client f0c2e77d-2ce1-4aa0-986b-9d8deb87cc81 connected
+[2023-04-24 12:45:54.760] [info]  Client f164a8df-a276-401a-b71c-0347c671fa02 connected
+[2023-04-24 12:46:01.067] [info]  Client 8740e004-ec49-4c69-934d-c82654229708 connected
+[2023-04-24 12:46:07.335] [info]  Client 43955ee9-0d7e-497e-8ba9-d9ed31bcab27 connected
+[2023-04-24 12:46:13.658] [info]  Client 605372ad-20c4-4b3c-831f-00ea60b274fc connected
+[2023-04-24 12:46:20.080] [info]  Client 3a74574c-b29e-4905-9aa2-390cc731f831 connected
+[2023-04-24 12:46:26.370] [info]  Client 2fb8be0a-e657-4312-bce8-82d5805becd6 connected
+[2023-04-24 12:46:32.689] [info]  Client 616e9a7f-3dc3-4c15-b0c6-5ce501b6ba62 connected
+[2023-04-24 12:46:38.970] [info]  Client 8283e123-9517-44a7-9571-fce060536b51 connected
+[2023-04-24 12:46:45.274] [info]  Client 75ca43b8-87f1-465d-b869-116a6e251110 connected
+[2023-04-24 12:46:51.604] [info]  Client 65445dc9-96fb-498d-993e-9dbfc3e1125f connected
+[2023-04-24 12:46:57.885] [info]  Client 61ff20c2-2eb6-41c4-bd0e-f330cdcc097a connected
+[2023-04-24 12:47:04.169] [info]  Client 91c36159-42e0-47d5-904b-d92cbf0ee908 connected
+[2023-04-24 12:47:10.457] [info]  Client 3711cfcf-9656-4dda-a670-938d2cb91896 connected
+[2023-04-24 12:47:14.453] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:47:14.453] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:47:14.454] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:47:14.455] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 14)
+[2023-04-24 12:47:14.963] [info]  {}
+[2023-04-24 12:47:16.765] [info]  Client 99009e5b-e556-46d5-8058-894e0ed74f1d connected
+[2023-04-24 12:47:23.053] [info]  Client 375bb15f-a495-408b-a2e0-28331144a258 connected
+[2023-04-24 12:47:29.365] [info]  Client 18b5aa50-2dd8-486e-84b6-faf4d0b1b8e1 connected
+[2023-04-24 12:47:35.650] [info]  Client 0515fea7-0b78-4a2a-9452-6fba6158fa67 connected
+[2023-04-24 12:47:41.963] [info]  Client 1980094b-3592-4199-85dc-dd97112e8f63 connected
+[2023-04-24 12:47:48.265] [info]  Client ff73ab05-b382-460e-b21c-d297af65c336 connected
+[2023-04-24 12:47:54.593] [info]  Client 0a2146bd-9e0f-4593-98c9-5bfc22312877 connected
+[2023-04-24 12:48:00.920] [info]  Client 8ec5344d-2433-4ee3-a289-9c9e992d0836 connected
+[2023-04-24 12:48:07.254] [info]  Client a404516f-9853-49b5-803a-d8aa9ed8cbea connected
+[2023-04-24 12:48:13.529] [info]  Client c0dabb8d-a9bc-4404-b608-96c5a34e1493 connected
+[2023-04-24 12:48:19.807] [info]  Client b0322f6b-205f-416b-b578-36f64a874ebd connected
+[2023-04-24 12:48:26.134] [info]  Client 03e9443a-ee44-49b8-a44d-aa858b77224f connected
+[2023-04-24 12:48:32.458] [info]  Client 123b243f-2803-4dab-9a7f-427d6aa31a20 connected
+[2023-04-24 12:48:38.771] [info]  Client bcd20655-bac3-4d46-9ced-e5028984d8a6 connected
+[2023-04-24 12:48:45.045] [info]  Client 8d0d8626-6e57-4725-8e5a-563a077bf0e5 connected
+[2023-04-24 12:48:51.378] [info]  Client 5b640fb8-e7da-41de-830b-9f14e1417146 connected
+[2023-04-24 12:48:57.704] [info]  Client 94be6f16-ceac-4b6a-af3f-f302cd8511ab connected
+[2023-04-24 12:49:03.988] [info]  Client 63e238ac-aae9-4218-9745-dc925c4d0532 connected
+[2023-04-24 12:49:10.262] [info]  Client 0b980b8e-b6ca-4797-ae48-9aad69fae601 connected
+[2023-04-24 12:49:16.584] [info]  Client 45eaa120-0b36-42bf-a218-7ea3f0b6fbed connected
+[2023-04-24 12:49:22.853] [info]  Client e010f512-ec86-4904-8c60-8d93dd24255b connected
+[2023-04-24 12:49:29.128] [info]  Client 82c6d7cf-89cc-4677-bf3f-82fa4f9cc0de connected
+[2023-04-24 12:49:35.404] [info]  Client 46b659b7-1278-4f16-b0bc-449b28bec345 connected
+[2023-04-24 12:49:41.697] [info]  Client 391b4efc-19c2-4a77-a0ca-0d025b274d89 connected
+[2023-04-24 12:49:47.967] [info]  Client 3602be41-b04f-4f13-b809-3201b8f3f235 connected
+[2023-04-24 12:49:54.249] [info]  Client fadba856-b8f6-465b-8ed0-19b353c77014 connected
+[2023-04-24 12:50:00.529] [info]  Client 162548e3-d0f0-4a45-aa07-4927d33b7ddb connected
+[2023-04-24 12:50:06.812] [info]  Client d5de98a4-a20a-4bcc-9038-09e74d72e3be connected
+[2023-04-24 12:50:13.090] [info]  Client 7ccf026c-2c42-4c58-910b-883da5170811 connected
+[2023-04-24 12:50:19.360] [info]  Client 5da1b561-5c71-477c-af93-77776421915b connected
+[2023-04-24 12:50:25.680] [info]  Client b070d6b0-ee06-4609-8230-6bcf840812b8 connected
+[2023-04-24 12:50:27.044] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:50:27.044] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:50:27.044] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:50:27.044] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 15)
+[2023-04-24 12:50:27.527] [info]  {}
+[2023-04-24 12:50:31.954] [info]  Client 70f3b607-a5c7-4a1a-9f06-d4392a3a011f connected
+[2023-04-24 12:50:38.225] [info]  Client 3c1e7359-432b-4186-ab47-c9679d7dc335 connected
+[2023-04-24 12:50:44.517] [info]  Client d224084b-cc50-40c9-973c-e8e5c9511ba3 connected
+[2023-04-24 12:50:50.831] [info]  Client dc50da7a-88d5-425a-bbaa-cbe4715d07e7 connected
+[2023-04-24 12:50:57.112] [info]  Client 57dc8d5d-73a3-4804-b16c-06fdad595a3a connected
+[2023-04-24 12:51:03.397] [info]  Client 94263446-b2fd-4aff-b1fc-24013e13b30b connected
+[2023-04-24 12:51:09.718] [info]  Client a6e167c7-88cb-4e90-ac34-7aeb9f34808c connected
+[2023-04-24 12:51:16.017] [info]  Client 5d3cbcad-e5e6-419c-b712-3ee9d972e186 connected
+[2023-04-24 12:51:22.325] [info]  Client dc2c29c8-afdf-4d77-8fee-bc8f2b941f39 connected
+[2023-04-24 12:51:28.652] [info]  Client 8495a180-8c1b-4e2e-a4b3-81b8b708abac connected
+[2023-04-24 12:51:34.954] [info]  Client 5d8f4c70-2a75-4de5-b28c-154b775de9ee connected
+[2023-04-24 12:51:41.240] [info]  Client 25fc33e6-ca6e-4dcc-a11c-60de842a2230 connected
+[2023-04-24 12:51:47.539] [info]  Client bdc6af89-1b11-404e-849d-171f7501026c connected
+[2023-04-24 12:51:53.869] [info]  Client 77cb25af-99b7-446c-8643-d3925ae4ba83 connected
+[2023-04-24 12:52:00.186] [info]  Client 1430eeb4-6c01-4b36-a2af-0ab356fe44d9 connected
+[2023-04-24 12:52:06.455] [info]  Client aa3c351b-738a-4a45-b657-16d4cfefb49f connected
+[2023-04-24 12:52:12.776] [info]  Client 662876c8-6f70-4f8f-ad63-815648be96e2 connected
+[2023-04-24 12:52:19.078] [info]  Client eece3c7a-05c4-4fab-8224-7176295c197f connected
+[2023-04-24 12:52:25.415] [info]  Client d15dc3ff-e0e1-46da-abb4-670ed027fb97 connected
+[2023-04-24 12:52:31.686] [info]  Client a449800d-40e8-4978-82ad-1fe3fa057492 connected
+[2023-04-24 12:52:37.970] [info]  Client 4aae2845-9cd3-473c-bda1-853a5eb46798 connected
+[2023-04-24 12:52:44.296] [info]  Client b73ae9f0-ad86-41b9-8c29-9b6f34902b13 connected
+[2023-04-24 12:52:50.581] [info]  Client b8edda49-6a35-4ecd-8bb4-b557fe3fad1a connected
+[2023-04-24 12:52:56.856] [info]  Client 8de3bd1e-cade-4f57-81c8-4c61c0cfe0bc connected
+[2023-04-24 12:53:03.167] [info]  Client 24dff8c2-89de-4731-9e45-4ce130fbbf2a connected
+[2023-04-24 12:53:09.496] [info]  Client b01e00a5-2c5a-41cc-9ee7-2d77dba63a91 connected
+[2023-04-24 12:53:15.764] [info]  Client 0275df7e-118a-4fad-822a-0d42a2c7883e connected
+[2023-04-24 12:53:22.036] [info]  Client c8bdcd0c-03c9-4c04-a58f-d09eca00ba41 connected
+[2023-04-24 12:53:28.317] [info]  Client 8e9d719e-dc38-4064-a565-caeb7f8ad62e connected
+[2023-04-24 12:53:34.594] [info]  Client d5c3faf2-f2ca-4adf-9962-90c19065b43d connected
+[2023-04-24 12:53:36.498] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:53:36.498] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:53:36.498] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:53:36.498] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 16)
+[2023-04-24 12:53:37.200] [info]  {}
+[2023-04-24 12:53:40.868] [info]  Client baa9c0f4-0fe3-4721-97ae-4741075da881 connected
+[2023-04-24 12:53:47.175] [info]  Client e174f421-bad6-42b1-be9b-565b6e3292dc connected
+[2023-04-24 12:53:53.451] [info]  Client 246a5cbb-86e1-4054-8546-6a29ca8757d5 connected
+[2023-04-24 12:53:59.730] [info]  Client 5c212ea5-1a79-4a55-b100-bcf43afbb963 connected
+[2023-04-24 12:54:06.029] [info]  Client 78b2e7cd-6bbe-45f0-8821-3015abd2ddf8 connected
+[2023-04-24 12:54:12.347] [info]  Client 9488ec1e-432b-49f8-b69e-d1ef113a06d6 connected
+[2023-04-24 12:54:18.626] [info]  Client 3dc661bb-a04b-43bb-b4e1-bfd6be0c250c connected
+[2023-04-24 12:54:24.950] [info]  Client 92b5d821-1476-4f8b-b91b-8e2c661cb2f6 connected
+[2023-04-24 12:54:31.229] [info]  Client 70175bdb-c24c-4e8a-81ff-feb33de378e8 connected
+[2023-04-24 12:54:37.522] [info]  Client 5766ab3e-e5cf-40d5-9108-f949e217f909 connected
+[2023-04-24 12:54:43.798] [info]  Client ee0e0206-fb23-49c7-8f9f-e49e7c716505 connected
+[2023-04-24 12:54:50.066] [info]  Client a0d3b157-9c99-47e5-a51a-43e595758261 connected
+[2023-04-24 12:54:56.369] [info]  Client 368152ec-2ba7-49c8-b37f-41e536266f97 connected
+[2023-04-24 12:55:02.689] [info]  Client 7b26b7af-1de6-42fa-9e6f-9b9a7bcb1ef3 connected
+[2023-04-24 12:55:09.004] [info]  Client 8de01f2a-a14b-4a9c-ae32-9f6808911a02 connected
+[2023-04-24 12:55:15.282] [info]  Client 8c80632f-764c-41d4-a5b4-e2777aaa3787 connected
+[2023-04-24 12:55:21.610] [info]  Client 30fd208f-34cc-4a86-ab5f-8cb82959b3a5 connected
+[2023-04-24 12:55:28.044] [info]  Client cc750d8c-7940-4fcf-82f5-ed4b12ed4d99 connected
+[2023-04-24 12:55:34.271] [info]  Client 8c196e92-1aeb-4360-8bf1-87240ebf9279 connected
+[2023-04-24 12:55:40.569] [info]  Client 170e9b47-383e-4fa6-8100-17b50af4bbe9 connected
+[2023-04-24 12:55:46.866] [info]  Client b8543284-b872-4634-b1d2-8c245e9ed357 connected
+[2023-04-24 12:55:53.157] [info]  Client 07d060d4-903a-41ee-9d45-4c769a2c981e connected
+[2023-04-24 12:55:59.480] [info]  Client 09a9428b-feea-4755-ac83-4767abb45559 connected
+[2023-04-24 12:56:05.752] [info]  Client 0398676d-d337-48c1-a25e-6606c7136f4b connected
+[2023-04-24 12:56:12.074] [info]  Client 5e508601-74d7-4a9e-a7b3-6f8b3153870f connected
+[2023-04-24 12:56:18.353] [info]  Client f9cf6cf5-d809-4b9b-8a66-862fcdd8ddc1 connected
+[2023-04-24 12:56:24.622] [info]  Client e01d8490-9554-436b-aa91-ca336b85599f connected
+[2023-04-24 12:56:30.908] [info]  Client 50a8b8b9-5ca5-4ab6-9905-65085751eca3 connected
+[2023-04-24 12:56:37.180] [info]  Client cbce0686-5020-4de5-ab1f-c1b46824fa38 connected
+[2023-04-24 12:56:43.451] [info]  Client a2da54b0-0592-413f-8f9d-9cb078bed7bf connected
+[2023-04-24 12:56:49.741] [info]  Client f8b19e37-41f5-4ef1-b160-0c9326d895e3 connected
+[2023-04-24 12:56:56.056] [info]  Client 79ba53de-15e4-4cf2-9b3f-8d3937ab7e6c connected
+[2023-04-24 12:57:02.323] [info]  Client c3949fac-2ca0-46ad-b48a-12b7d8ef0489 connected
+[2023-04-24 12:57:05.807] [warn]  This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2023-04-24 12:57:05.807] [error] SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:57:05.807] [error] (node:6448) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token 'M', "Method POS"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at /tmp/.mount_Cider-7DZeuV/resources/app.asar/node_modules/electron-fetch/lib/index.js:295:55
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-24 12:57:05.807] [error] (node:6448) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 17)
+[2023-04-24 12:57:06.437] [info]  {}
+[2023-04-24 12:57:08.591] [info]  Client 1d418b66-ef43-41cf-9484-e73d34a7acab connected
+[2023-04-24 12:57:14.863] [info]  Client 18f2f243-a8dc-4dd6-b8fc-f1cc93ec9a26 connected
+[2023-04-24 12:57:21.134] [info]  Client 14fdea0c-c491-4e4c-93ee-c1903a08827d connected
+[2023-04-24 12:57:27.413] [info]  Client d2c73898-9355-439d-aa24-7a7ad37bf103 connected
+[2023-04-24 12:57:33.712] [info]  Client 1340dd97-bc55-4717-a8ee-ccc62c2de4ec connected
+[2023-04-24 12:57:40.040] [info]  Client 182eec16-e03b-4583-9a77-ab4e7d7d05c3 connected
+[2023-04-24 12:57:46.322] [info]  Client e7308783-c0e7-41be-aac0-356c9d268eba connected
+[2023-04-24 12:57:52.600] [info]  Client 3d15d110-feb5-4eda-95b1-ce2a92fc8758 connected
+[2023-04-24 12:57:58.884] [info]  Client ba960577-ce59-4244-9a79-8e6a4668b5a1 connected
+[2023-04-24 12:58:05.160] [info]  Client 850e3284-bc19-4123-bc35-92e22a683f7b connected
+[2023-04-24 12:58:11.437] [info]  Client 7fdd6695-5db6-410e-b3a0-a2421e1acea4 connected
+[2023-04-24 12:58:17.708] [info]  Client 83ae80ce-67e5-4d81-bb1b-66cebda12e75 connected
+[2023-04-24 12:58:23.992] [info]  Client e3010b88-d41b-4398-9b65-637f68c9daea connected
+[2023-04-24 12:58:30.262] [info]  Client 9d999924-afdc-409e-9b3f-6bcab1f4eecb connected
+[2023-04-24 12:58:36.542] [info]  Client 484e1cbf-8011-4cdc-a475-229d5434b7cf connected
+[2023-04-24 12:58:42.817] [info]  Client a461058e-29df-4658-b16b-e62b0e85f319 connected
+[2023-04-24 12:58:49.107] [info]  Client 8461304b-4cff-4e20-8ccd-dddcc0588f47 connected
+[2023-04-24 12:58:55.391] [info]  Client 9557b266-64fc-4349-b355-e6ca80b29d56 connected
+[2023-04-24 12:59:01.673] [info]  Client cfdd43b6-9282-4930-9834-00e553c57dda connected
+[2023-04-24 12:59:07.969] [info]  Client 80e9f2df-7db2-4d79-981c-109ed986553a connected
+[2023-04-24 12:59:14.295] [info]  Client 93b20010-2ff1-4de3-9a95-3a5e1e9ba976 connected
+[2023-04-24 12:59:20.572] [info]  Client 5850320e-4892-49cb-85d7-cc4708a83afc connected
+[2023-04-24 12:59:26.840] [info]  Client 396a2bc4-a2b5-4c70-8dce-970fcfe31b28 connected
+[2023-04-24 12:59:33.142] [info]  Client 4ae3fb46-0667-4208-8da5-cf32bedf187b connected
+[2023-04-24 12:59:39.415] [info]  Client d78a5446-ad20-4cf5-a3d6-e825de57b4c1 connected
+[2023-04-24 12:59:45.688] [info]  Client 6234dc76-c5ae-4a70-8017-af20a33d96c4 connected
+[2023-04-24 12:59:52.007] [info]  Client b70674e1-9bd2-4ec7-a6de-b438218571bd connected
+[2023-04-24 12:59:58.319] [info]  Client 37719ec3-4d3c-41b4-805c-9daa6944b97e connected
+[2023-04-24 13:00:01.344] [warn]  Cider exited.

@@ -1,0 +1,62 @@
+Mon 24 Apr 16:01:18 EEST 2023 INFO - initAID - Set AID from STEAM_COMPAT_APP_ID to '0'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - initAID - Set AID to PLACEHOLDERAID '31337'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - initAID - Set OSCDP to STEAM_COMPAT_DATA_PATH '/home/tommi/.local/share/Steam/steamapps/compatdata/0'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Language from command line is 'english'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - SYSTEMSTLCFGDIR is '/usr/share/steamtinkerlaunch'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Command line language 'english' is no file - trying to find its absolute path
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Loading found user-installed /home/tommi/.config/steamtinkerlaunch/lang/english.txt
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Language from command line is 'englishUK'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - GLOBALSTLLANGDIR is '/home/tommi/stl/prefix/lang'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Command line language 'englishUK' is no file - trying to find its absolute path
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Loading found user-installed /home/tommi/.config/steamtinkerlaunch/lang/englishUK.txt
+Mon 24 Apr 16:01:18 EEST 2023 INFO - getCurrentCommandline - No Proton in command line arguments 'run /home/tommi/.local/share/Steam/ubuntu12_32/../bin/d3ddriverquery64.exe -d3d12'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - saveOrgVars - Storing some original variables to restore them later
+Mon 24 Apr 16:01:18 EEST 2023 INFO - emptyVars - Emptied some original variables as they slowdown several system calls when started from steam
+Mon 24 Apr 16:01:18 EEST 2023 INFO - emptyVars - Set $PATH to '/sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:'
+Mon 24 Apr 16:01:18 EEST 2023 START - ######### Initializing Game Launch 31337 using SteamTinkerLaunch v12.12 #########
+Mon 24 Apr 16:01:18 EEST 2023 INFO - main - Starting with a clean log
+Mon 24 Apr 16:01:18 EEST 2023 INFO - main - Start creating default configs
+Mon 24 Apr 16:01:18 EEST 2023 INFO - createDefaultCfgs - START
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLanguage - First load the default language 'english' to make sure all variables are filled
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Language from command line is 'english'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - GLOBALSTLLANGDIR is '/home/tommi/stl/prefix/lang'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Command line language 'english' is no file - trying to find its absolute path
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Found user-installed /home/tommi/.config/steamtinkerlaunch/lang/english.txt, attempting to update it
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Found lang file to replace the existing user-installed file with under '/home/tommi/stl/prefix/lang/english.txt'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Loading found user-installed /home/tommi/.config/steamtinkerlaunch/lang/english.txt
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLanguage - Loading STLLANG from '/home/tommi/.config/steamtinkerlaunch/global.conf'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLanguage - STLLANG from '/home/tommi/.config/steamtinkerlaunch/global.conf' is 'englishUK'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLanguage - Now load the language file 'englishUK'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Language from command line is 'englishUK'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - GLOBALSTLLANGDIR is '/home/tommi/stl/prefix/lang'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Command line language 'englishUK' is no file - trying to find its absolute path
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Found user-installed /home/tommi/.config/steamtinkerlaunch/lang/englishUK.txt, attempting to update it
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Found lang file to replace the existing user-installed file with under '/home/tommi/stl/prefix/lang/englishUK.txt'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - loadLangFile - Loading found user-installed /home/tommi/.config/steamtinkerlaunch/lang/englishUK.txt
+Mon 24 Apr 16:01:18 EEST 2023 INFO - updateConfigEntry - Option 'STLLANG' is updated with the new value 'englishUK' in config 'global.conf'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - createDefaultCfgs - setSteamPaths:
+Mon 24 Apr 16:01:18 EEST 2023 INFO - setSteamPaths - Reading Steam Path variables from '/dev/shm/steamtinkerlaunch/steampaths.txt'
+Mon 24 Apr 16:01:18 EEST 2023 INFO - getGameOS - Starting game OS detection
+Mon 24 Apr 16:01:18 EEST 2023 WARN - getGameOS - Could not extract the full game binary path from the incoming game launch command, so assuming this is a Windows game!
+Mon 24 Apr 16:01:18 EEST 2023 INFO - setWin - '' determined to be a Windows Game
+Mon 24 Apr 16:01:18 EEST 2023 INFO - createDefaultCfgs - createProtonList:
+Mon 24 Apr 16:01:18 EEST 2023 INFO - createDefaultCfgs - createProtonList end
+Mon 24 Apr 16:01:19 EEST 2023 INFO - listAllSettingsEntries - '/dev/shm/steamtinkerlaunch/setentries.txt' already exists - nothing to do
+Mon 24 Apr 16:01:19 EEST 2023 INFO - createDefaultCfgs - STOP
+Mon 24 Apr 16:01:19 EEST 2023 SKIP - listSteamLibraries - not recreating already available '/dev/shm/steamtinkerlaunch/SteamLibraries.txt'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - setSteamLibraryPaths - STEAM_COMPAT_LIBRARY_PATHS set to '/home/tommi/.local/share/Steam/steamapps:/media/games/SteamLibrary/steamapps'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - setSteamLibraryPaths - STEAM_COMPAT_MOUNTS set to '/home/tommi/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier:/home/tommi/.local/share/Steam/steamapps/common/Steamworks Shared:/media/games/SteamLibrary/steamapps/common/SteamLinuxRuntime_sniper'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - setSteamLibraryPaths - STEAM_COMPAT_TOOL_PATHS set to '/home/tommi/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier:/home/tommi/.local/share/Steam/steamapps/common/Steamworks Shared:/media/games/SteamLibrary/steamapps/common/SteamLinuxRuntime_sniper'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - main - Checking internal dependencies:
+Mon 24 Apr 16:01:19 EEST 2023 INFO - setAwkBin - Found 'gawk' as an 'awk' variant. It should work without any issues, because 'gawk' was tested completely
+Mon 24 Apr 16:01:19 EEST 2023 INFO - checkIntDeps - Result of version check for yad binary '/sbin/yad' is '12.3'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - main - Initializing first Proton:
+Mon 24 Apr 16:01:19 EEST 2023 INFO - initOldProtonArr - Creating an initial array with available Proton versions using the file '/dev/shm/steamtinkerlaunch/ProtonCSV.txt' which was created during a previous run
+Mon 24 Apr 16:01:19 EEST 2023 INFO - initFirstProton - Initializing Proton
+Mon 24 Apr 16:01:19 EEST 2023 INFO - initFirstProton - Initial Proton version 'FIRSTUSEPROTON' from '/home/tommi/.config/steamtinkerlaunch/default_template.conf' is 'proton-8.0-1d'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - main - Initializing default window resolution
+Mon 24 Apr 16:01:19 EEST 2023 INFO - setInitWinXY - Using '1920x1080' from config '/dev/shm/steamtinkerlaunch/defres.txt'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - main - Welcome to SteamTinkerLaunch
+Mon 24 Apr 16:01:19 EEST 2023 INFO - removeEmptyFiles - Removing empty files from '/home/tommi/.config/steamtinkerlaunch/games/appinfo'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - removeEmptyFiles - Removing empty files from '/home/tommi/.config/steamtinkerlaunch/games/header'
+Mon 24 Apr 16:01:19 EEST 2023 INFO - main - Checking command line: incoming arguments 'run /home/tommi/.local/share/Steam/ubuntu12_32/../bin/d3ddriverquery64.exe -d3d12'

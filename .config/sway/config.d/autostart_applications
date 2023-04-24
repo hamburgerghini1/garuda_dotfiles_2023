@@ -62,3 +62,6 @@ exec playerctld daemon &
 
 # ly
 exec ly
+
+# cider-waybar
+exec /home/tommi/.confog/waybar/scripts/cider-waybar.sh

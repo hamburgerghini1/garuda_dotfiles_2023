@@ -7,14 +7,15 @@
 	"modules-left": [
 		"sway/workspaces",
 		"custom/right-arrow-workspaces",
-		"ciderbar",
 		"idle_inhibitor",
+		"module/nowplaying",
 	],
 	"modules-center": [
 		"sway/window",
 		"clock",
 	],
 	"modules-right": [
+		"custom/cider",
 		"custom/pipewire",
 		"memory",
 		"cpu",
@@ -24,6 +25,13 @@
 		"custom/keyboard-layout",
 		"tray",
 		"custom/exit"
+	],
+
+		"module/now-playing": [
+		"type = custom/script",
+		"tail = true",
+		"format = <label>",
+		"exec = <path/to/script>",
 	],
 
 	"custom/right-arrow-workspaces": {
@@ -71,15 +79,15 @@
 		"disable-scroll": false,
 		"format": "{name}"
 	},
-     
-     	"module/ciderbar": {
-		"type": "custom/script",
-		"exec": "cider-polybar -a get-currentmediaitem",
-		"scroll-up": "cider-polybar -a volume -v 0.01",
-		"scroll-down": "cider-polybar -a volume -v -0.01",
-		"interval": 0.3
-	},
 
+	"custom/cider": {
+		"format": "  {output}",
+  		"exec": "cider-polybar -a get-currentmediaitem",
+  		"interval": 5,
+  		"return-type": "json",
+  		"click-left": "cider"
+	},
+     
 
 	"custom/pipewire": {
     		"exec": "pw-volume status",
@@ -191,6 +199,11 @@
     	       "on-click": "exec nwg-drawer -c 7 -is 70 -spacing 23",
     	       "tooltip": false,
 },
+	
+       "type": "custom/cider-waybar",
+       "settings": {}
+},
+
 
       "idle_inhibitor": {
            "format": "{icon}",
