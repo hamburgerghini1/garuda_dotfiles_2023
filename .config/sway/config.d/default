@@ -235,3 +235,8 @@ bindsym $mod+Ctrl+ n exec cider-polybar -a previous
 bindsym button4 exec amixer -q set Master 5%+
 bindsym button5 exec amixer -q set Master 5%-
 
+
+#
+# Enable numlock on startup
+#
+input type:keyboard xkb_numlock enabled

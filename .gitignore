@@ -4,3 +4,10 @@
 .config/kdeconnect/certificate.pem
 .config/kdeconnect/config
 .config/kdeconnect/privateKey.pem
+.config/discord
+.config/azote
+.config/bleachbit
+.config/BraveSoftware
+.config/catfish
+.config/cef_user_data
+.config

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Yakuza 0
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/638970
-Icon=/home/tommi/.config/steamtinkerlaunch/games/header/638970.jpg
-Terminal=false
-Type=Application
-Categories=Game;
