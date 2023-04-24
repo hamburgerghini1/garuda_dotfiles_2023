@@ -212,7 +212,7 @@ bindsym XF86AudioMute exec "pw-volume mute toggle; pkill -RTMIN+8 waybar"
 #
 # App shortcuts
 #
-    bindsym $mod+o exec vivaldi
+    bindsym $mod+o exec vivaldi-stable
 
 # Screenshots
 #
