@@ -20,3 +20,4 @@ tmpfs                                     /tmp           tmpfs   defaults,noatim
 
 #games
 UUID=0b94daa5-f8db-432d-bb0f-011817e7ca31   /media/games   btrfs     rw,users,exec,auto   0  0
+UUID=023b9fdc-ca14-424a-842d-4a988f9dbc58   /media/games2  btrfs     rw,users,exec,auto   0  0
