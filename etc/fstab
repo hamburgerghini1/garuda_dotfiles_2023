@@ -1,0 +1,22 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a device; this may
+# be used with UUID= as a more robust way to name devices that works even if
+# disks are added and removed. See fstab(5).
+#
+# <file system>             <mount point>  <type>  <options>  <dump>  <pass>
+UUID=4B19-AA7A                            /boot/efi      vfat    defaults,noatime 0 2
+UUID=c181dba8-8260-4b87-bc86-c153815e9b45 /              btrfs   subvol=/@,defaults,noatime,compress=zstd 0 0
+UUID=c181dba8-8260-4b87-bc86-c153815e9b45 /home          btrfs   subvol=/@home,defaults,noatime,compress=zstd 0 0
+UUID=c181dba8-8260-4b87-bc86-c153815e9b45 /root          btrfs   subvol=/@root,defaults,noatime,compress=zstd 0 0
+UUID=c181dba8-8260-4b87-bc86-c153815e9b45 /srv           btrfs   subvol=/@srv,defaults,noatime,compress=zstd 0 0
+UUID=c181dba8-8260-4b87-bc86-c153815e9b45 /var/cache     btrfs   subvol=/@cache,defaults,noatime,compress=zstd 0 0
+UUID=c181dba8-8260-4b87-bc86-c153815e9b45 /var/log       btrfs   subvol=/@log,defaults,noatime,compress=zstd 0 0
+UUID=c181dba8-8260-4b87-bc86-c153815e9b45 /var/tmp       btrfs   subvol=/@tmp,defaults,noatime,compress=zstd 0 0
+UUID=22ce4738-4922-4c5b-a6d4-afe4c8f1bf39 swap           swap    defaults   0 0
+tmpfs                                     /tmp           tmpfs   defaults,noatime,mode=1777 0 0
+
+
+
+#games
+UUID=0b94daa5-f8db-432d-bb0f-011817e7ca31   /media/games   btrfs     rw,users,exec,auto   0  0
