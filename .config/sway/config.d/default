@@ -240,3 +240,7 @@ bindsym button5 exec amixer -q set Master 5%-
 # Enable numlock on startup
 #
 input type:keyboard xkb_numlock enabled
+
+
+# sway notification center control
+bindsym $mod+Shift+n exec swaync-client -t -sw

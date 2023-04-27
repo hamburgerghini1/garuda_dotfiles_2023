@@ -2,8 +2,7 @@
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 # Desktop notifications
-exec mako
-
+exec swaync
 
 # GTK3 applications take a long time to start
 exec systemctl --user import-environment DISPLAY WAYLAND_DISPLAY SWAYSOCK
@@ -64,4 +63,4 @@ exec playerctld daemon &
 exec ly
 
 # cider-waybar
-exec /home/tommi/.confog/waybar/scripts/cider-waybar.sh
+exec /home/tommi/.config/waybar/scripts/cider-waybar.sh

@@ -6,7 +6,6 @@
 
 	"modules-left": [
 		"sway/workspaces",
-		"custom/right-arrow-workspaces",
 		"idle_inhibitor",
 		"module/nowplaying",
 	],
@@ -16,64 +15,16 @@
 	],
 	"modules-right": [
 		"custom/cider",
-		"custom/pipewire",
 		"memory",
 		"cpu",
 		"temperature",
 		"disk",
 		"custom/pacman",
 		"custom/keyboard-layout",
+		"custom/notification",
 		"tray",
-		"custom/exit"
 	],
 
-		"module/now-playing": [
-		"type = custom/script",
-		"tail = true",
-		"format = <label>",
-		"exec = <path/to/script>",
-	],
-
-	"custom/right-arrow-workspaces": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/right-arrow-shortcuts": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/right-arrow-mpd": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/left-arrow-clock": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/right-arrow-clock": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/left-arrow-pulse": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/left-arrow-modules": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/left-arrow-mpd": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/left-arrow-modules": {
-		"format": "",
-		"tooltip": false
-	},
-	"custom/left-arrow-tray": {
-		"format": "",
-		"tooltip": false
-	},
 
 	"sway/workspaces": {
 		"disable-scroll": false,
@@ -88,6 +39,24 @@
   		"click-left": "cider"
 	},
      
+
+	"custom/notification": {
+        "tooltip": false,
+        "format": "{} {icon}",
+        "format-icons": {
+            "notification": "<big></big>",
+            "none": "<big></big>",
+            "dnd-notification": "<big></big>",
+            "dnd-none": "<big></big>"
+        },
+        "return-type": "json",
+        "exec-if": "which swaync-client",
+        "exec": "swaync-client -swb",
+        "on-click": "swaync-client -t -sw",
+        "on-click-right": "swaync-client -d -sw",
+        "escape": true
+    },
+
 
 	"custom/pipewire": {
     		"exec": "pw-volume status",
