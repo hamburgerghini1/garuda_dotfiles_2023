@@ -199,16 +199,15 @@ bindsym --whole-window --border $mod+shift+button5 resize grow width 5 px or 5 p
 #
 # Volume
 #
-bindsym XF86AudioRaiseVolume exec "pw-volume change +2.5%; pkill -RTMIN+8 waybar"
-bindsym XF86AudioLowerVolume exec "pw-volume change -2.5%; pkill -RTMIN+8 waybar"
-bindsym XF86AudioMute exec "pw-volume mute toggle; pkill -RTMIN+8 waybar"
+bindsym F6 exec /home/tommi/.config/pipewire_audio_control.sh F6
+bindsym F7 exec /home/tommi/.config/pipewire_audio_control.sh F7
+bindsym F8 exec /home/tommi/.config/pipewire_audio_control.sh F8
+bindsym F9 exec /home/tommi/.config/pipewire_audio_control.sh F9
+bindsym F10 exec /home/tommi/.config/pipewire_audio_control.sh F10
+bindsym F11 exec /home/tommi/.config/pipewire_audio_control.sh F11
 
-#
-# Player
-#
-    bindsym F7 exec playerctl --ignore-player=firefox,brave play-pause
-    bindsym F8 exec playerctl --ignore-player=firefox,brave next
-    bindsym F6 exec playerctl --ignore-player=firefox,brave previous
+
+
 #
 # App shortcuts
 #

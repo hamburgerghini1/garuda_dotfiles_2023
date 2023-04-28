@@ -7,14 +7,13 @@
 	"modules-left": [
 		"sway/workspaces",
 		"idle_inhibitor",
-		"module/nowplaying",
 	],
 	"modules-center": [
 		"sway/window",
 		"clock",
 	],
 	"modules-right": [
-		"custom/cider",
+		"custom/spotify",
 		"memory",
 		"cpu",
 		"temperature",
@@ -31,14 +30,15 @@
 		"format": "{name}"
 	},
 
-	"custom/cider": {
-		"format": "  {output}",
-  		"exec": "cider-polybar -a get-currentmediaitem",
-  		"interval": 5,
-  		"return-type": "json",
-  		"click-left": "cider"
-	},
      
+	 "custom/spotify": {
+    	 "exec": "/usr/bin/python3 /home/tommi/.config/waybar/scripts/mediaplayer.py --player spotify",
+     	 "format": "{}  ",
+    	 "return-type": "json",
+    	 "on-click": "playerctl play-pause",
+    	 "on-scroll-up": "playerctl next",
+    	 "on-scroll-down": "playerctl previous"
+	},
 
 	"custom/notification": {
         "tooltip": false,
