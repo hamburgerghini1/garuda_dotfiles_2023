@@ -37,13 +37,6 @@ alias upd='/usr/bin/update'
 alias vdir='vdir --color=auto'
 alias wget='wget -c '
 
-# Help people new to Arch
-alias apt-get='man pacman'
-alias apt='man pacman'
-alias helpme='cht.sh --shell'
-alias please='sudo'
-alias tb='nc termbin.com 9999'
-
 # Cleanup orphaned packages
 alias cleanup='sudo pacman -Rns `pacman -Qtdq`'
 
@@ -52,3 +45,16 @@ alias jctl="journalctl -p 3 -xb"
 
 # Recent installed packages
 alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
+
+neofetch
+
+#yay
+alias install="sudo pacman -S"
+alias update="sudo pacman -Syyu"
+alias remove="sudo pacman -R"
+
+#flatpak
+alias fpupd="flatpak update"
+alias fpinst="flatpak install"
+alias fprem="flatpak remove"
+alias fplist="flatpak list"
