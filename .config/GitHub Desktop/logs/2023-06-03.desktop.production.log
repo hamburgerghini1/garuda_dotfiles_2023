@@ -1,0 +1,109 @@
+2023-06-03T10:00:38.836Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-06-03T10:00:38.899Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-06-03T10:00:38.916Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-06-03T10:00:38.919Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.5-zen1-1-zen)
+2023-06-03T10:00:38.919Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-03T10:00:38.950Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-06-03T10:00:39.210Z - info: [ui] Opt in reported.
+2023-06-03T10:00:41.678Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2023-06-03T10:00:41.681Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-06-03T10:00:41.687Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=44af0290-c2a9-422e-9cc7-1bfd6a09efb2
+2023-06-03T10:00:41.687Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2023-06-03T10:00:42.080Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-06-03T10:00:46.975Z - info: [main] Received possible protocol arguments: 3
+2023-06-03T10:00:46.975Z - info: [main] Processing protocol url
+2023-06-03T10:00:46.981Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-06-03T10:00:46.983Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-06-03T10:00:47.029Z - info: [main] Received possible protocol arguments: 2
+2023-06-03T10:00:47.031Z - info: [main] Processing protocol url
+2023-06-03T10:00:47.794Z - info: [ui] [SignInStore] account resolved
+2023-06-03T10:00:47.794Z - info: [ui] [AppStore] adding account hamburgerghini1 (hamburgerghini1) to store
+2023-06-03T10:00:47.799Z - error: [ui] Error adding account 'hamburgerghini1'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-06-03T10:00:47.800Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2023-06-03T10:00:47.837Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-06-03T10:00:49.536Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-06-03T10:00:49.546Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-06-03T10:30:46.543Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-06-03T10:30:46.623Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.5-zen1-1-zen)
+2023-06-03T10:30:46.624Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-03T10:30:47.058Z - info: [ui] Stats reported.
+2023-06-03T10:30:51.838Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-06-03T10:30:51.840Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=267ec1de-4864-4f02-a4e0-5e03b1ef7706
+2023-06-03T10:30:59.591Z - info: [main] Received possible protocol arguments: 3
+2023-06-03T10:30:59.591Z - info: [main] Processing protocol url
+2023-06-03T10:30:59.597Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-06-03T10:30:59.647Z - info: [main] Received possible protocol arguments: 2
+2023-06-03T10:30:59.649Z - info: [main] Processing protocol url
+2023-06-03T10:31:00.412Z - info: [ui] [SignInStore] account resolved
+2023-06-03T10:31:00.412Z - info: [ui] [AppStore] adding account hamburgerghini1 (hamburgerghini1) to store
+2023-06-03T10:31:00.417Z - error: [ui] Error adding account 'hamburgerghini1'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-06-03T10:31:53.366Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-06-03T10:31:53.375Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=4bac5105-8590-4f00-bf98-212be489795d
+2023-06-03T10:31:57.543Z - info: [main] Received possible protocol arguments: 3
+2023-06-03T10:31:57.543Z - info: [main] Processing protocol url
+2023-06-03T10:31:57.544Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-06-03T10:31:57.604Z - info: [main] Received possible protocol arguments: 2
+2023-06-03T10:31:57.607Z - info: [main] Processing protocol url
+2023-06-03T10:31:58.215Z - info: [ui] [SignInStore] account resolved
+2023-06-03T10:31:58.215Z - info: [ui] [AppStore] adding account hamburgerghini1 (hamburgerghini1) to store
+2023-06-03T10:32:06.711Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-06-03T10:32:16.027Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/Garuda-kde-config.git - hamburgerghini1 (has token)
+2023-06-03T10:32:23.251Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/Garuda-kde-config.git /home/tommi/Documents/GitHub/Garuda-kde-config (took 7.208s)
+2023-06-03T10:32:23.264Z - info: [ui] [AppStore] adding repository at /home/tommi/Documents/GitHub/Garuda-kde-config to store
+2023-06-03T10:32:59.393Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Garuda-kde-config - hamburgerghini1 (has token)
+2023-06-03T10:33:11.726Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.4s of which 11.5s paused, total 12.8s
+2023-06-03T10:34:18.699Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Documents/GitHub/Garuda-kde-config/.bashrc'
+2023-06-03T10:34:45.739Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/Garuda-kde-config' took 1.535s
+2023-06-03T10:35:35.283Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Garuda-kde-config - hamburgerghini1 (has token)
+2023-06-03T10:36:10.524Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 30.358s)
+2023-06-03T10:36:10.715Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'tommi@arcolinux.(none)')
+
+2023-06-03T10:36:10.715Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/Garuda-kde-config' took 31.495s
+2023-06-03T10:37:01.684Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Documents/GitHub/Garuda-kde-config/.bashrc'
+2023-06-03T10:37:03.929Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Garuda-kde-config - hamburgerghini1 (has token)
+2023-06-03T10:38:09.480Z - error: [ui] Could not load new contents for syntax highlighting
+Error: ENOENT: no such file or directory, open '/home/tommi/Documents/GitHub/Garuda-kde-config/.bashrc'
+2023-06-03T10:38:23.514Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 22.826s)
+2023-06-03T10:38:25.697Z - info: [ui] Executing createCommit: git commit -F - (took 2.177s)
+2023-06-03T10:38:25.756Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/Garuda-kde-config' took 25.696s
+2023-06-03T10:38:25.898Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-06-03T10:39:12.346Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Garuda-kde-config - hamburgerghini1 (has token)
+2023-06-03T10:39:43.263Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 30.911s)
+2023-06-03T10:44:35.839Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-06-03T10:44:35.843Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-06-03T10:44:35.875Z - info: [ui] [BranchPruner] Last prune took place 12 minutes ago - skipping
+2023-06-03T10:44:36.061Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-06-03T10:44:36.208Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.5-zen1-1-zen)
+2023-06-03T10:44:36.208Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-03T10:44:36.263Z - info: [ui] [BranchPruner] Last prune took place 12 minutes ago - skipping
+2023-06-03T10:44:36.314Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-06-03T10:44:36.339Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-06-03T10:44:38.125Z - info: [ui] Executing getChangesFiles: git log 2f977d8c57a94980fc24c9cc737c2f2c1b57b0e1 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 2.063s)
+2023-06-03T10:44:38.348Z - info: [ui] Executing getChangesFiles: git log 2f977d8c57a94980fc24c9cc737c2f2c1b57b0e1 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.995s)
+2023-06-03T10:44:51.211Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/garuda_dotfiles_2023.git - hamburgerghini1 (has token)
+2023-06-03T10:46:11.002Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/garuda_dotfiles_2023.git /home/tommi/Documents/GitHub/garuda_dotfiles_2023 (took 79.789s)
+2023-06-03T10:46:11.009Z - info: [ui] [AppStore] adding repository at /home/tommi/Documents/GitHub/garuda_dotfiles_2023 to store
+2023-06-03T10:46:11.039Z - info: [ui] [BranchPruner] Last prune took place 14 minutes ago - skipping
+2023-06-03T10:46:11.056Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
