@@ -1,6 +1,7 @@
 if status is-interactive
     # Commands to run in interactive sessions can go here
 end
+
 neofetch
 
 #Aliases
@@ -29,3 +30,13 @@ alias tag='git tag'
 alias newtag='git tag -a'
 
 alias ls='ls -a'
+
+#nix
+alias nixinst='nix-env -iA'
+alias nixlist='nix-env -q'
+alias nixrem='nix-env -e'
+alias nixupd='nix-env -u'
+alias nixholdpkg='nix-env --set-flag keep true'
+alias nixlistgen='nix-env --list-generations'
+alias nixrb='nix-env --rollback'
+alias nixswitchgen='nix-env --switch-generation'
