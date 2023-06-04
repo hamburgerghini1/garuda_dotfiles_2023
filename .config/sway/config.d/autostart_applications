@@ -61,3 +61,9 @@ exec playerctld daemon &
 
 # ly
 exec ly
+
+# mullvad vpn
+exec mullvad-vpn
+
+#easyeffects
+exec easyeffects
