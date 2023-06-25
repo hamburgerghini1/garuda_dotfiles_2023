@@ -61,6 +61,6 @@ background:
 
 # Shell
 # shell:
-#   program: /usr/bin/fish
+#   program: /bin/fish
 #   args:
 #     - --login
