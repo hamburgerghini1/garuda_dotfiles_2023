@@ -118,6 +118,7 @@ window#waybar {
 }
 #custom-pacman{
 	color: @orange;
+	font-family: "Papirus-kolorizer";
 }
 
 #custom-keyboard-layout{

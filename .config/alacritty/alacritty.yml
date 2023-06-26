@@ -1,6 +1,6 @@
+# Cyberpunk-Neon colours
 draw_bold_text_with_bright_colors: true
 
-# Cyberpunk-Neon colours
 colors:
   # Default colours
   primary:
@@ -47,13 +47,20 @@ colors:
     cyan:    '0x0abdc6'
     white:   '0xd7d7d5'
 
-  # background
-  background:
-    # Set the opacity of the window (0.0-1.0)
-    opacity: 0.0
-    background_opacity: 0.6
- #shell:
-#  program: /usr/bin/bash
-#  args:
-#    - --login
+# Font
+font:
+  family: 'Helvetica Neue'
+  style: Bold
+  size: 10.0
 
+# Background
+background:
+  # Set the opacity of the window (0.0-1.0)
+  opacity: 0.0
+  background_opacity: 0.6
+
+# Shell
+# shell:
+#   program: /bin/fish
+#   args:
+#     - --login

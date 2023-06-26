@@ -1,5 +1,0 @@
-{
-  "exec": "waybar -c ~/.config/waybar/config -p cider-waybar",
-  "interval": 1,
-  "format": "{output}"
-}

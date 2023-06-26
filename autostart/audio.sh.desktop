@@ -1,4 +1,0 @@
-[Desktop Entry]
-Type=Application
-Exec="/usr/bin/scream_audio.sh"
-X-GNOME-Autostart-enabled=true
