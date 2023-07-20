@@ -1,0 +1,19 @@
+{
+    "id": "7ab601774c1ca8fc8dedb945ea1fcdbe",
+    "metadata": {
+        "fullname": "xrandr-STD Computer Inc-MD270F-1234567890123",
+        "name": "HDMI-A-0"
+    },
+    "mode": {
+        "refresh": 143.98062133789062,
+        "size": {
+            "height": 1440,
+            "width": 2560
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

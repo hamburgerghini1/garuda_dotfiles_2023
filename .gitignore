@@ -1,7 +1,19 @@
 
 .config/akonadi-firstrunrc
-.config/akonadi/agent_config_akonadi_akonotes_resource_0
+.config/akonadi
 .config/akregatorrc
-.config/archlinux-tweak-tool/settings.ini
+.config/archlinux-tweak-tool
 .config/baloofilerc
-.config/gtk-4.0/settings.ini
+.config/gtk-4.0
+.config/balena-etcher
+.config/BetterDiscord
+.config/BetterDiscord Installer
+.config/bleachbit
+.config/cef_user_data
+.config/chromium
+.config/dconf
+.config/discord
+.config/steamtinkerlaunch
+.local/share/Steam
+.local/share/Trash
+.

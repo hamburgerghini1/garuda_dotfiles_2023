@@ -1,0 +1,15 @@
+[MainWindow]
+2560x1440 screen: Window-Maximized=true
+2560x1440 screen: XPosition=1005
+2560x1440 screen: YPosition=588
+DisplayPort-5=DisplayPort-5
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACgAAAAVZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=yak,pamac-tray
+
+[UiSettings]
+ColorScheme=Default

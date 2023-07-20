@@ -1,0 +1,33 @@
+[Desktop Entry]
+DefaultProfile=XeroLinux.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+RememberWindowSize=false
+ShowMenuBarByDefault=false
+
+[MainWindow]
+2560x1440 screen: Height=1022
+2560x1440 screen: Width=1282
+2560x1440 screen: Window-Maximized=true
+2560x1440 screen: XPosition=1278
+2560x1440 screen: YPosition=418
+DP-6=DP-6
+DisplayPort-5=DisplayPort-5
+HDMI-A-0=HDMI-A-0
+HDMI-A-1=HDMI-A-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAbcBAAAJ+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABQQEAAAkAAAUAAAAFWQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Virtual-1=Virtual-1
+
+[TabBar]
+CloseTabOnMiddleMouseButton=true
+NewTabButton=true
+
+[UiSettings]
+ColorScheme=

@@ -1,0 +1,10 @@
+[Applications][com.spotify.Client]
+ShowBadges=false
+ShowInHistory=false
+ShowPopups=false
+
+[Applications][org.manjaro.pamac.manager]
+Seen=true
+
+[Applications][vivaldi-stable]
+Seen=true

@@ -1,0 +1,6 @@
+[2023-07-20 09:32:45.464][verbose] Chromium sandbox is enabled
+[2023-07-20 09:32:45.465][info] Running version 2023.4
+[2023-07-20 09:32:45.562][info] Detected locale: en-GB
+[2023-07-20 09:32:45.599][info] Connected to the daemon
+[2023-07-20 09:32:45.712][info] Skip autoconnect because GUI setting is disabled
+[2023-07-20 09:32:45.946][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/tommi/.config/autostart/mullvad-vpn.desktop'

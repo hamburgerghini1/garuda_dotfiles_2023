@@ -1,0 +1,15 @@
+2023-06-24T10:03:21.121Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-06-24T10:03:21.125Z - info: [ui] [AppStore] found account: hamburgerghini1 (hamburgerghini1)
+2023-06-24T10:03:21.241Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.9-arch1-1)
+2023-06-24T10:03:21.243Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-24T10:03:21.563Z - info: [ui] Subscribed 'hamburgerghini1' to Alive channel
+2023-06-24T10:03:21.639Z - info: [ui] Stats reported.
+2023-06-24T10:03:49.574Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hamburgerghini1/garuda_dotfiles_2023.git - hamburgerghini1 (has token)
+2023-06-24T10:05:34.500Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hamburgerghini1/garuda_dotfiles_2023.git /home/tommi/Documents/GitHub/garuda_dotfiles_2023 (took 104.921s)
+2023-06-24T10:05:34.511Z - info: [ui] [AppStore] adding repository at /home/tommi/Documents/GitHub/garuda_dotfiles_2023 to store
+2023-06-24T10:05:34.546Z - info: [ui] [BranchPruner] Last prune took place 2 minutes ago - skipping
+2023-06-24T10:10:30.531Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: garuda_dotfiles_2023 - hamburgerghini1 (has token)
+2023-06-24T10:11:27.282Z - info: [ui] Executing unstageAll: git reset -- . (took 1.203s)
+2023-06-24T10:11:27.386Z - info: [ui] [Timing] Action 'create commit' for 'hamburgerghini1/garuda_dotfiles_2023' took 1.335s
+2023-06-24T10:11:29.399Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: garuda_dotfiles_2023 - hamburgerghini1 (has token)
+2023-06-24T10:11:31.018Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.597s)

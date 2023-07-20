@@ -1,0 +1,299 @@
+amdgpu: amdgpu_cs_ctx_create2 failed. (-13)
+00:00:00.108 [ERROR] [wlr] [xwayland/sockets.c:63] Failed to bind socket @/tmp/.X11-unix/X0: Address already in use
+sh: line 1: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: No such file or directory
+sh: line 1: wob: command not found
+00:00:01.360 [ERROR] [sway/config.c:718] Error on line 'exec gnome-keyring-daemon --daemonize --start --components=gpg,pkcs11,secrets,ssh': Unknown/invalid command 'pkcs11'
+discover_other_daemon: 1failed to open file /home/tommi/.config/kanshi/config: No such file or directory
+sh: line 1: /usr/libexec/xdg-desktop-portal: No such file or directory
+sh: line 1: tracker: command not found
+[2023-07-20T06:32:44Z ERROR swayr::daemon] Could not delete socket:
+    Os { code: 2, kind: NotFound, message: "No such file or directory" }
+sh: line 1: ly: command not found
+playerctld successfully started with DBus service activation
+sh: line 1: easyeffects: command not found
+sh: line 1: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: No such file or directory
+time="2023-07-20T09:32:44+03:00" level=info msg="Data dir: /home/tommi/.local/share/nwg-drawer"
+time="2023-07-20T09:32:44+03:00" level=info msg="term: foot"
+time="2023-07-20T09:32:44+03:00" level=info msg="lang: en_GB"
+time="2023-07-20T09:32:44+03:00" level=info msg="Config dir: /home/tommi/.config/nwg-drawer"
+time="2023-07-20T09:32:44+03:00" level=info msg="Found 0 pinned items"
+mkfifo: cannot create fifo '/run/user/1000/sway-ipc.1000.895.sock.wob': File exists
+sh: line 1: wob: command not found
+time="2023-07-20T09:32:44+03:00" level=info msg="Found 286 desktop files"
+00:00:01.419 [ERROR] [sway/config.c:718] Error on line 'exec gnome-keyring-daemon --daemonize --start --components=gpg,pkcs11,secrets,ssh': Unknown/invalid command 'pkcs11'
+failed to open file /home/tommi/.config/kanshi/config: No such file or directory
+discover_other_daemon: 1sh: line 1: /usr/libexec/xdg-desktop-portal: No such file or directory
+sh: line 1: tracker: command not found
+sh: line 1: ly: command not found
+time="2023-07-20T09:32:44+03:00" level=info msg="Data dir: /home/tommi/.local/share/nwg-drawer"
+time="2023-07-20T09:32:44+03:00" level=warning msg="Resident instance already running (PID 985)"
+sh: line 1: easyeffects: command not found
+playerctld DBus service is already running
+discover_other_daemon: 1discover_other_daemon: 1discover_other_daemon: 1Detected Wayland session 'wayland-1'. Exiting.
+sh: line 1: wlroots-set-cursor-theme: command not found
+Detected Wayland session 'wayland-1'. Exiting.
+2023-07-20 09:32:44 - [swaybg-1.2.0/main.c:293] Found config DP-3 for output DP-3 (STD Computer Inc MD270F 1234567890123)
+time="2023-07-20T09:32:44+03:00" level=info msg="Skipped 1 duplicates; 160 .desktop entries hidden by \"NoDisplay=true\""
+time="2023-07-20T09:32:44+03:00" level=info msg="/home/tommi/.config/nwg-drawer/preferred-apps.json file not found"
+time="2023-07-20T09:32:44+03:00" level=info msg="/home/tommi/.config/nwg-drawer/excluded-dirs file not found"
+cat: /proc/acpi/button/lid/LID/state: No such file or directory
+Detected Wayland session 'wayland-1'. Exiting.
+/home/tommi/.config/sway/scripts/clamshell.sh: line 5: eDP-1: No such file or directory
+/home/tommi/.config/sway/scripts/light.sh: line 5: wlsunset: command not found
+discover_other_daemon: 1/home/tommi/.config/sway/scripts/light.sh: line 5: wlsunset: command not found
+Detected Wayland session 'wayland-1'. Exiting.
+discover_other_daemon: 1discover_other_daemon: 1
+(waybar:930): Gtk-WARNING **: 09:32:44.927: Theme parsing error: style.css:3:20: Not using units is deprecated. Assuming 'px'.
+
+(waybar:930): Gtk-WARNING **: 09:32:44.927: Theme parsing error: style.css:6:14: Not using units is deprecated. Assuming 'px'.
+2023/07/20 09:32:44 socat[1485] E connect(, AF=1 "/run/user/1000/kwallet5.socket", 32): Connection refused
+** Message: 09:32:45.042: factory.vala:42: Loading widget: inhibitors
+** Message: 09:32:45.042: factory.vala:42: Loading widget: inhibitors
+** Message: 09:32:45.042: factory.vala:42: Loading widget: title
+** Message: 09:32:45.042: factory.vala:42: Loading widget: title
+** Message: 09:32:45.042: factory.vala:42: Loading widget: dnd
+** Message: 09:32:45.042: factory.vala:42: Loading widget: dnd
+Could not acquire notification name. Please close any other notification daemon like mako or dunst
+dbus-daemon[1132]: Activating service name='org.a11y.atspi.Registry' requested by ':1.11' (uid=1000 pid=1141 comm="/usr/bin/python3 /usr/lib/blueberry/blueberry-obex")
+time="2023-07-20T09:32:45+03:00" level=info msg="Preferring dark theme variants"
+time="2023-07-20T09:32:45+03:00" level=info msg="Using style from /home/tommi/.config/nwg-drawer/drawer.css"
+
+** (process:1541): WARNING **: 09:32:45.139: XDG_CURRENT_DESKTOP not set, unable to check against enabled desktop list. Starting anyway...
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+dbus-daemon[1132]: Successfully activated service 'org.a11y.atspi.Registry'
+** Message: 09:32:45.149: updates_checker.vala:71: check updates
+Errors from xkbcomp are not fatal to the X server
+
+** (process:1609): WARNING **: 09:32:45.210: XDG_CURRENT_DESKTOP not set, unable to check against enabled desktop list. Starting anyway...
+00:00:02.011 [ERROR] [wlr] [xwayland/xwm.c:1522] xcb error: op ChangeWindowAttributes (no minor), code Window (no extension), sequence 159, value 18874373
+blueman-applet 09.32.45 WARNING  PluginManager:94 load_plugin: Failed to start plugin GameControllerWakelock: Only X11 platform is supported
+blueman-applet 09.32.45 WARNING  PluginManager:94 load_plugin: Failed to start plugin GameControllerWakelock: Only X11 platform is supported
+blueman-applet 09.32.45 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 09.32.45 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 09.32.45 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 09.32.45 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+
+(blueberry-tray.py:1225): Gtk-CRITICAL **: 09:32:45.399: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+00:00:02.206 [ERROR] [wlr] [xwayland/xwm.c:1522] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 210, value 14680067
+00:00:02.207 [ERROR] [wlr] [xwayland/xwm.c:1522] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 213, value 12582919
+[1032:0720/093245.462257:ERROR:process_singleton_posix.cc(338)] Failed to create /home/tommi/.config/Mullvad VPN/SingletonLock: File exists (17)
+time="2023-07-20T09:32:45+03:00" level=error msg="Failed to open file “/usr/share/icons/Humanity/devices/48/printer.svg”: No such file or directory"
+time="2023-07-20T09:32:45+03:00" level=warning msg="userDirsFile user-dirs.dirs not found, using defaults"
+
+(nm-applet:950): Gtk-CRITICAL **: 09:32:45.501: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+time="2023-07-20T09:32:45+03:00" level=info msg="UI created in 903 ms. Thank you for your patience."
+blueman-applet 09.32.45 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.bluez.obex.Error.AlreadyExists Agent already exists
+blueman-applet 09.32.45 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.bluez.obex.Error.AlreadyExists Agent already exists
+
+** (waybar:930): WARNING **: 09:32:45.553: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:930): LIBDBUSMENU-GLIB-WARNING **: 09:32:45.567: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/NO_DBUSMENU'
+
+** (waybar:930): WARNING **: 09:32:45.613: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:930): WARNING **: 09:32:45.670: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:930): WARNING **: 09:32:45.683: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:930): WARNING **: 09:32:45.834: Status Notifier Item with bus name ':1.3' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-07-20 09:32:45.946][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/tommi/.config/autostart/mullvad-vpn.desktop'
+
+(waybar:930): LIBDBUSMENU-GLIB-WARNING **: 09:32:46.339: Unable to replace properties on 0: Error getting properties for ID
+** Message: 09:32:48.221: updates_checker.vala:101: 7 updates found
+libinput-gestures failed to start as a desktop application.
+libinput-gestures failed to start as a desktop application.
+
+(xapp-sn-watcher:1541): GLib-GObject-CRITICAL **: 09:33:15.336: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(xapp-sn-watcher:1541): GLib-GIO-CRITICAL **: 09:33:15.336: g_dbus_interface_skeleton_flush: assertion 'G_IS_DBUS_INTERFACE_SKELETON (interface_)' failed
+
+(xapp-sn-watcher:1541): GLib-GObject-CRITICAL **: 09:33:15.336: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(xapp-sn-watcher:1541): GLib-GIO-CRITICAL **: 09:33:15.336: g_dbus_interface_skeleton_flush: assertion 'G_IS_DBUS_INTERFACE_SKELETON (interface_)' failed
+
+(xapp-sn-watcher:1541): GLib-GObject-CRITICAL **: 09:33:15.336: invalid (NULL) pointer instance
+
+(xapp-sn-watcher:1541): GLib-GObject-CRITICAL **: 09:33:15.336: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+** Message: 09:33:16.005: updates_checker.vala:71: check updates
+** Message: 09:33:17.293: updates_checker.vala:101: 7 updates found
+** Message: 09:33:20.687: updates_checker.vala:71: check updates
+** Message: 09:33:20.687: updates_checker.vala:71: check updates
+** Message: 09:33:21.418: updates_checker.vala:101: 7 updates found
+** Message: 09:33:21.931: updates_checker.vala:101: 7 updates found
+[3019:3019:0720/093324.259623:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+** Message: 09:33:34.827: updates_checker.vala:71: check updates
+** Message: 09:33:34.828: updates_checker.vala:71: check updates
+** Message: 09:33:35.007: updates_checker.vala:101: 0 updates found
+** Message: 09:33:35.530: updates_checker.vala:101: 0 updates found
+[3365:3365:0720/093345.770376:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[3365:3365:0720/093349.292272:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[3365:3365:0720/093354.785779:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+warning: queue 0x7f227c000ca0 destroyed while proxies still attached:
+  zwp_primary_selection_offer_v1@4278190081 still attached
+  wl_data_offer@4278190080 still attached
+  zwp_primary_selection_device_v1@28 still attached
+  zwp_primary_selection_device_manager_v1@20 still attached
+  wl_data_device@27 still attached
+  wl_seat@26 still attached
+  wl_data_device_manager@24 still attached
+  wl_registry@19 still attached
+warning: queue 0x55aa2b8391b0 destroyed while proxies still attached:
+  wl_buffer@40 still attached
+  wl_shm_pool@42 still attached
+  xdg_wm_base@31 still attached
+  wl_output@14 still attached
+  wl_seat@13 still attached
+  xdg_activation_v1@12 still attached
+  wp_viewporter@11 still attached
+  zwp_text_input_manager_v3@10 still attached
+  zwp_pointer_constraints_v1@9 still attached
+  zwp_relative_pointer_manager_v1@8 still attached
+  zxdg_decoration_manager_v1@7 still attached
+  wl_subcompositor@6 still attached
+  wl_compositor@5 still attached
+  wl_shm@4 still attached
+  wl_registry@2 still attached
+** Message: 09:38:48.747: updates_checker.vala:71: check updates
+** Message: 09:38:48.747: updates_checker.vala:71: check updates
+** Message: 09:38:48.917: updates_checker.vala:101: 0 updates found
+warning: queue 0x7f7f5c000ca0 destroyed while proxies still attached:
+  zwp_primary_selection_offer_v1@4278190081 still attached
+  wl_data_offer@4278190080 still attached
+  zwp_primary_selection_device_v1@28 still attached
+  zwp_primary_selection_device_manager_v1@20 still attached
+  wl_data_device@27 still attached
+  wl_seat@25 still attached
+  wl_data_device_manager@23 still attached
+  wl_registry@19 still attached
+warning: queue 0x563b2dc211b0 destroyed while proxies still attached:
+  wl_buffer@39 still attached
+  wl_buffer@40 still attached
+  wl_shm_pool@42 still attached
+  xdg_wm_base@31 still attached
+  wl_output@14 still attached
+  wl_seat@13 still attached
+  xdg_activation_v1@12 still attached
+  wp_viewporter@11 still attached
+  zwp_text_input_manager_v3@10 still attached
+  zwp_pointer_constraints_v1@9 still attached
+  zwp_relative_pointer_manager_v1@8 still attached
+  zxdg_decoration_manager_v1@7 still attached
+  wl_subcompositor@6 still attached
+  wl_compositor@5 still attached
+  wl_shm@4 still attached
+  wl_registry@2 still attached
+** Message: 09:38:49.514: updates_checker.vala:101: 0 updates found
+00:06:06.466 [ERROR] [wlr] [xwayland/xwm.c:1522] xcb error: op ChangeProperty (no minor), code Window (no extension), sequence 1220, value 39845891
+** Message: 09:38:59.628: updates_checker.vala:71: check updates
+** Message: 09:38:59.628: updates_checker.vala:71: check updates
+** Message: 09:38:59.798: updates_checker.vala:101: 0 updates found
+** Message: 09:39:00.387: updates_checker.vala:101: 0 updates found
+warning: queue 0x7f9640000ca0 destroyed while proxies still attached:
+  zwp_primary_selection_offer_v1@4278190081 still attached
+  wl_data_offer@4278190080 still attached
+  zwp_primary_selection_device_v1@24 still attached
+  zwp_primary_selection_device_manager_v1@20 still attached
+  wl_data_device@23 still attached
+  wl_seat@22 still attached
+  wl_data_device_manager@21 still attached
+  wl_registry@19 still attached
+warning: queue 0x55f7e00841b0 destroyed while proxies still attached:
+  wl_buffer@43 still attached
+  wl_buffer@40 still attached
+  wl_shm_pool@42 still attached
+  xdg_wm_base@31 still attached
+  wl_output@14 still attached
+  wl_seat@13 still attached
+  xdg_activation_v1@12 still attached
+  wp_viewporter@11 still attached
+  zwp_text_input_manager_v3@10 still attached
+  zwp_pointer_constraints_v1@9 still attached
+  zwp_relative_pointer_manager_v1@8 still attached
+  zxdg_decoration_manager_v1@7 still attached
+  wl_subcompositor@6 still attached
+  wl_compositor@5 still attached
+  wl_shm@4 still attached
+  wl_registry@2 still attached
+warning: queue 0x7fe8dc000ca0 destroyed while proxies still attached:
+  zwp_primary_selection_offer_v1@4278190081 still attached
+  wl_data_offer@4278190080 still attached
+  zwp_primary_selection_device_v1@28 still attached
+  zwp_primary_selection_device_manager_v1@20 still attached
+  wl_data_device@27 still attached
+  wl_seat@26 still attached
+  wl_data_device_manager@25 still attached
+  wl_registry@19 still attached
+warning: queue 0x5558a94711b0 destroyed while proxies still attached:
+  wl_buffer@43 still attached
+  wl_buffer@40 still attached
+  wl_shm_pool@42 still attached
+  xdg_wm_base@31 still attached
+  wl_output@14 still attached
+  wl_seat@13 still attached
+  xdg_activation_v1@12 still attached
+  wp_viewporter@11 still attached
+  zwp_text_input_manager_v3@10 still attached
+  zwp_pointer_constraints_v1@9 still attached
+  zwp_relative_pointer_manager_v1@8 still attached
+  zxdg_decoration_manager_v1@7 still attached
+  wl_subcompositor@6 still attached
+  wl_compositor@5 still attached
+  wl_shm@4 still attached
+  wl_registry@2 still attached
+[21655:21655:0720/093948.431998:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[21693:21693:0720/094000.479609:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[21693:21693:0720/094003.126458:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[21655:21655:0720/094011.545220:ERROR:interface_endpoint_client.cc(697)] Message 5 rejected by interface blink.mojom.WidgetHost
+[21693:21693:0720/094016.134189:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+warning: queue 0x7fb948000ca0 destroyed while proxies still attached:
+  zwp_primary_selection_offer_v1@4278190080 still attached
+  wl_data_offer@4278190081 still attached
+  zwp_primary_selection_device_v1@28 still attached
+  zwp_primary_selection_device_manager_v1@22 still attached
+  wl_data_device@27 still attached
+  wl_seat@26 still attached
+  wl_data_device_manager@25 still attached
+  wl_registry@21 still attached
+warning: queue 0x5600b44d51b0 destroyed while proxies still attached:
+  wl_buffer@40 still attached
+  wl_shm_pool@42 still attached
+  xdg_wm_base@31 still attached
+  wl_output@14 still attached
+  wl_seat@13 still attached
+  xdg_activation_v1@12 still attached
+  wp_viewporter@11 still attached
+  zwp_text_input_manager_v3@10 still attached
+  zwp_pointer_constraints_v1@9 still attached
+  zwp_relative_pointer_manager_v1@8 still attached
+  zxdg_decoration_manager_v1@7 still attached
+  wl_subcompositor@6 still attached
+  wl_compositor@5 still attached
+  wl_shm@4 still attached
+  wl_registry@2 still attached
+warning: queue 0x7fed24000ca0 destroyed while proxies still attached:
+  zwp_primary_selection_offer_v1@4278190081 still attached
+  wl_data_offer@4278190080 still attached
+  zwp_primary_selection_device_v1@28 still attached
+  zwp_primary_selection_device_manager_v1@20 still attached
+  wl_data_device@27 still attached
+  wl_seat@24 still attached
+  wl_data_device_manager@23 still attached
+  wl_registry@19 still attached
+warning: queue 0x55ec6d2cc1b0 destroyed while proxies still attached:
+  wl_buffer@40 still attached
+  wl_shm_pool@42 still attached
+  xdg_wm_base@31 still attached
+  wl_output@14 still attached
+  wl_seat@13 still attached
+  xdg_activation_v1@12 still attached
+  wp_viewporter@11 still attached
+  zwp_text_input_manager_v3@10 still attached
+  zwp_pointer_constraints_v1@9 still attached
+  zwp_relative_pointer_manager_v1@8 still attached
+  zxdg_decoration_manager_v1@7 still attached
+  wl_subcompositor@6 still attached
+  wl_compositor@5 still attached
+  wl_shm@4 still attached
+  wl_registry@2 still attached
