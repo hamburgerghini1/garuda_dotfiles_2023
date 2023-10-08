@@ -14,5 +14,7 @@ Bashrc is from https://github.com/christitustech/mybash
 
 Fish config is from DistroTube https://gitlab.com/dwt1/dotfiles/-/blob/master/.config/fish/config.fish and it's slightly modified.
 
+Spotify waybar script is from https://github.com/Alexays/Waybar/blob/master/resources/custom_modules/mediaplayer.py
+
 Screenshot
 ![alt text](https://github.com/hamburgerghini1/garuda_dotfiles_2023/blob/main/screenshot_2023-04-24T19%3A15%3A33.png)
