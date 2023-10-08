@@ -215,7 +215,7 @@ bindsym F11 exec /home/tommi/.config/pipewire_audio_control.sh F11
 
 # Screenshots
 #
-    bindsym Print exec  /usr/bin/sway-interactive-screenshot
+    bindsym Print exec  /home/tommi/.config/sway/scripts/sway-interactive-screenshot
 
 
 #
