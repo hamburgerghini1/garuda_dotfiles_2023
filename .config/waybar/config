@@ -57,18 +57,18 @@
         "escape": true
     },
 
+		"custom/pipewire": {
+    	"format": "{icon}",
+    	"return-type": "json",
+    	"signal": 8,
+    	"interval": "once",
+    	"format-icons": {
+        "mute": "",
+        "default": ["", "", "", ""],
+    },
+    "exec": "pw-volume status"
+},
 
-	"custom/pipewire": {
-    		"exec": "pw-volume status",
-    		"return-type": "json",
-    		"interval": "once",
-   	 	"signal": 8,
-    		"format": "{icon} {percentage}",
-    		"format-icons": {
-        	"mute": "",
-        	"default": ["󰕿", "󰖀", "󰕾"]
-		}
-	},
 	
 	"clock": {
 		"format": "{:%a. %d | %H:%M}",

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Milfy City - Final Edition
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2544090
+Icon=steam_icon_2544090
+Terminal=false
+Type=Application
+Categories=Game;

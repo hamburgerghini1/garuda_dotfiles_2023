@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Max Payne
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/12140
+Icon=steam_icon_12140
+Terminal=false
+Type=Application
+Categories=Game;

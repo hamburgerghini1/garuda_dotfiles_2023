@@ -197,18 +197,6 @@ bindsym --whole-window --border $mod+shift+button4 resize shrink width 5 px or 5
 bindsym --whole-window --border $mod+shift+button5 resize grow width 5 px or 5 ppt
 
 #
-# Volume
-#
-bindsym F6 exec /home/tommi/.config/pipewire_audio_control.sh F6
-bindsym F7 exec /home/tommi/.config/pipewire_audio_control.sh F7
-bindsym F8 exec /home/tommi/.config/pipewire_audio_control.sh F8
-bindsym F9 exec /home/tommi/.config/pipewire_audio_control.sh F9
-bindsym F10 exec /home/tommi/.config/pipewire_audio_control.sh F10
-bindsym F11 exec /home/tommi/.config/pipewire_audio_control.sh F11
-
-
-
-#
 # App shortcuts
 #
     bindsym $mod+o exec vivaldi-stable
@@ -243,3 +231,8 @@ input type:keyboard xkb_numlock enabled
 
 # sway notification center control
 bindsym $mod+Shift+n exec swaync-client -t -sw
+
+# pw-volume
+bindsym XF86AudioRaiseVolume exec "pw-volume change +2.5%; pkill -RTMIN+8 waybar"
+bindsym XF86AudioLowerVolume exec "pw-volume change -2.5%; pkill -RTMIN+8 waybar"
+bindsym XF86AudioMute exec "pw-volume mute toggle; pkill -RTMIN+8 waybar"

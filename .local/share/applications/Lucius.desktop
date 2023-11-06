@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Lucius
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/218640
+Icon=steam_icon_218640
+Terminal=false
+Type=Application
+Categories=Game;

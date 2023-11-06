@@ -1,6 +1,3 @@
-# Auth with polkit-gnome:
-exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
-
 # Desktop notifications
 exec swaync
 
@@ -67,3 +64,9 @@ exec mullvad-vpn
 
 #easyeffects
 exec easyeffects
+
+#lxpolkit
+exec lxpolkit
+
+#avizo
+exec avizo-service
