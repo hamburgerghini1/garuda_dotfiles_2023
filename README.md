@@ -19,5 +19,7 @@ Spotify waybar script is from https://github.com/Alexays/Waybar/blob/master/reso
 Repo also includes sway-interactive-screenshot binary (https://github.com/moverest/sway-interactive-screenshot)
 It's found at .config/sway/scripts
 
+There is also pw-volume https://github.com/smasher164/pw-volume , no idea if that works since I have not figured out how to control volume...
+
 Screenshot
 ![alt text](https://github.com/hamburgerghini1/garuda_dotfiles_2023/blob/main/screenshot_2023-04-24T19%3A15%3A33.png)
