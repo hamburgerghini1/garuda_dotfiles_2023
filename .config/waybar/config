@@ -11,10 +11,12 @@
 	"modules-center": [
 		"sway/window",
 		"clock",
-	],
+    ],
+
 	"modules-right": [
 		"custom/spotify",
 		"memory",
+		"pulseaudio",
 		"cpu",
 		"temperature",
 		"disk",
@@ -30,14 +32,14 @@
 		"format": "{name}"
 	},
 
-     
+
 	 "custom/spotify": {
     	 "exec": "/usr/bin/python3 /home/tommi/.config/waybar/scripts/mediaplayer.py --player spotify",
      	 "format": "{}  ",
     	 "return-type": "json",
     	 "on-click": "playerctl play-pause",
     	 "on-scroll-up": "playerctl next",
-    	 "on-scroll-down": "playerctl previous"
+    	 "on-scroll-down": "playerctl previous",
 	},
 
 	"custom/notification": {
@@ -69,7 +71,7 @@
     "exec": "pw-volume status"
 },
 
-	
+
 	"clock": {
 		"format": "{:%a. %d | %H:%M}",
 		"tooltip": false,
@@ -89,6 +91,8 @@
 		"format-muted": "MUTE",
 		"format-source": "  {volume}%",
 		"format-source-muted": " ",
+		"on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",
+    	"on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",
 		"format-icons": {
 			"headphones": "",
 			"default": [
@@ -97,7 +101,7 @@
 				""
 			]
 		},
-		"scroll-step": 5,
+		"scroll-step": 1,
 		"on-click-right": "amixer set Capture toggle",
 		"on-click": "pavucontrol"
 	},
@@ -168,7 +172,7 @@
     	       "on-click": "exec nwg-drawer -c 7 -is 70 -spacing 23",
     	       "tooltip": false,
 },
-	
+
        "type": "custom/cider-waybar",
        "settings": {}
 },
