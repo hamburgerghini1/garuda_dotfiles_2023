@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SUPERHOT VR
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/617830
+Icon=steam_icon_617830
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,3 +1,5 @@
 [MIME Cache]
 x-scheme-handler/etcher=appimagekit_67083583012ccc99a23551c37689b38a-balenaEtcher.desktop;
+x-scheme-handler/nxm=vortex-steamtinkerlaunch-dl.desktop;
+x-scheme-handler/nxm-protocol=vortex-steamtinkerlaunch-dl.desktop;
 x-scheme-handler/spotify=spotify-adblock.desktop;

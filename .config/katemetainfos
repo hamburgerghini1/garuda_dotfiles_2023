@@ -1,71 +1,95 @@
 [file:///home/tommi/.bashrc]
 Bookmarks=
-Checksum=19509e99d7fe87b615cef183dcd69492b50d14c4
+Checksum=3ca3540a3788e50a3e8c4a7a39b79386f73a742c
 Encoding=UTF-8
 Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2023,7,20,6,44,58.359
+Time=2023,11,4,20,31,44.075
 URL=file:///home/tommi/.bashrc
 
-[file:///home/tommi/.config/fish/config.fish]
+[file:///home/tommi/.config/sway/config]
 Bookmarks=
-Checksum=1195bc689cc09b2405adb186e32989aa21961e1d
-Encoding=UTF-8
-Highlighting=Fish
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Fish
-Mode Set By User=false
-Time=2023,6,26,10,45,11.359
-URL=file:///home/tommi/.config/fish/config.fish
-
-[file:///home/tommi/Documents/GitHub/.directory]
-Bookmarks=
-Checksum=b9cba097f47b371a5398de14844cdb08ede7c76a
+Checksum=bca82f787bf5cb58e2a4b1248f34c1a73c43be96
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2023,6,23,9,50,53.234
-URL=file:///home/tommi/Documents/GitHub/.directory
+Time=2023,11,6,13,8,12.946
+URL=file:///home/tommi/.config/sway/config
 
-[file:///home/tommi/Documents/dotfile_setup.sh]
+[file:///home/tommi/.config/sway/config.d/default]
 Bookmarks=
-Checksum=19aa0bc6999509ebd5abef151da7b3103f6ac0b5
+Checksum=2f6e59cf4ee6ae4c25c2d5df282d712d47b4a828
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,6,13,9,48.402
+URL=file:///home/tommi/.config/sway/config.d/default
+
+[file:///home/tommi/.config/waybar/config]
+Bookmarks=
+Checksum=e8068505da67823fb7245093578060b873f15efa
+Encoding=UTF-8
+Highlighting=C
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C
+Mode Set By User=false
+Time=2023,11,8,11,31,48.037
+URL=file:///home/tommi/.config/waybar/config
+
+[file:///home/tommi/discord-cyberpunk-neon.theme.css]
+Bookmarks=
+Checksum=ef58a01abcb796ffecd7b1a5f713559cf78e17b9
+Encoding=UTF-8
+Highlighting=CSS
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=CSS
+Mode Set By User=false
+Time=2023,11,4,23,45,1.316
+URL=file:///home/tommi/discord-cyberpunk-neon.theme.css
+
+[file:///home/tommi/honeygain-systemd-service/honeygain-docker.service]
+Bookmarks=
+Checksum=33806d2f8bb37dc34d51b410404cb7e7e57a1a56
+Encoding=UTF-8
+Highlighting=systemd unit
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=systemd unit
+Mode Set By User=false
+Time=2023,11,5,14,6,41.373
+URL=file:///home/tommi/honeygain-systemd-service/honeygain-docker.service
+
+[file:///home/tommi/honeygain-systemd-service/install.sh]
+Bookmarks=
+Checksum=dfa0a8b5bdf65f0a58540cb1fda5fc893253f26f
 Encoding=UTF-8
 Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2023,6,26,9,36,0.075
-URL=file:///home/tommi/Documents/dotfile_setup.sh
+Time=2023,11,5,14,6,41.373
+URL=file:///home/tommi/honeygain-systemd-service/install.sh
 
-[file:///home/tommi/Downloads/Spotify-codes.txt]
+[file:///var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/5686cba48484f427b411b1a8c1caf88fbffddee91c9c51ae74596e2bc49564a1/export/bin/com.discordapp.Discord]
 Bookmarks=
-Checksum=719b99e8d3745855c15ae567f56a13121aff0a46
+Checksum=74d7f7c53eec96380f93541d1b5713c28cc4a555
 Encoding=UTF-8
-Highlighting=None
+Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=Bash
 Mode Set By User=false
-Time=2023,6,27,8,20,36.047
-URL=file:///home/tommi/Downloads/Spotify-codes.txt
-
-[file:///home/tommi/arRPC/examples/bridge_mod.js]
-Bookmarks=
-Checksum=7d9944f36a11080e433e1379ff1c109cadc19003
-Encoding=UTF-8
-Highlighting=JavaScript
-Highlighting Set By User=false
-Indentation Mode=cstyle
-Mode=JavaScript
-Mode Set By User=false
-Time=2023,6,26,11,30,37.651
-URL=file:///home/tommi/arRPC/examples/bridge_mod.js
+Time=2023,11,7,9,11,30.756
+URL=file:///var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/5686cba48484f427b411b1a8c1caf88fbffddee91c9c51ae74596e2bc49564a1/export/bin/com.discordapp.Discord

@@ -1,0 +1,20 @@
+2023-11-05T13:44:13.474Z [INFO] [auth] GitHub login failed
+2023-11-05T13:44:13.476Z [ERROR] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2023-11-05T13:44:26.573Z [INFO] [auth] Logged in as hamburgerghini1
+2023-11-05T13:44:26.969Z [INFO] [chat] copilot token chat_enabled: true
+2023-11-05T13:44:26.971Z [INFO] [auth] Got Copilot token for hamburgerghini1
+2023-11-05T13:44:26.980Z [INFO] [auth] Logged in as hamburgerghini1
+2023-11-05T13:44:26.981Z [INFO] [chat] copilot token chat_enabled: true
+2023-11-05T13:44:26.981Z [INFO] [auth] Got Copilot token for hamburgerghini1
+2023-11-05T13:45:24.835Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T13:45:24.835Z [INFO] [chat fetch] modelMaxTokenWindow 4096
+2023-11-05T13:45:24.835Z [INFO] [chat fetch] chat model gpt-4
+2023-11-05T13:45:26.716Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1881 ms
+2023-11-05T13:45:31.096Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T13:45:31.100Z [INFO] [streamChoices] request done: headerRequestId: [2b3adf4e-f9f8-4f44-a599-f3801698726d] model deployment ID: [xfbad2a5f462a]
+2023-11-05T13:45:31.387Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T13:45:31.387Z [INFO] [chat fetch] modelMaxTokenWindow 8192
+2023-11-05T13:45:31.387Z [INFO] [chat fetch] chat model gpt-3.5
+2023-11-05T13:45:31.808Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 420 ms
+2023-11-05T13:45:31.811Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T13:45:31.812Z [INFO] [streamChoices] request done: headerRequestId: [77408d25-4100-483b-ac09-0f3926dfc548] model deployment ID: [xa38328d4e44c]

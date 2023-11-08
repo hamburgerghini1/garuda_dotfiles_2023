@@ -1,0 +1,40 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AMBIENT_OCCLUSION" type="int">0</pref>
+	<pref name="ANTI_ALIASING" type="int">1</pref>
+	<pref name="BLOOM" type="int">0</pref>
+	<pref name="BRIGHTNESS" type="float">0.5</pref>
+	<pref name="CROSSHAIR" type="int">1</pref>
+	<pref name="DIALOGUE_VOLUME" type="float">0.95</pref>
+	<pref name="DOF" type="int">0</pref>
+	<pref name="DUST_PARTICLES" type="int">1</pref>
+	<pref name="FOG" type="int">1</pref>
+	<pref name="FULLSCREEN" type="int">1</pref>
+	<pref name="GRAIN" type="int">0</pref>
+	<pref name="INVERTED" type="int">0</pref>
+	<pref name="LANGUAGE" type="string">ZW4=</pref>
+	<pref name="MOTION_BLUR" type="int">0</pref>
+	<pref name="MUSIC_VOLUME" type="float">0.95</pref>
+	<pref name="QUALITY" type="int">3</pref>
+	<pref name="RESOLUTION_CURRENT" type="int">18</pref>
+	<pref name="RESOLUTION_HEIGHT" type="int">1440</pref>
+	<pref name="RESOLUTION_WIDTH" type="int">2560</pref>
+	<pref name="SENSITIVITY" type="float">0.25</pref>
+	<pref name="SFX_VOLUME" type="float">0.95</pref>
+	<pref name="SHADOWS" type="int">1</pref>
+	<pref name="SUBTITLES" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1440</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">2560</pref>
+	<pref name="TIPS" type="int">1</pref>
+	<pref name="UnityGraphicsQuality" type="int">3</pref>
+	<pref name="UnitySelectMonitor" type="int">-1</pref>
+	<pref name="VIEW_BOBBING" type="int">0</pref>
+	<pref name="VIEW_SWAYING" type="int">1</pref>
+	<pref name="VOLUME" type="float">1</pref>
+	<pref name="VOLUMETRIC_LIGHT" type="int">1</pref>
+	<pref name="V_SYNC" type="int">1</pref>
+	<pref name="unity.cloud_userid" type="string">NzE3ZGUxOTU2YTViODQwYmE4MzZmYjYyOWFhODNlOTg=</pref>
+	<pref name="unity.player_sessionid" type="string">MzkxOTgwNDQyNzIwMDY0NDc5OQ==</pref>
+	<pref name="v1.5.0.0" type="int">1</pref>
+</unity_prefs>

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Honeygain Service
+Exec=konsole -e 'sudo systemctl start honeygain-docker.service && read -p "Press [Enter] to close..."'
+Icon=tommi/Pictures/hg_logo_icon_color_dark.png
+Categories=Network;

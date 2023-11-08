@@ -1,0 +1,6 @@
+2023-11-07 11:13:21.567 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-07 11:13:24.080 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2023-11-07 11:13:24.651 [info] [perf] Render performance baseline is 26ms
+2023-11-07 11:13:25.784 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2023-11-07 11:13:26.551 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2023-11-07 11:13:27.562 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/tommi/honeygain-systemd-service/install.sh 

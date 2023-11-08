@@ -7,6 +7,8 @@ x-scheme-handler/https=vivaldi-stable.desktop
 x-scheme-handler/about=vivaldi-stable.desktop
 x-scheme-handler/unknown=vivaldi-stable.desktop
 text/x-devicetree-source=org.kde.kate.desktop
+x-scheme-handler/nxm=vortex-steamtinkerlaunch-dl.desktop
+x-scheme-handler/nxm-protocol=vortex-steamtinkerlaunch-dl.desktop
 
 [Added Associations]
 application/x-yaml=org.kde.kate.desktop;
@@ -15,3 +17,4 @@ text/x-devicetree-source=org.kde.kate.desktop;
 application/x-compressed-tar=org.kde.ark.desktop;
 image/png=org.kde.gwenview.desktop;
 application/x-7z-compressed=org.kde.ark.desktop;peazip.desktop;
+text/x-csrc=org.kde.kate.desktop;

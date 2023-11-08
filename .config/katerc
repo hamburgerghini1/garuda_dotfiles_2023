@@ -122,7 +122,8 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-2560x1440 screen: Window-Maximized=true
+2560x1440 screen: Height=686
+2560x1440 screen: Width=1265
 
 [filetree]
 editShade=89,58,108

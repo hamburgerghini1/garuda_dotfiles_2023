@@ -10,9 +10,8 @@ RememberWindowSize=false
 ShowMenuBarByDefault=false
 
 [MainWindow]
-2560x1440 screen: Height=1022
-2560x1440 screen: Width=1282
-2560x1440 screen: Window-Maximized=true
+2560x1440 screen: Height=1381
+2560x1440 screen: Width=2540
 2560x1440 screen: XPosition=1278
 2560x1440 screen: YPosition=418
 DP-6=DP-6

@@ -1,0 +1,4 @@
+2023-11-07 11:13:22.800 [info] Log level: Info
+2023-11-07 11:13:22.800 [info] Validating found git in: "git"
+2023-11-07 11:13:22.800 [info] Using git "2.41.0" from "git"
+2023-11-07 11:13:22.800 [warning] Failed to get repository realpath for: "/home/tommi/honeygain-systemd-service". Error: ENOENT: no such file or directory, realpath '/home/tommi/honeygain-systemd-service'

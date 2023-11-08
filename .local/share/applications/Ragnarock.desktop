@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ragnarock
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1345820
+Icon=steam_icon_1345820
+Terminal=false
+Type=Application
+Categories=Game;

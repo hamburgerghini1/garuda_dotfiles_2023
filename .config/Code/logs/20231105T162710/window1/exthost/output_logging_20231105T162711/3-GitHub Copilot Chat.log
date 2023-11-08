@@ -1,0 +1,54 @@
+2023-11-05T14:27:12.447Z [INFO] [auth] Logged in as hamburgerghini1
+2023-11-05T14:27:12.832Z [INFO] [chat] copilot token chat_enabled: true
+2023-11-05T14:27:12.840Z [INFO] [auth] Got Copilot token for hamburgerghini1
+2023-11-05T14:27:12.878Z [INFO] [auth] Logged in as hamburgerghini1
+2023-11-05T14:27:12.880Z [INFO] [chat] copilot token chat_enabled: true
+2023-11-05T14:27:12.881Z [INFO] [auth] Got Copilot token for hamburgerghini1
+2023-11-05T14:32:18.730Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T14:32:18.730Z [INFO] [chat fetch] modelMaxTokenWindow 4096
+2023-11-05T14:32:18.730Z [INFO] [chat fetch] chat model gpt-4
+2023-11-05T14:32:20.722Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1990 ms
+2023-11-05T14:32:24.401Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T14:32:24.404Z [INFO] [streamChoices] request done: headerRequestId: [29498921-18cd-4899-9eca-b9aee1045dd1] model deployment ID: [xfbad2a5f462a]
+2023-11-05T14:32:24.939Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T14:32:24.939Z [INFO] [chat fetch] modelMaxTokenWindow 8192
+2023-11-05T14:32:24.939Z [INFO] [chat fetch] chat model gpt-3.5
+2023-11-05T14:32:25.518Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 578 ms
+2023-11-05T14:32:25.522Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T14:32:25.523Z [INFO] [streamChoices] request done: headerRequestId: [1024e100-6b74-4172-90f4-8cc762b3d472] model deployment ID: [xa38328d4e44c]
+2023-11-05T14:36:50.282Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T14:36:50.282Z [INFO] [chat fetch] modelMaxTokenWindow 4096
+2023-11-05T14:36:50.282Z [INFO] [chat fetch] chat model gpt-4
+2023-11-05T14:36:52.698Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 2416 ms
+2023-11-05T14:36:57.381Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T14:36:57.383Z [INFO] [streamChoices] request done: headerRequestId: [8e673da4-f5a9-4b77-81ff-847139c4e076] model deployment ID: [xfbad2a5f462a]
+2023-11-05T14:36:57.547Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T14:36:57.547Z [INFO] [chat fetch] modelMaxTokenWindow 8192
+2023-11-05T14:36:57.547Z [INFO] [chat fetch] chat model gpt-3.5
+2023-11-05T14:36:58.178Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 630 ms
+2023-11-05T14:36:58.179Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T14:36:58.179Z [INFO] [streamChoices] request done: headerRequestId: [b649d4ff-375b-4a2e-b99f-0e5c8e2a5ac5] model deployment ID: [xa38328d4e44c]
+2023-11-05T14:37:25.035Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T14:37:25.035Z [INFO] [chat fetch] modelMaxTokenWindow 4096
+2023-11-05T14:37:25.035Z [INFO] [chat fetch] chat model gpt-4
+2023-11-05T14:37:27.266Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 2230 ms
+2023-11-05T14:37:33.380Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T14:37:33.382Z [INFO] [streamChoices] request done: headerRequestId: [415f7eae-1e65-44f4-a82e-e97350981983] model deployment ID: [xfbad2a5f462a]
+2023-11-05T14:37:33.571Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T14:37:33.571Z [INFO] [chat fetch] modelMaxTokenWindow 8192
+2023-11-05T14:37:33.571Z [INFO] [chat fetch] chat model gpt-3.5
+2023-11-05T14:37:34.248Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 676 ms
+2023-11-05T14:37:34.251Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T14:37:34.252Z [INFO] [streamChoices] request done: headerRequestId: [4af3dac5-2d2d-4c13-8e38-295fce6b6944] model deployment ID: [xa38328d4e44c]
+2023-11-05T14:49:15.687Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T14:49:15.687Z [INFO] [chat fetch] modelMaxTokenWindow 4096
+2023-11-05T14:49:15.687Z [INFO] [chat fetch] chat model gpt-4
+2023-11-05T14:49:18.109Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 2421 ms
+2023-11-05T14:49:24.462Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T14:49:24.464Z [INFO] [streamChoices] request done: headerRequestId: [8c974059-f6cc-4de2-a3f7-c3cfa9c141e9] model deployment ID: [xfbad2a5f462a]
+2023-11-05T14:49:24.678Z [INFO] [chat fetch] engine https://api.githubcopilot.com/chat
+2023-11-05T14:49:24.678Z [INFO] [chat fetch] modelMaxTokenWindow 8192
+2023-11-05T14:49:24.678Z [INFO] [chat fetch] chat model gpt-3.5
+2023-11-05T14:49:25.410Z [INFO] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 732 ms
+2023-11-05T14:49:25.414Z [INFO] [streamMessages] message 0 returned. finish reason: [stop]
+2023-11-05T14:49:25.415Z [INFO] [streamChoices] request done: headerRequestId: [2a2069d0-4573-49b6-81a0-04d2c67c3b49] model deployment ID: [xa38328d4e44c]

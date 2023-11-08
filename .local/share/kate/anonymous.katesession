@@ -1,12 +1,12 @@
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=Bash
+Highlighting=C
 Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Bash
+Indentation Mode=cstyle
+Mode=C
 Mode Set By User=false
-URL=file:///home/tommi/.bashrc
+URL=file:///home/tommi/.config/waybar/config
 
 [Kate Plugins]
 cmaketoolsplugin=false
@@ -36,22 +36,24 @@ keyboardmacrosplugin=false
 ktexteditorpreviewplugin=false
 latexcompletionplugin=false
 lspclientplugin=true
+openlinkplugin=false
 rainbowparens=false
 tabswitcherplugin=true
 textfilterplugin=true
 
 [MainWindow0]
-2560x1440 screen: Window-Maximized=true
+2560x1440 screen: Height=686
+2560x1440 screen: Width=1265
 Active ViewSpace=0
-Kate-MDI-H-Splitter=0,2498,0
+Kate-MDI-H-Splitter=0,1225,0
 Kate-MDI-Sidebar-0-Bar-0-TvList=kate_private_plugin_katefiletreeplugin,kateproject,kateprojectgit,lspclient_symbol_outline
 Kate-MDI-Sidebar-0-LastSize=200
 Kate-MDI-Sidebar-0-SectSizes=0
-Kate-MDI-Sidebar-0-Splitter=624
+Kate-MDI-Sidebar-0-Splitter=625
 Kate-MDI-Sidebar-1-Bar-0-TvList=
 Kate-MDI-Sidebar-1-LastSize=200
 Kate-MDI-Sidebar-1-SectSizes=0
-Kate-MDI-Sidebar-1-Splitter=624
+Kate-MDI-Sidebar-1-Splitter=626
 Kate-MDI-Sidebar-2-Bar-0-TvList=
 Kate-MDI-Sidebar-2-LastSize=200
 Kate-MDI-Sidebar-2-SectSizes=0
@@ -59,7 +61,7 @@ Kate-MDI-Sidebar-2-Splitter=589
 Kate-MDI-Sidebar-3-Bar-0-TvList=output,diagnostics,kate_plugin_katesearch,kateprojectinfo,kate_private_plugin_katekonsoleplugin
 Kate-MDI-Sidebar-3-LastSize=200
 Kate-MDI-Sidebar-3-SectSizes=0
-Kate-MDI-Sidebar-3-Splitter=2220
+Kate-MDI-Sidebar-3-Splitter=893
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-diagnostics-Position=3
@@ -89,35 +91,36 @@ Kate-MDI-ToolView-lspclient_symbol_outline-Visible=false
 Kate-MDI-ToolView-output-Position=3
 Kate-MDI-ToolView-output-Show-Button-In-Sidebar=true
 Kate-MDI-ToolView-output-Visible=false
-Kate-MDI-V-Splitter=0,624,0
+Kate-MDI-V-Splitter=0,625,0
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAACeoAAAKIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAHD/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABPEAAAKJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAHH/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [MainWindow0 Settings]
-2560x1440 screen: Window-Maximized=true
+2560x1440 screen: Height=686
+2560x1440 screen: Width=1265
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAACeoAAAKIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAHD/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABPEAAAKJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAHH/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-WindowState=10
+WindowState=8
 
 [MainWindow0-Splitter 0]
 Children=MainWindow0-ViewSpace 0
 Orientation=1
-Sizes=2498
+Sizes=1225
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/tommi/.bashrc
+Active View=file:///home/tommi/.config/waybar/config
 Count=1
-Documents=file:///home/tommi/.bashrc
-View 0=file:///home/tommi/.bashrc
+Documents=file:///home/tommi/.config/waybar/config
+View 0=file:///home/tommi/.config/waybar/config
 
-[MainWindow0-ViewSpace 0 file:///home/tommi/.bashrc]
-CursorColumn=0
-CursorLine=67
+[MainWindow0-ViewSpace 0 file:///home/tommi/.config/waybar/config]
+CursorColumn=4
+CursorLine=102
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"19509e99d7fe87b615cef183dcd69492b50d14c4","ranges":[]}
+TextFolding={"checksum":"e8068505da67823fb7245093578060b873f15efa","ranges":[]}
 ViMarks=
 
 [Open Documents]
@@ -153,17 +156,23 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/evdev_helper-main/evdev.txt
-File2[$e]=$HOME/Documents/GitHub/.directory
-File3[$e]=$HOME/.config/alacritty/alacritty.yml
-File4[$e]=$HOME/.config/fish/config.fish
-File5[$e]=$HOME/arRPC/examples/bridge_mod.js
-File6[$e]=$HOME/Downloads/Spotify-codes.txt
-File7[$e]=$HOME/.bashrc
-Name1[$e]=evdev.txt
-Name2[$e]=.directory
-Name3[$e]=alacritty.yml
-Name4[$e]=config.fish
-Name5[$e]=bridge_mod.js
-Name6[$e]=Spotify-codes.txt
-Name7[$e]=.bashrc
+File1[$e]=$HOME/.bashrc
+File10[$e]=$HOME/.config/waybar/config
+File2[$e]=$HOME/discord-cyberpunk-neon.theme.css
+File3[$e]=$HOME/honeygain-systemd-service
+File4[$e]=$HOME/honeygain-systemd-service/honeygain-docker.service
+File5[$e]=$HOME/honeygain-systemd-service/install.sh
+File6[$e]=$HOME/.config/sway/config
+File7[$e]=$HOME/.config/sway/config.d/default
+File8[$e]=/var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/5686cba48484f427b411b1a8c1caf88fbffddee91c9c51ae74596e2bc49564a1/export/bin/com.discordapp.Discord
+File9[$e]=$HOME
+Name1[$e]=.bashrc
+Name10[$e]=config
+Name2[$e]=discord-cyberpunk-neon.theme.css
+Name3[$e]=honeygain-systemd-service
+Name4[$e]=honeygain-docker.service
+Name5[$e]=install.sh
+Name6[$e]=config
+Name7[$e]=default
+Name8[$e]=com.discordapp.Discord
+Name9[$e]=tommi

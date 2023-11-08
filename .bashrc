@@ -56,12 +56,14 @@ alias nixinst='nix-env -iA'
 alias nixrem='nix-env -e'
 alias nixlist='nix-env -q'
 
-# pacman
-alias upd='sudo pacman -Syyu'
-alias inst='sudo pacman -S'
-alias rem='sudo pacman -R'
-alias list='sudo pacman -Q'
-alias yay='paru'
+# dnf
+alias inst="sudo dnf install"
+alias upd="sudo dnf update"
+alias rem="sudo dnf remove"
+
+alias topgrade="topgrade --disable git_repos"
 
 # Display system information
-neofetch
+fastfetch
+
+export PATH=$PATH:/home/tommi/.spicetify

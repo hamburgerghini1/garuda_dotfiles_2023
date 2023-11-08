@@ -14,9 +14,9 @@
     ],
 
 	"modules-right": [
+		"pulseaudio",
 		"custom/spotify",
 		"memory",
-		"pulseaudio",
 		"cpu",
 		"temperature",
 		"disk",
@@ -86,13 +86,13 @@
 		"on-scroll-down": "mpc volume -10"
 	},
 	"pulseaudio": {
-		"format": "{icon} {volume:2}% {format_source}",
+		"format": "{icon} {volume:1}% {format_source}",
 		"format-bluetooth": "{icon}  {volume}%",
 		"format-muted": "MUTE",
 		"format-source": "  {volume}%",
 		"format-source-muted": " ",
-		"on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",
-    	"on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",
+		"on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +1%",
+    	"on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -1%",
 		"format-icons": {
 			"headphones": "",
 			"default": [
