@@ -60,6 +60,9 @@ alias nixlist='nix-env -q'
 alias inst="sudo dnf install"
 alias upd="sudo dnf update"
 alias rem="sudo dnf remove"
+alias inst5="sudo dnf5 install"
+alias upd5="sudo dnf5 update"
+alias rem5="sudo dnf5 remove"
 
 alias topgrade="topgrade --disable git_repos"
 
