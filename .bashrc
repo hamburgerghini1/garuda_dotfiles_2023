@@ -41,7 +41,7 @@ alias newtag='git tag -a'
 
 # flatpak
 alias fpupd='flatpak update'
-alias fpinst='flatpak install'
+alias fpinst='flatpak install --user'
 alias fprem='flatpak remove'
 alias fplist='flatpak list'
 
@@ -55,14 +55,6 @@ alias nixupd='nix-env -u'
 alias nixinst='nix-env -iA'
 alias nixrem='nix-env -e'
 alias nixlist='nix-env -q'
-
-# dnf
-alias inst="sudo dnf install"
-alias upd="sudo dnf update"
-alias rem="sudo dnf remove"
-alias inst5="sudo dnf5 install"
-alias upd5="sudo dnf5 update"
-alias rem5="sudo dnf5 remove"
 
 alias topgrade="topgrade --disable git_repos"
 
