@@ -246,6 +246,11 @@ alias push='git push origin'
 alias tag='git tag'
 alias newtag='git tag -a'
 
+# dnf
+alias inst="sudo dnf install"
+alias upd="sudo dnf update"
+alias rem="sudo dnf remove"
+
 #flatpak
 alias fpupd='flatpak update'
 alias fpinst='flatpak install'

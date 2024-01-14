@@ -8,7 +8,7 @@ set $up k
 set $right l
 
 # Your preferred terminal emulators
-set $term-float alacritty
+set $term-float kitty
 
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
@@ -199,7 +199,7 @@ bindsym --whole-window --border $mod+shift+button5 resize grow width 5 px or 5 p
 #
 # App shortcuts
 #
-    bindsym $mod+o exec vivaldi-stable
+    bindsym $mod+o exec firefox
 
 # Screenshots
 #
@@ -236,3 +236,6 @@ bindsym $mod+Shift+n exec swaync-client -t -sw
 bindsym XF86AudioRaiseVolume exec "pw-volume change +2.5%; pkill -RTMIN+8 waybar"
 bindsym XF86AudioLowerVolume exec "pw-volume change -2.5%; pkill -RTMIN+8 waybar"
 bindsym XF86AudioMute exec "pw-volume mute toggle; pkill -RTMIN+8 waybar"
+
+# Set the GTK theme
+set $GTK_THEME Colorful-Dark-GTK
