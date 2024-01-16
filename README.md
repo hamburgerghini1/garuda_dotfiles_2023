@@ -2,7 +2,7 @@
 
 My cyberpunk styled Sway Window manager config based of https://github.com/Roboron3042/Cyberpunk-Neon
 
-For missing waybar icons: install otf-awesons-fonts and ttf-awesome-fonts, also run the papirus kolorizer install script
+For missing waybar icons: install otf-awesome-fonts and ttf-awesome-fonts, also run the papirus kolorizer install script
 
 Wofi theme is based of https://github.com/Paulobergine/arch_dotfiles
 
