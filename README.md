@@ -6,7 +6,6 @@ For missing waybar icons: install otf-awesome-fonts and ttf-awesome-fonts, also 
 
 Wofi theme is based of https://github.com/Paulobergine/arch_dotfiles
 
-
 Hyprland configs are from https://github.com/taylor85345/hyprland-dotfiles
 
 Swaync config is from https://github.com/lvntcnylmz/dotfiles/
@@ -21,8 +20,10 @@ It's found at .config/sway/scripts
 There is also pw-volume https://github.com/smasher164/pw-volume , no idea if that works since I have not figured out how to control volume... (this is solved by installing pulseaudio-utils on fedora and debian, arch has pw-volume on the aur)
 
 # Programs that you need (work in progress) * = optional (Names of arch packages)
-git (obviously)
 
+
+
+git (obviously)
 
 gnome-polkit
 
