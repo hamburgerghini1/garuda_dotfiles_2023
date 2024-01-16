@@ -4,6 +4,8 @@ My cyberpunk styled Sway Window manager config based of https://github.com/Robor
 
 For missing waybar icons: install otf-awesome-fonts and ttf-awesome-fonts, also run the papirus kolorizer install script
 
+Copy files from swaync folder to /etc/xdg/swaync
+
 Wofi theme is based of https://github.com/Paulobergine/arch_dotfiles
 
 Hyprland configs are from https://github.com/taylor85345/hyprland-dotfiles
