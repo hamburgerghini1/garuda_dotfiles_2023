@@ -22,28 +22,52 @@ There is also pw-volume https://github.com/smasher164/pw-volume , no idea if tha
 
 # Programs that you need (work in progress) * = optional (Names of arch packages)
 git (obviously)
+
+
 gnome-polkit
+
 waybar
+
 swayfx (if you dont need rounded corners, just use normal sway. you have to remove one line from the config file)
+
 swaync 
+
 swaybg
+
 swayidle
+
 swaylock
+
 swayr
+
 sway-interactive-screenshot (on AUR, if you are not on arch, use the binary file)
+
 swaysettings-git *
+
 lxappearance *
+
 wofi
+
 rofi *
+
 otf-awesome-fonts
+
 ttf-awesome-fonts
+
 ttf-ms-fonts *
+
 noto-fonts
+
 noto-fonts-cjk *
+
 noto-fonts-emoji
+
 cantarell-fonts
+
 adobe-base-14-fonts
+
 autotiling
+
 alacritty and/or kitty (kitty's config looks better imo)
 
 
