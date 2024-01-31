@@ -31,6 +31,8 @@ gnome-polkit
 
 waybar
 
+wlroots
+
 swayfx (if you dont need rounded corners, just use normal sway. you have to remove one line from the config file)
 
 swaync 
