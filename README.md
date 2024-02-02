@@ -10,7 +10,7 @@ Wofi theme is based of https://github.com/Paulobergine/arch_dotfiles
 
 Hyprland configs are from https://github.com/taylor85345/hyprland-dotfiles
 
-Swaync config is from https://github.com/lvntcnylmz/dotfiles/
+Swaync config is from https://gitlab.com/Zaney/dotfiles
 
 Fish config is from DistroTube https://gitlab.com/dwt1/dotfiles/-/blob/master/.config/fish/config.fish and it's slightly modified.
 
