@@ -20,7 +20,6 @@
 		"cpu",
 		"temperature",
 		"disk",
-		"custom/pacman",
 		"custom/keyboard-layout",
 		"custom/notification",
 		"tray",
@@ -58,8 +57,14 @@
         "on-click-right": "swaync-client -d -sw",
         "escape": true
     },
+"custom/check_updates": {
+		"format": " %output%",
+		"exec": "~/.config/waybar/scripts/check_updates.sh",
+    		"interval": 3600
+	},
 
-		"custom/pipewire": {
+
+"custom/pipewire": {
     	"format": "{icon}",
     	"return-type": "json",
     	"signal": 8,
@@ -140,14 +145,13 @@
 		"path": "/",
 		"on-click": "dolphin"
 	},
-	"custom/pacman": {
-		"format": " {}",
-		"interval": 3600, // every hour
-		"exec": "checkupdates | wc -l", // # of updates
-		"exec-if": "exit 0", // always run; consider advanced run conditions
-		"on-click": "$TERM -e up; pkill -SIGRTMIN+8 waybar", // update system
-		"signal": 8,
+
+	"custom/check_updates": {
+    "format": "%output%",
+    "exec": "~/.config/waybar/scripts/check_updates.sh",
+    "interval": 3600
 	},
+
 	"tray": {
 		"icon-size": 20,
 		"spacing": 10
