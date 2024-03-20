@@ -33,7 +33,7 @@ waybar
 
 wlroots
 
-swayfx (if you dont need rounded corners, just use normal sway. you have to remove one line from the config file)
+swayfx (if you dont need rounded corners, just use normal sway. you have to remove lines 20 ans 21 from https://github.com/hamburgerghini1/garuda_dotfiles_2023/blob/main/.config/sway/config.d/theme
 
 swaync 
 
