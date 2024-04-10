@@ -27,7 +27,7 @@ There is also pw-volume https://github.com/smasher164/pw-volume , no idea if tha
 
 git (obviously)
 
-gnome-polkit
+polkit-gnome
 
 waybar
 
