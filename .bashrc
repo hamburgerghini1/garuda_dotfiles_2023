@@ -41,7 +41,7 @@ alias newtag='git tag -a'
 
 # flatpak
 alias fpupd='flatpak update'
-alias fpinst='flatpak install --user'
+alias fpinst='flatpak install'
 alias fprem='flatpak remove'
 alias fplist='flatpak list'
 
