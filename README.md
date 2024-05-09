@@ -55,9 +55,7 @@ wofi
 
 rofi *
 
-otf-awesome-fonts
-
-ttf-awesome-fonts
+ttf-font-awesome
 
 ttf-ms-fonts *
 
