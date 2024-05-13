@@ -1,8 +1,3 @@
 [FileDialogSize]
 2560x1440 screen: Height=774
 2560x1440 screen: Width=1302
-
-[KFileDialog Settings]
-Recent Files[$e]=Diablo IV Launcher.exe,file:///media/pelit1/Diablo IV/Diablo IV Launcher.exe,file:$HOME/screenshot_2023-06-27T16:06:24.png,file:$HOME/screenshot_2023-06-27T16:06:11.png,file:$HOME/screenshot_2023-06-27T16:05:56.png,file:$HOME/screenshot_2023-06-27T16:05:46.png,file:$HOME/screenshot_2023-06-27T16:05:36.png,file:$HOME/screenshot_2023-06-27T16:05:29.png,file:$HOME/screenshot_2023-06-27T16:05:08.png,file:$HOME/screenshot_2023-06-27T16:04:50.png,file:$HOME/screenshot_2023-06-27T16:04:41.png,file:$HOME/screenshot_2023-06-27T16:04:33.png,file:$HOME/screenshot_2023-06-27T16:04:17.png,file:$HOME/screenshot_2023-06-27T16:01:36.png
-Recent URLs[$e]=file:///media/pelit1/Diablo IV/,file:$HOME/Documents/,file:$HOME/,file:$HOME/Desktop/,file:$HOME/Downloads/,file:///media/pelit1/
-iconViewIconSize=64

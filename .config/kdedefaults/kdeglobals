@@ -1,8 +1,8 @@
 [General]
-ColorScheme=CatppuccinMochaRosewater
+ColorScheme=BreezeDark
 
 [Icons]
-Theme=Tela-circle-dracula-dark
+Theme=breeze-dark
 
 [KDE]
-widgetStyle=Lightly
+widgetStyle=Breeze

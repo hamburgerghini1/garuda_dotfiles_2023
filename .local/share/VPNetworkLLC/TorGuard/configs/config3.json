@@ -1,0 +1,52 @@
+{
+    "default": {
+        "supportedCiphers": [
+            { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA1",   "port":  995 ,                     "dns": ["10.24.0.1"] },
+            { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA256", "port": 1912 , "tlskey": "ta.key", "dns": ["10.22.0.1"], "default": true },
+            { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA256", "port": 1195 , "tlskey": "ta.key", "dns": ["10.24.0.1"] },
+            { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA512", "port": 1215 , "tlskey": "ta.key", "dns": ["10.22.0.1"] },
+            { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA512", "port":  389 , "tlskey": "ta.key", "dns": ["10.24.0.1"] },
+            { "cipher": "none",         "ciphers": ["none"                                                              ], "protocol": "UDP",                   "port": 1194 ,                     "dns": ["10.25.0.1"] },
+	    
+            { "cipher": "BF-CBC",       "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA1",   "port":  443 ,                     "dns": ["10.9.0.1" ] },
+            { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA1",   "port":   80 ,                     "dns": ["10.22.0.1"] },
+            { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA1",   "port":  995 ,                     "dns": ["10.24.0.1"] },
+            { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA256", "port": 1912 , "tlskey": "ta.key", "dns": ["10.22.0.1"], "default": true },
+            { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA256", "port": 1195 , "tlskey": "ta.key", "dns": ["10.24.0.1"] },
+            { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA512", "port": 1215 , "tlskey": "ta.key", "dns": ["10.22.0.1"] },
+            { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA512", "port":  389 , "tlskey": "ta.key", "dns": ["10.24.0.1"] },
+            { "cipher": "none",         "ciphers": ["none"                                                              ], "protocol": "TCP",                   "port": 1194 ,                     "dns": ["10.25.0.1"] },
+	    
+            { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA256", "port": 4443 , "tlskey": "ta.key", "dns": ["10.22.0.1"], "scrambleMethod": "obfuscate", "scrambleMask": "M7Dca}m~s9Rb%*py{<ZTk0jHP1Pxo]+mL6-9)<)DCt(5SQ]3pbd&,,?{_)W7Ds*CKvCyGvQC8K1flvUgQYta_ESGBV]4X3qb58)<o4:eE03:,Ng-JLwnd|o],)G}I(KhZFT_+x;|x.63tjwgHfC" },
+            { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA256", "port": 4443 , "tlskey": "ta.key", "dns": ["10.22.0.1"], "scrambleMethod": "obfuscate", "scrambleMask": "M7Dca}m~s9Rb%*py{<ZTk0jHP1Pxo]+mL6-9)<)DCt(5SQ]3pbd&,,?{_)W7Ds*CKvCyGvQC8K1flvUgQYta_ESGBV]4X3qb58)<o4:eE03:,Ng-JLwnd|o],)G}I(KhZFT_+x;|x.63tjwgHfC" }
+        ]
+    },
+    
+    "serverSites": {
+	"USA" : {
+	    "New York": {
+		"supportedCiphers": [
+		    { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA1",   "port":  995 ,                     "dns": ["10.24.0.1"] },
+		    { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA256", "port": 1912 , "tlskey": "ta.key", "dns": ["10.22.0.1"], "default": true },
+		    { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA256", "port": 1195 , "tlskey": "ta.key", "dns": ["10.24.0.1"] },
+		    { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA512", "port": 1215 , "tlskey": "ta.key", "dns": ["10.22.0.1"] },
+		    { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA512", "port":  389 , "tlskey": "ta.key", "dns": ["10.24.0.1"] },
+		    { "cipher": "none",         "ciphers": ["none"                                                              ], "protocol": "UDP",                   "port": 1194 ,                     "dns": ["10.25.0.1"] },
+		    
+		    { "cipher": "BF-CBC",       "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA1",   "port":  443 ,                     "dns": ["10.9.0.1" ] },
+		    { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA1",   "port":   80 ,                     "dns": ["10.22.0.1"] },
+		    { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA1",   "port":  995 ,                     "dns": ["10.24.0.1"] },
+		    { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA256", "port": 1912 , "tlskey": "ta.key", "dns": ["10.22.0.1"], "default": true },
+		    { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA256", "port": 1195 , "tlskey": "ta.key", "dns": ["10.24.0.1"] },
+		    { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA512", "port": 1215 , "tlskey": "ta.key", "dns": ["10.22.0.1"] },
+		    { "cipher": "AES-256-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA512", "port":  389 , "tlskey": "ta.key", "dns": ["10.24.0.1"] },
+		    { "cipher": "none",         "ciphers": ["none"                                                              ], "protocol": "TCP",                   "port": 1194 ,                     "dns": ["10.25.0.1"] },
+		    
+		    { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "UDP", "auth": "SHA256", "port": 4443 , "tlskey": "ta.key", "dns": ["10.22.0.1"], "scrambleMethod": "obfuscate", "scrambleMask": "M7Dca}m~s9Rb%*py{<ZTk0jHP1Pxo]+mL6-9)<)DCt(5SQ]3pbd&,,?{_)W7Ds*CKvCyGvQC8K1flvUgQYta_ESGBV]4X3qb58)<o4:eE03:,Ng-JLwnd|o],)G}I(KhZFT_+x;|x.63tjwgHfC" },
+		    { "cipher": "AES-128-CBC",  "ciphers": ["AES-128-GCM", "AES-256-GCM", "AES-256-CBC", "AES-128-CBC", "BF-CBC"], "protocol": "TCP", "auth": "SHA256", "port": 4443 , "tlskey": "ta.key", "dns": ["10.22.0.1"], "scrambleMethod": "obfuscate", "scrambleMask": "M7Dca}m~s9Rb%*py{<ZTk0jHP1Pxo]+mL6-9)<)DCt(5SQ]3pbd&,,?{_)W7Ds*CKvCyGvQC8K1flvUgQYta_ESGBV]4X3qb58)<o4:eE03:,Ng-JLwnd|o],)G}I(KhZFT_+x;|x.63tjwgHfC" }
+		]
+	    }
+	}
+    }
+}
+

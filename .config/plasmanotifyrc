@@ -8,3 +8,6 @@ Seen=true
 
 [Applications][vivaldi-stable]
 Seen=true
+
+[Services][plasma_workspace]
+ShowPopups=false

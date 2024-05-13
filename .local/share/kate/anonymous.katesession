@@ -1,12 +1,5 @@
 [Document 0]
-Bookmarks=
-Encoding=UTF-8
-Highlighting=C
-Highlighting Set By User=false
-Indentation Mode=cstyle
-Mode=C
-Mode Set By User=false
-URL=file:///home/tommi/.config/waybar/config
+URL=file:///home/tommi/win11 ltsc
 
 [Kate Plugins]
 cmaketoolsplugin=false
@@ -28,7 +21,6 @@ kateprojectplugin=true
 katereplicodeplugin=false
 katesearchplugin=true
 katesnippetsplugin=false
-katesqlplugin=false
 katesymbolviewerplugin=false
 katexmlcheckplugin=false
 katexmltoolsplugin=false
@@ -42,14 +34,12 @@ tabswitcherplugin=true
 textfilterplugin=true
 
 [MainWindow0]
-2560x1440 screen: Height=686
-2560x1440 screen: Width=1265
 Active ViewSpace=0
 Kate-MDI-H-Splitter=0,1225,0
 Kate-MDI-Sidebar-0-Bar-0-TvList=kate_private_plugin_katefiletreeplugin,kateproject,kateprojectgit,lspclient_symbol_outline
 Kate-MDI-Sidebar-0-LastSize=200
 Kate-MDI-Sidebar-0-SectSizes=0
-Kate-MDI-Sidebar-0-Splitter=625
+Kate-MDI-Sidebar-0-Splitter=626
 Kate-MDI-Sidebar-1-Bar-0-TvList=
 Kate-MDI-Sidebar-1-LastSize=200
 Kate-MDI-Sidebar-1-SectSizes=0
@@ -57,11 +47,11 @@ Kate-MDI-Sidebar-1-Splitter=626
 Kate-MDI-Sidebar-2-Bar-0-TvList=
 Kate-MDI-Sidebar-2-LastSize=200
 Kate-MDI-Sidebar-2-SectSizes=0
-Kate-MDI-Sidebar-2-Splitter=589
+Kate-MDI-Sidebar-2-Splitter=1225
 Kate-MDI-Sidebar-3-Bar-0-TvList=output,diagnostics,kate_plugin_katesearch,kateprojectinfo,kate_private_plugin_katekonsoleplugin
 Kate-MDI-Sidebar-3-LastSize=200
 Kate-MDI-Sidebar-3-SectSizes=0
-Kate-MDI-Sidebar-3-Splitter=893
+Kate-MDI-Sidebar-3-Splitter=989
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-diagnostics-Position=3
@@ -91,16 +81,12 @@ Kate-MDI-ToolView-lspclient_symbol_outline-Visible=false
 Kate-MDI-ToolView-output-Position=3
 Kate-MDI-ToolView-output-Show-Button-In-Sidebar=true
 Kate-MDI-ToolView-output-Visible=false
-Kate-MDI-V-Splitter=0,625,0
+Kate-MDI-V-Splitter=0,626,0
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABPEAAAKJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAHH/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [MainWindow0 Settings]
-2560x1440 screen: Height=686
-2560x1440 screen: Width=1265
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABPEAAAKJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAHH/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 WindowState=8
 
@@ -110,18 +96,15 @@ Orientation=1
 Sizes=1225
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/tommi/.config/waybar/config
+Active View=file:///home/tommi/win11 ltsc
 Count=1
-Documents=file:///home/tommi/.config/waybar/config
-View 0=file:///home/tommi/.config/waybar/config
+Documents=file:///home/tommi/win11 ltsc
+View 0=file:///home/tommi/win11 ltsc
 
-[MainWindow0-ViewSpace 0 file:///home/tommi/.config/waybar/config]
-CursorColumn=4
-CursorLine=102
-Dynamic Word Wrap=true
-JumpList=
-TextFolding={"checksum":"e8068505da67823fb7245093578060b873f15efa","ranges":[]}
-ViMarks=
+[MainWindow0-ViewSpace 0 file:///home/tommi/win11 ltsc]
+CursorColumn=0
+CursorLine=1
+Dynamic Word Wrap=false
 
 [Open Documents]
 Count=1
@@ -156,23 +139,23 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/.bashrc
-File10[$e]=$HOME/.config/waybar/config
-File2[$e]=$HOME/discord-cyberpunk-neon.theme.css
-File3[$e]=$HOME/honeygain-systemd-service
-File4[$e]=$HOME/honeygain-systemd-service/honeygain-docker.service
-File5[$e]=$HOME/honeygain-systemd-service/install.sh
-File6[$e]=$HOME/.config/sway/config
-File7[$e]=$HOME/.config/sway/config.d/default
-File8[$e]=/var/lib/flatpak/app/com.discordapp.Discord/x86_64/stable/5686cba48484f427b411b1a8c1caf88fbffddee91c9c51ae74596e2bc49564a1/export/bin/com.discordapp.Discord
-File9[$e]=$HOME
-Name1[$e]=.bashrc
-Name10[$e]=config
-Name2[$e]=discord-cyberpunk-neon.theme.css
-Name3[$e]=honeygain-systemd-service
-Name4[$e]=honeygain-docker.service
-Name5[$e]=install.sh
-Name6[$e]=config
-Name7[$e]=default
-Name8[$e]=com.discordapp.Discord
-Name9[$e]=tommi
+File1[$e]=$HOME
+File10[$e]=$HOME/win11 ltsc
+File2[$e]=$HOME/.config/waybar/config
+File3[$e]=$HOME/gamescope/subprojects/wlroots
+File4[$e]=$HOME/gamescope/subprojects/wlroots/backend/libinput/tablet_pad.c
+File5[$e]=$HOME/gamescope/subprojects/libliftoff
+File6[$e]=$HOME/gamescope/subprojects/libliftoff/layer.c
+File7[$e]=$HOME/.ssh/id_ed25519
+File8[$e]=$HOME/.ssh/id_ed25519.pub
+File9[$e]=$HOME/Downloads/CinErotique/README_1ST.TXT
+Name1[$e]=tommi
+Name10[$e]=win11 ltsc
+Name2[$e]=config
+Name3[$e]=wlroots
+Name4[$e]=tablet_pad.c
+Name5[$e]=libliftoff
+Name6[$e]=layer.c
+Name7[$e]=id_ed25519
+Name8[$e]=id_ed25519.pub
+Name9[$e]=README_1ST.TXT

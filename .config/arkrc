@@ -1,16 +1,14 @@
 [ExtractDialog]
-2560x1440 screen: Height=1354
-2560x1440 screen: Width=1266
-DirHistory[$e]=$HOME/Downloads/
+2560x1440 screen: Height=687
+2560x1440 screen: Width=629
+DirHistory[$e]=$HOME/Downloads/Radiance_3be7601c_Linux/,$HOME/Downloads/
 
-[KFileDialog Settings]
-Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
-iconViewIconSize=64
+[General]
+LockSidebar=true
+ShowSidebar=true
 
 [MainWindow]
 2560x1440 screen: Window-Maximized=true
-State=AAAA/wAAAAD9AAAAAAAAAnUAAAKJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 splitterSizes=417,208

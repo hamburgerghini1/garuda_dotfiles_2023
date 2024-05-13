@@ -1,0 +1,34 @@
+{
+    "default": {
+        "supportedCiphers": [
+            { "cipher": "BF-CBC",       "protocol": "UDP",      "port": 443  , "dns": ["10.9.0.1" ] },
+            { "cipher": "AES-128-CBC",  "protocol": "UDP",      "port": 80   , "dns": ["10.22.0.1"] },
+            { "cipher": "AES-256-CBC",  "protocol": "UDP",      "port": 995  , "dns": ["10.24.0.1"] },
+            { "cipher": "none",         "protocol": "UDP",      "port": 1194 , "dns": ["10.25.0.1"] },
+
+            { "cipher": "BF-CBC",       "protocol": "TCP",      "port": 443  , "dns": ["10.8.0.1" ] },
+            { "cipher": "AES-128-CBC",  "protocol": "TCP",      "port": 80   , "dns": ["10.21.0.1"] },
+            { "cipher": "AES-256-CBC",  "protocol": "TCP",      "port": 995  , "dns": ["10.23.0.1"] },
+            { "cipher": "none",         "protocol": "TCP",      "port": 1194 , "dns": ["10.26.0.1"] }
+        ]
+    },
+
+    "serverSites": {
+        "USA": {
+	    "New York": {
+		"supportedCiphers": [
+		    { "cipher": "BF-CBC",       "protocol": "UDP",      "port": 443  , "dns": ["10.9.0.1" ] },
+		    { "cipher": "AES-128-CBC",  "protocol": "UDP",      "port": 54   , "dns": ["10.22.0.1"] },
+		    { "cipher": "AES-256-CBC",  "protocol": "UDP",      "port": 995  , "dns": ["10.24.0.1"] },
+		    { "cipher": "none",         "protocol": "UDP",      "port": 1194 , "dns": ["10.25.0.1"] },
+		    
+		    { "cipher": "BF-CBC",       "protocol": "TCP",      "port": 443  , "dns": ["10.8.0.1" ] },
+		    { "cipher": "AES-128-CBC",  "protocol": "TCP",      "port": 80   , "dns": ["10.21.0.1"] },
+		    { "cipher": "AES-256-CBC",  "protocol": "TCP",      "port": 995  , "dns": ["10.23.0.1"] },
+		    { "cipher": "none",         "protocol": "TCP",      "port": 1194 , "dns": ["10.26.0.1"] }
+		]
+	    }
+        }
+    }
+}       
+

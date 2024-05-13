@@ -1,6 +1,7 @@
 [Wallet]
 Close When Idle=false
 Close on Screensaver=false
+Default Wallet=Default keyring
 Enabled=false
 Launch Manager=false
 Leave Manager Open=false

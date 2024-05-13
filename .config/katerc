@@ -54,11 +54,12 @@ Fallback Encoding=ISO 8859-15
 [KTextEditor Renderer]
 Animate Bracket Matching=false
 Auto Color Theme Selection=true
-Color Theme=Catppuccin Mocha
+Color Theme=Breeze Dark
 Font=Hack,10,-1,7,50,0,0,0,0,0
 Line Height Multiplier=1
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
+Text Font=monospace,9,-1,2,400,0,0,0,0,0,0,0,0,0,0,1
 Word Wrap Marker=false
 
 [KTextEditor View]
@@ -122,7 +123,7 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-2560x1440 screen: Height=686
+2560x1440 screen: Height=687
 2560x1440 screen: Width=1265
 
 [filetree]
@@ -134,3 +135,26 @@ showFullPathOnRoots=false
 showToolbar=true
 sortRole=0
 viewShade=98,68,134
+
+[lspclient]
+AllowedServerCommandLines=
+AutoHover=true
+AutoImport=true
+BlockedServerCommandLines=/usr/bin/clangd -log=error --background-index --limit-results=500 --completion-style=bundled
+CompletionDocumentation=true
+CompletionParens=true
+Diagnostics=true
+FormatOnSave=false
+HighlightGoto=true
+IncrementalSync=false
+InlayHints=false
+Messages=true
+ReferencesDeclaration=true
+SemanticHighlighting=true
+ServerConfiguration=
+SignatureHelp=true
+SymbolDetails=false
+SymbolExpand=true
+SymbolSort=false
+SymbolTree=true
+TypeFormatting=false

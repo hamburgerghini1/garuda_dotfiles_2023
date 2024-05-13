@@ -1,0 +1,5 @@
+    87.2ms (setup:922): 2024-05-13 14:54:59
+    87.3ms (setup:923): /usr/bin/pipx list --short
+    87.3ms (setup:924): pipx version is 1.5.0
+    87.3ms (setup:925): Default python interpreter is '/usr/bin/python'
+    87.8ms (cli:1001): pipx finished.

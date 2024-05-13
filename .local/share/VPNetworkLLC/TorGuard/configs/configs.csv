@@ -1,0 +1,71 @@
+Country;City;TCP;UDP;STEALTH;BITTORRENT;LATITUDE;LONGITUDE
+ARE;Dubai;TorGuard.UnitedArabEmirates-Dubai-NO-TORRENTS-UDP.ovpn;TorGuard.UnitedArabEmirates-Dubai-NO-TORRENTS-TCP.ovpn;NO;NO;25.2645;55.3117;NO
+ARG;Buenos Aires;TorGuard.Argentina-BuenosAires-NO-TORRENTS-UDP.ovpn;TorGuard.Argentina-BuenosAires-NO-TORRENTS-TCP.ovpn;NO;NO;-34.920345;-57.969559;NO
+AUS;Sydney;TorGuard.Australia-Sydney-NO-TORRENTS-UDP.ovpn;TorGuard.Australia-Sydney-NO-TORRENTS-TCP.ovpn;NO;NO;-33.8650;151.2094;NO
+AUT;Vienna;TorGuard.Austria-Vienna-NO-TORRENTS-UDP.ovpn;TorGuard.Austria-Vienna-NO-TORRENTS-TCP.ovpn;NO;NO;48.2082;16.3738;NO
+BEL;Brussels;TorGuard.Belgium-Brussels-NO-TORRENTS-UDP.ovpn;TorGuard.Belgium-Brussels-NO-TORRENTS-TCP.ovpn;NO;NO;50.8503;4.3517;NO
+BGR;Sofia;TorGuard.Bulgaria-Sofia-NO-TORRENTS-UDP.ovpn;TorGuard.Bulgaria-Sofia-NO-TORRENTS-TCP.ovpn;NO;NO;42.6975;23.3242;NO
+BRA;Sao Paulo 1;TorGuard.Brazil-SaoPaulo1-NO-TORRENTS-UDP.ovpn;TorGuard.Brazil-SaoPaulo1-NO-TORRENTS-TCP.ovpn;NO;NO;-23.5500;-46.6333;NO
+BRA;Sao Paulo 2;TorGuard.Brazil-SaoPaulo2-NO-TORRENTS-UDP.ovpn;TorGuard.Brazil-SaoPaulo2-NO-TORRENTS-TCP.ovpn;NO;NO;-23.5500;-46.6333;NO
+CAN;Montreal;TorGuard.Canada-Montreal-UDP.ovpn;TorGuard.Canada-Montreal-TCP.ovpn;NO;YES;45.508888;-73.561668;NO
+CAN;Toronto;TorGuard.Canada-Toronto-UDP.ovpn;TorGuard.Canada-Toronto-TCP.ovpn;NO;YES;43.7000;-79.4000;NO
+CAN;Vancouver;TorGuard.Canada-Vancouver-UDP.ovpn;TorGuard.Canada-Vancouver-TCP.ovpn;NO;YES;49.2827;-123.1207;NO
+CHE;Zurich;TorGuard.Switzerland-Zurich-UDP.ovpn;TorGuard.Switzerland-Zurich-TCP.ovpn;NO;YES;47.3667;8.5500;NO
+CHL;Vina del Mar;TorGuard.Chile-VinadelMar-NO-TORRENTS-UDP.ovpn;TorGuard.Chile-VinadelMar-NO-TORRENTS-TCP.ovpn;NO;NO;-35.6751;-71.5430;NO
+CYP;Limassol;TorGuard.Cyprus-Limassol-NO-TORRENTS-UDP.ovpn;TorGuard.Cyprus-Limassol-NO-TORRENTS-TCP.ovpn;NO;NO;34.674975;33.033244;NO
+CZE;Prague;TorGuard.CzechRepublic-Prague-UDP.ovpn;TorGuard.CzechRepublic-Prague-TCP.ovpn;NO;YES;50.0833;14.4167;NO
+DEU;Frankfurt;TorGuard.Germany-Frankfurt-NO-TORRENTS-UDP.ovpn;TorGuard.Germany-Frankfurt-NO-TORRENTS-TCP.ovpn;NO;NO;50.1167;8.6833;NO
+DNK;Copenhagen;TorGuard.Denmark-Copenhagen-UDP.ovpn;TorGuard.Denmark-Copenhagen-TCP.ovpn;NO;YES;55.6761;12.5683;NO
+ESP;Madrid;TorGuard.Spain-Madrid-NO-TORRENTS-UDP.ovpn;TorGuard.Spain-Madrid-NO-TORRENTS-TCP.ovpn;NO;NO;39.4667;-0.3833;NO
+FIN;Helsinki;TorGuard.Finland-Helsinki-UDP.ovpn;TorGuard.Finland-Helsinki-TCP.ovpn;NO;YES;60.1708;24.9375;NO
+FRA;Paris;TorGuard.France-Paris-NO-TORRENTS-UDP.ovpn;TorGuard.France-Paris-NO-TORRENTS-TCP.ovpn;NO;NO;48.8567;2.3508;NO
+GBR;London;TorGuard.UnitedKingdom-London-NO-TORRENTS-UDP.ovpn;TorGuard.UnitedKingdom-London-NO-TORRENTS-TCP.ovpn;NO;NO;51.5072;-0.1275;NO
+GBR;Manchester;TorGuard.UnitedKingdom-Manchester-NO-TORRENTS-UDP.ovpn;TorGuard.UnitedKingdom-Manchester-NO-TORRENTS-TCP.ovpn;NO;NO;53.4808;2.2426;NO
+GRC;Athens;TorGuard.Greece-Athens-NO-TORRENTS-UDP.ovpn;TorGuard.Greece-Athens-NO-TORRENTS-TCP.ovpn;NO;NO;37.9667;23.7167;NO
+HKG;Hong Kong;TorGuard.HongKong-HongKong-NO-TORRENTS-UDP.ovpn;TorGuard.HongKong-HongKong-NO-TORRENTS-TCP.ovpn;NO;NO;22.2783;114.1747;YES
+HUN;Budapest;TorGuard.Hungary-Budapest-NO-TORRENTS-UDP.ovpn;TorGuard.Hungary-Budapest-NO-TORRENTS-TCP.ovpn;NO;NO;47.4925;19.0514;NO
+IDN;Jakarta;TorGuard.Indonesia-Jakarta-UDP.ovpn;TorGuard.Indonesia-Jakarta-TCP.ovpn;NO;YES;-6.21462;106.84513;NO
+IND;Mumbai;TorGuard.India-Mumbai-NO-TORRENTS-UDP.ovpn;TorGuard.India-Mumbai-NO-TORRENTS-TCP.ovpn;NO;NO;19.075975;72.877377;NO
+IRL;Dublin;TorGuard.Ireland-Dublin-NO-TORRENTS-UDP.ovpn;TorGuard.Ireland-Dublin-NO-TORRENTS-TCP.ovpn;NO;NO;52.8306;-6.9317;NO
+ISL;Reykjavik;TorGuard.Iceland-Reykjavik-UDP.ovpn;TorGuard.Iceland-Reykjavik-TCP.ovpn;NO;YES;64.1333;-21.9333;NO
+ISR;Petah Tikva;TorGuard.Israel-PetahTikva-NO-TORRENTS-UDP.ovpn;TorGuard.Israel-PetahTikva-NO-TORRENTS-TCP.ovpn;NO;NO;32.0917;34.8850;NO
+ISR;Tel Aviv;TorGuard.Israel-TelAviv-NO-TORRENTS-UDP.ovpn;TorGuard.Israel-TelAviv-NO-TORRENTS-TCP.ovpn;NO;NO;32.0853;34.7818;NO
+ITA;Milan;TorGuard.Italy-Milan-NO-TORRENTS-UDP.ovpn;TorGuard.Italy-Milan-NO-TORRENTS-TCP.ovpn;NO;NO;45.4667;9.1833;NO
+JPN;Tokyo;TorGuard.Japan-Tokyo-NO-TORRENTS-UDP.ovpn;TorGuard.Japan-Tokyo-NO-TORRENTS-TCP.ovpn;NO;NO;35.6833;139.6833;NO
+KOR;Seoul;TorGuard.SouthKorea-Seoul-NO-TORRENTS-UDP.ovpn;TorGuard.SouthKorea-Seoul-NO-TORRENTS-TCP.ovpn;NO;NO;37.4833;126.6333;NO
+LUX;Steinsel;TorGuard.Luxembourg-Steinsel-UDP.ovpn;TorGuard.Luxembourg-Steinsel-TCP.ovpn;NO;YES;49.6833;6.1167;NO
+MDA;Chisinau;TorGuard.Moldova-Chisinau-UDP.ovpn;TorGuard.Moldova-Chisinau-TCP.ovpn;NO;YES;47.0000;28.9167;NO
+MEX;Mexico City;TorGuard.Mexico-MexicoCity-UDP.ovpn;TorGuard.Mexico-MexicoCity-TCP.ovpn;NO;YES;19.4333;-99.1333;NO
+NLD;Amsterdam;TorGuard.Netherlands-Amsterdam-UDP.ovpn;TorGuard.Netherlands-Amsterdam-TCP.ovpn;NO;YES;52.3667;4.9000;NO
+NOR;Oslo;TorGuard.Norway-Oslo-UDP.ovpn;TorGuard.Norway-Oslo-TCP.ovpn;NO;YES;59.9500;10.7500;NO
+NZL;Auckland;TorGuard.NewZealand-Auckland-NO-TORRENTS-UDP.ovpn;TorGuard.NewZealand-Auckland-NO-TORRENTS-TCP.ovpn;NO;NO;-36.8406;174.7400;NO
+POL;Warsaw;TorGuard.Poland-Warsaw-NO-TORRENTS-UDP.ovpn;TorGuard.Poland-Warsaw-NO-TORRENTS-TCP.ovpn;NO;NO;54.5000;18.5500;NO
+PRT;Lisbon;TorGuard.Portugal-Lisbon-UDP.ovpn;TorGuard.Portugal-Lisbon-TCP.ovpn;NO;YES;38.7223;9.1393;NO
+ROM;Bucharest;TorGuard.Romania-Bucharest-UDP.ovpn;TorGuard.Romania-Bucharest-TCP.ovpn;NO;YES;44.4268;26.1025;NO
+RUS;Moscow;TorGuard.Russia-Moscow-UDP.ovpn;TorGuard.Russia-Moscow-TCP.ovpn;NO;YES;55.7522222;37.6155556;YES
+SGP;Singapore;TorGuard.Singapore-Singapore-NO-TORRENTS-UDP.ovpn;TorGuard.Singapore-Singapore-NO-TORRENTS-TCP.ovpn;NO;NO;1.3000;103.8000;YES
+SRB;Belgrade;TorGuard.Serbia-Belgrade-NO-TORRENTS-UDP.ovpn;TorGuard.Serbia-Belgrade-NO-TORRENTS-TCP.ovpn;NO;NO;44.8125;20.4612;NO
+SVK;Bratislava;TorGuard.Slovakia-Bratislava-NO-TORRENTS-UDP.ovpn;TorGuard.Slovakia-Bratislava-NO-TORRENTS-TCP.ovpn;NO;NO;48.14816;17.10674;NO
+SWE;Stockholm;TorGuard.Sweden-Stockholm-UDP.ovpn;TorGuard.Sweden-Stockholm-TCP.ovpn;NO;YES;59.3294;18.0686;NO
+THA;Bangkok;TorGuard.Thailand-Bangkok-NO-TORRENTS-UDP.ovpn;TorGuard.Thailand-Bangkok-NO-TORRENTS-TCP.ovpn;NO;NO;13.7563;100.5018;NO
+TUR;Istanbul;TorGuard.Turkey-Istanbul-NO-TORRENTS-UDP.ovpn;TorGuard.Turkey-Istanbul-NO-TORRENTS-TCP.ovpn;NO;NO;41.01514;28.97953;NO
+TWN;Taipei;TorGuard.Taiwan-Taipei-NO-TORRENTS-UDP.ovpn;TorGuard.Taiwan-Taipei-NO-TORRENTS-TCP.ovpn;NO;NO;25.03333;121.633333;NO
+UKR;Kyiv;TorGuard.Ukraine-Kyiv-NO-TORRENTS-UDP.ovpn;TorGuard.Ukraine-Kyiv-NO-TORRENTS-TCP.ovpn;NO;NO;49.0658;33.4100;NO
+USA;Atlanta;TorGuard.USA-Atlanta-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Atlanta-NO-TORRENTS-TCP.ovpn;NO;NO;33.7490;-84.3880;NO
+USA;Chicago;TorGuard.USA-Chicago-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Chicago-NO-TORRENTS-TCP.ovpn;NO;NO;41.8369;-87.6847;NO
+USA;Chicago - Loc2;TorGuard.USA-Chicago-Loc2-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Chicago-Loc2-NO-TORRENTS-TCP.ovpn;NO;NO;41.8369;-87.6847;NO
+USA;Dallas;TorGuard.USA-Dallas-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Dallas-NO-TORRENTS-TCP.ovpn;NO;NO;32.7767;-96.7970;NO
+USA;Dallas - Loc2;TorGuard.USA-Dallas-Loc2-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Dallas-Loc2-NO-TORRENTS-TCP.ovpn;NO;NO;32.7767;-96.7970;NO
+USA;Denver;TorGuard.USA-Denver-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Denver-NO-TORRENTS-TCP.ovpn;NO;NO;39.739359;-104.983595;NO
+USA;Houston;TorGuard.USA-Houston-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Houston-NO-TORRENTS-TCP.ovpn;NO;NO;29.749907;-95.358421;NO
+USA;Las Vegas;TorGuard.USA-LasVegas-NO-TORRENTS-UDP.ovpn;TorGuard.USA-LasVegas-NO-TORRENTS-TCP.ovpn;NO;NO;36.1215;-115.1739;NO
+USA;Los Angeles;TorGuard.USA-LosAngeles-NO-TORRENTS-UDP.ovpn;TorGuard.USA-LosAngeles-NO-TORRENTS-TCP.ovpn;NO;NO;34.0500;-118.2500;NO
+USA;Miami;TorGuard.USA-Miami-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Miami-NO-TORRENTS-TCP.ovpn;NO;NO;25.7753;-80.2089;NO
+USA;New Jersey;TorGuard.USA-NewJersey-NO-TORRENTS-UDP.ovpn;TorGuard.USA-NewJersey-NO-TORRENTS-TCP.ovpn;NO;NO;40.0000;-74.5000;YES
+USA;New Jersey - Loc2;TorGuard.USA-NewJersey-Loc2-NO-TORRENTS-UDP.ovpn;TorGuard.USA-NewJersey-Loc2-NO-TORRENTS-TCP.ovpn;NO;NO;40.0000;-74.5000;YES
+USA;New York;TorGuard.USA-NewYork-NO-TORRENTS-UDP.ovpn;TorGuard.USA-NewYork-NO-TORRENTS-TCP.ovpn;NO;NO;40.7127;-74.0059;NO
+USA;Salt Lake City;TorGuard.USA-SaltLakeCity-NO-TORRENTS-UDP.ovpn;TorGuard.USA-SaltLakeCity-NO-TORRENTS-TCP.ovpn;NO;NO;40.7587;-111.8762;NO
+USA;San Francisco;TorGuard.USA-SanFrancisco-NO-TORRENTS-UDP.ovpn;TorGuard.USA-SanFrancisco-NO-TORRENTS-TCP.ovpn;NO;NO;37.7749;-122.4194;NO
+USA;Seattle;TorGuard.USA-Seattle-NO-TORRENTS-UDP.ovpn;TorGuard.USA-Seattle-NO-TORRENTS-TCP.ovpn;NO;NO;47.6097;-122.3331;NO
+ZAF;Johannesburg;TorGuard.SouthAfrica-Johannesburg-NO-TORRENTS-UDP.ovpn;TorGuard.SouthAfrica-Johannesburg-NO-TORRENTS-TCP.ovpn;NO;NO;-26.19525;28.03409;NO
+__C;Middle East Optimized;TorGuard.RandomServer-MiddleEastOptimized-UDP.ovpn;TorGuard.RandomServer-MiddleEastOptimized-TCP.ovpn;NO;YES;25.2645;55.3117;NO

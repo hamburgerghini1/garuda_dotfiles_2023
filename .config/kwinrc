@@ -25,6 +25,9 @@ WobblynessLevel=1
 BlurStrength=6
 NoiseStrength=2
 
+[Effect-overview]
+BorderActivate=9
+
 [Effect-presentwindows]
 BorderActivateAll=9
 
@@ -33,13 +36,14 @@ BorderActivateAll=9
 
 [Effect-wobblywindows]
 BlurStrength=6
-Drag=85
+Drag=97
+MoveFactor=25
 NoiseStrength=2
-Stiffness=10
-WobblynessLevel=1
+Stiffness=1
+WobblynessLevel=4
 
 [ModifierOnlyShortcuts]
-Meta=
+Meta=org.kde.plasmashell,/PlasmaShell,org.kde.PlasmaShell,activateLauncherMenu
 
 [Plugins]
 alwaysopenonfocusedscreenEnabled=true
@@ -58,6 +62,7 @@ kwin4_effect_morphingpopupsEnabled=false
 kwin4_effect_rubberband_maximizeEnabled=true
 kwin4_effect_slidingnotificationsEnabled=true
 macsimizeEnabled=false
+magiclampEnabled=true
 minimizeallEnabled=true
 movewindowtocenterEnabled=true
 opacitymenuEnabled=true
@@ -68,6 +73,7 @@ screenedgeEnabled=false
 sheetEnabled=true
 slideEnabled=false
 slidebackEnabled=true
+squashEnabled=false
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
 wobblywindowsEnabled=true
@@ -89,6 +95,9 @@ LayoutName=flipswitch
 [Tiling]
 padding=4
 
+[Tiling][0e5177cd-9a81-502a-b29a-3ce774bb55eb]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][181a84b9-11ed-552a-aa23-2925f3474423]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -96,6 +105,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][852b1df0-0980-58c7-84e4-db94fed39961]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][92e842d7-5928-5c43-884a-4912e7cc82ed]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][9350f969-92d0-5658-bb27-639b07d90acc]
@@ -110,6 +122,5 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Windows]
 Placement=Centered
 
-[org.kde.kdecoration2]
-library=org.kde.lightly
-theme=Lightly
+[Xwayland]
+Scale=1

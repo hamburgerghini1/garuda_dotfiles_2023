@@ -13,7 +13,24 @@
 .config/chromium
 .config/dconf
 .config/discord
+.config/discoverrc
+.config/filetypesrc
+.config/GitHub Desktop
+.config/kwalletmanager5rc
+.config/kwinrulesrc
+.config/PlasmaDiscoverUpdates
+.config/sddmthemeinstallerrc
+.config/session
 .config/steamtinkerlaunch
+.local/share/applications
+.local/share/ark
+.local/share/gvfs-metadata
+.local/share/kate
+.local/share/konsole
+.local/share/kwalletmanager5
+.local/share/plasmashell
+.local/share/systemsettings
 .local/share/Steam
 .local/share/Trash
-.
+.local/share/baloo
+.local/share/xdg-desktop-portal-kde/xdg-desktop-portal-kdestaterc

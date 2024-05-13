@@ -75,9 +75,9 @@ done=Plasma_Fonts_Kate
 mtime=1687281784
 
 [gtkconfig.upd]
-ctime=1687418885
+ctime=1715250196
 done=gtk_theme,dont_use_gtk_css_for_window_decorations,remove_deprecated_gtk4_option
-mtime=1687279371
+mtime=1713344090
 
 [gwenview.upd]
 ctime=1689776910
@@ -95,8 +95,8 @@ done=migrate_kate_sessions_applet_to_kdeplasma-addons
 mtime=1688487281
 
 [kcalcrc.upd]
-ctime=1689776911
-mtime=1688487464
+ctime=1715250195
+mtime=1712689767
 
 [kcm_rename_plasma_desktop.upd]
 ctime=1687418890
@@ -153,9 +153,9 @@ done=ksmserver_update_loginMode_value_default_enum
 mtime=1687279882
 
 [kwin.upd]
-ctime=1687418883
-done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize,animation-speed,desktop-grid-click-behavior,no-swap-encourage,enable-scale-effect-by-default,overview-group-plugin-id,animation-speed-cleanup
-mtime=1687276684
+ctime=1715250191
+done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize,animation-speed,desktop-grid-click-behavior,no-swap-encourage,enable-scale-effect-by-default,overview-group-plugin-id,animation-speed-cleanup,kwin-6.0-reset-active-mouse-screen,kwin-6.0-delete-desktop-switching-shortcuts,kwin-6.0-remove-breeze-tabbox-default
+mtime=1713786347
 
 [kwinrules.upd]
 ctime=1687418883
@@ -172,15 +172,45 @@ ctime=1687418890
 done=split-variants
 mtime=1687279882
 
+[migrate-calendar-to-plugin-id.upd]
+ctime=1715250191
+done=kwin-6.0-remove-breeze-tabbox-default,migrate-calendar-plugins
+mtime=1713342537
+
 [okular.upd]
 ctime=1689776915
 done=annotation-toolbar,builtin-annotations
 mtime=1688479237
 
+[plasma6.0-remove-dpi-settings.upd]
+ctime=1715250191
+done=migrate-calendar-plugins,plasma6.0-remove-dpi-settings
+mtime=1713342537
+
+[plasma6.0-remove-old-shortcuts.upd]
+ctime=1715250191
+done=plasma6.0-remove-dpi-settings,plasma6.0-remove-old-shortcuts
+mtime=1713342537
+
 [plasmashell-5.27-use-panel-thickness-in-default-group.upd]
 ctime=1688019766
 done=plasmashell-5.27-use-panel-thickness-in-default-group
 mtime=1687285199
+
+[plasmashell-6.0-keep-custom-position-of-panels.upd]
+ctime=1715250191
+done=plasma6.0-remove-old-shortcuts,plasmashell-6.0-keep-custom-position-of-panels
+mtime=1713342537
+
+[plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels.upd]
+ctime=1715250191
+done=plasmashell-6.0-keep-custom-position-of-panels,plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels
+mtime=1713342537
+
+[spectacle.upd]
+ctime=1715250195
+done=plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels,24.02.0-video_format,24.02.0-keep_old_save_location,24.02.0-rename_settings,24.02.0-keep_old_filename_templates,24.02.0-change_placeholder_format
+mtime=1712685304
 
 [spectacle_clipboard.upd]
 ctime=1689776916
