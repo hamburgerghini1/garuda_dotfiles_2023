@@ -21,6 +21,9 @@ It's found at .config/sway/scripts
 
 There is also pw-volume https://github.com/smasher164/pw-volume , no idea if that works since I have not figured out how to control volume... (this is solved by installing pulseaudio-utils on fedora and debian, arch has pw-volume on the aur)
 
+# For missing swaync icons
+Download the fonts folder from https://gitlab.com/Zaney/dotfiles/-/tree/main/.local/share/fonts?ref_type=heads and copy to home folder
+
 # Programs that you need (work in progress) * = optional (Names of arch packages)
 
 
