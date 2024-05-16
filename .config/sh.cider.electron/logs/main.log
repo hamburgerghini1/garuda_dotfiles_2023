@@ -1,0 +1,231 @@
+[2024-05-13 15:00:26.070] [info]  App is ready
+[2024-05-13 15:00:26.754] [info]  [koa:serve] Serving SPA from local {
+  zipPath: '/home/tommi/.config/sh.cider.electron/spa.zip',
+  shouldZip: true
+}
+[2024-05-13 15:00:26.810] [debug] [module:nanoleaf]  Nanoleaf is ready
+[2024-05-13 15:00:26.815] [info]  [main:ready] Widevine status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'updated',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-05-13 15:00:27.627] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-05-13 15:00:27.633] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-13 15:00:28.256] [warn]  [MusicKit][boot] LocalStorage token auth failed. {
+  error: "Error: Cannot read properties of undefined (reading 'fetch')\n" +
+    '    at async HTMLDocument.<anonymous> (http://localhost:9500/assets/MusicKit.92d3cdbb.js:1:13592)'
+}
+[2024-05-13 15:00:38.206] [info]  Showing auth window
+[2024-05-13 15:01:46.802] [info]  User authorized, starting cider.
+[2024-05-13 15:01:46.805] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-13 15:01:46.817] [warn]  [MusicKit][boot] LocalStorage token auth failed. { error: 'Error: Failed to fetch' }
+[2024-05-13 15:01:47.507] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-05-13 15:01:47.516] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-13 15:01:47.577] [warn]  [MusicKit][boot] LocalStorage token auth failed. {
+  error: "Error: Cannot read properties of undefined (reading 'fetch')\n" +
+    '    at async HTMLDocument.<anonymous> (http://localhost:9500/assets/MusicKit.92d3cdbb.js:1:13592)'
+}
+[2024-05-13 15:02:02.638] [info]  Showing auth window
+[2024-05-13 15:39:51.088] [info]  [main:quit] App is quitting
+[2024-05-15 16:21:18.014] [info]  App is ready
+[2024-05-15 16:21:18.018] [info]  [koa:serve] Serving SPA from local {
+  zipPath: '/home/tommi/.config/sh.cider.electron/spa.zip',
+  shouldZip: true
+}
+[2024-05-15 16:21:18.078] [debug] [module:nanoleaf]  Nanoleaf is ready
+[2024-05-15 16:21:18.083] [info]  [main:ready] Widevine status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-05-15 16:21:19.351] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-05-15 16:21:19.357] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-15 16:21:20.074] [warn]  [MusicKit][boot] LocalStorage token auth failed. {
+  error: "Error: Cannot read properties of undefined (reading 'fetch')\n" +
+    '    at async HTMLDocument.<anonymous> (http://localhost:9500/assets/MusicKit.92d3cdbb.js:1:13592)'
+}
+[2024-05-15 16:21:59.746] [info]  Showing auth window
+[2024-05-15 16:22:38.118] [info]  User authorized, starting cider.
+[2024-05-15 16:22:38.122] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-15 16:22:38.130] [warn]  [MusicKit][boot] LocalStorage token auth failed. { error: 'Error: Failed to fetch' }
+[2024-05-15 16:22:38.373] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-05-15 16:22:38.381] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-15 16:22:38.432] [warn]  [MusicKit][boot] LocalStorage token auth failed. {
+  error: "Error: Cannot read properties of undefined (reading 'fetch')\n" +
+    '    at async HTMLDocument.<anonymous> (http://localhost:9500/assets/MusicKit.92d3cdbb.js:1:13592)'
+}
+[2024-05-15 16:23:49.700] [info]  App is ready
+[2024-05-15 16:23:49.714] [info]  [koa:serve] Serving SPA from zip {
+  zipPath: '/home/tommi/.config/sh.cider.electron/spa.zip',
+  shouldZip: true
+}
+[2024-05-15 16:23:49.765] [debug] [module:nanoleaf]  Nanoleaf is ready
+[2024-05-15 16:23:49.769] [info]  [main:ready] Widevine status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-05-15 16:23:50.138] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-05-15 16:23:50.138] [debug] [MusicKit][inject] MusicKit Loading Method is: v2
+[2024-05-15 16:23:50.316] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-15 16:23:50.329] [debug] [MusicKit][boot:setup] Running setup.
+[2024-05-15 16:23:50.330] [debug] [MusicKit][setup] Registering listeners
+[2024-05-15 16:23:50.331] [debug] [MusicKit][onAuthorized] User is authorized, restoring values from localstorage.
+[2024-05-15 16:23:50.331] [debug] [MusicKit][boot:setup] Storefront ID: fi
+[2024-05-15 16:23:50.332] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-05-15 16:23:52.243] [debug] [utils:api][scanFolders] Scanning folder. { id: 'p.playlistsroot', count: 24 }
+[2024-05-15 16:23:52.305] [info]  [firebase][init] Initializing firebase.
+[2024-05-15 16:23:52.308] [info]  [MusicKit][boot] MusicKit setup complete.
+[2024-05-15 16:23:52.328] [debug] [firebase:auth][authStateChanged] Auth state changed {}
+[2024-05-15 16:23:52.328] [debug] [firebase:auth][authStateChanged] User is null
+[2024-05-15 16:24:03.182] [warn]  [module:discord]  Discord RPC Client connected
+[2024-05-15 16:24:03.182] [debug] [module:discord]  Discord RPC Client is ready
+[2024-05-15 16:24:05.456] [debug] Unloading module: com.cider.discord
+[2024-05-15 16:24:06.730] [warn]  [module:discord]  Discord RPC Client connected
+[2024-05-15 16:24:06.730] [debug] [module:discord]  Discord RPC Client is ready
+[2024-05-15 16:24:29.190] [debug] middleware callback/:service Callback Received {
+  service: 'lastfm',
+  ctx: {
+    request: {
+      method: 'GET',
+      url: '/callback/lastfm?token=O0MKaLhtrrlL6w3HYbdX-GMkfP-fKhnO',
+      header: {
+        host: 'localhost:9500',
+        connection: 'keep-alive',
+        'cache-control': 'max-age=0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-GB',
+        'sec-fetch-dest': 'document',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-user': '?1',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cider/2.4.0 Chrome/122.0.6261.70 Electron/29.1.0 Safari/537.36'
+      }
+    },
+    response: {
+      status: 404,
+      message: 'Not Found',
+      header: {
+        'access-control-allow-origin': '*',
+        'access-control-allow-headers': 'Origin, X-Requested-With, Content-Type, Accept',
+        'access-control-allow-methods': 'POST, GET, PUT, DELETE, OPTIONS'
+      }
+    },
+    app: { subdomainOffset: 2, proxy: false, env: 'development' },
+    originalUrl: '/callback/lastfm?token=O0MKaLhtrrlL6w3HYbdX-GMkfP-fKhnO',
+    req: '<original node req>',
+    res: '<original node res>',
+    socket: '<original node socket>'
+  }
+}
+[2024-05-15 16:24:57.199] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cb/4f/a7/cb4fa743-7b09-7892-85b8-839ad0e38b3e/PA00025640_0_40562_jacket.jpg/{w}x{h}bb.jpg
+[2024-05-15 16:30:10.880] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/39/ba/d639ba39-5272-3e78-0595-d6ca845e75cf/080039_J.jpg/{w}x{h}bb.jpg
+[2024-05-15 16:34:50.558] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/44/29/c0442946-7e5f-24d5-5261-a269ad13f70e/PA00134153_1_180214_jacket.jpg/{w}x{h}bb.jpg
+[2024-05-15 16:39:18.092] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/44/29/c0442946-7e5f-24d5-5261-a269ad13f70e/PA00134153_1_180214_jacket.jpg/{w}x{h}bb.jpg
+[2024-05-15 16:43:26.104] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/61/70/36/6170368e-1fa6-92ed-27ef-672d89d998f3/20UMGIM28422.rgb.jpg/{w}x{h}bb.jpg
+[2024-05-15 16:44:02.255] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-05-15 16:44:04.820] [debug] [utils:api][scanFolders] Scanning folder. { id: 'p.playlistsroot', count: 24 }
+[2024-05-15 16:51:50.538] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-05-15 16:51:52.249] [debug] [utils:api][scanFolders] Scanning folder. { id: 'p.playlistsroot', count: 24 }
+[2024-05-15 16:51:59.119] [info]  [main:quit] App is quitting
+[2024-05-15 20:10:23.112] [info]  App is ready
+[2024-05-15 20:10:23.130] [info]  [koa:serve] Serving SPA from zip {
+  zipPath: '/home/tommi/.config/sh.cider.electron/spa.zip',
+  shouldZip: true
+}
+[2024-05-15 20:10:23.202] [debug] [module:nanoleaf]  Nanoleaf is ready
+[2024-05-15 20:10:23.207] [info]  [main:ready] Widevine status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-05-15 20:10:23.450] [warn]  [module:discord]  Discord RPC Client connected
+[2024-05-15 20:10:23.450] [debug] [module:discord]  Discord RPC Client is ready
+[2024-05-15 20:10:24.138] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-05-15 20:10:24.138] [debug] [MusicKit][inject] MusicKit Loading Method is: default
+[2024-05-15 20:10:24.362] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-15 20:10:24.381] [debug] [MusicKit][boot:setup] Running setup.
+[2024-05-15 20:10:24.383] [debug] [MusicKit][setup] Registering listeners
+[2024-05-15 20:10:24.384] [debug] [MusicKit][onAuthorized] User is authorized, restoring values from localstorage.
+[2024-05-15 20:10:24.385] [debug] [MusicKit][boot:setup] Storefront ID: fi
+[2024-05-15 20:10:24.481] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-05-15 20:10:26.035] [debug] [utils:api][scanFolders] Scanning folder. { id: 'p.playlistsroot', count: 24 }
+[2024-05-15 20:10:26.044] [info]  [firebase][init] Initializing firebase.
+[2024-05-15 20:10:26.048] [info]  [MusicKit][boot] MusicKit setup complete.
+[2024-05-15 20:10:26.057] [debug] [firebase:auth][authStateChanged] Auth state changed {}
+[2024-05-15 20:10:26.057] [debug] [firebase:auth][authStateChanged] User is null
+[2024-05-15 20:10:45.068] [info]  [main:quit] App is quitting
+[2024-05-16 21:27:44.698] [info]  App is ready
+[2024-05-16 21:27:44.715] [info]  [koa:serve] Serving SPA from zip {
+  zipPath: '/home/tommi/.config/sh.cider.electron/spa.zip',
+  shouldZip: true
+}
+[2024-05-16 21:27:44.774] [debug] [module:nanoleaf]  Nanoleaf is ready
+[2024-05-16 21:27:44.778] [info]  [main:ready] Widevine status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-05-16 21:27:45.053] [warn]  [module:discord]  Discord RPC Client connected
+[2024-05-16 21:27:45.053] [debug] [module:discord]  Discord RPC Client is ready
+[2024-05-16 21:27:45.596] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-05-16 21:27:45.596] [debug] [MusicKit][inject] MusicKit Loading Method is: default
+[2024-05-16 21:27:45.821] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-05-16 21:27:45.837] [debug] [MusicKit][boot:setup] Running setup.
+[2024-05-16 21:27:45.839] [debug] [MusicKit][setup] Registering listeners
+[2024-05-16 21:27:45.840] [debug] [MusicKit][onAuthorized] User is authorized, restoring values from localstorage.
+[2024-05-16 21:27:45.841] [debug] [MusicKit][boot:setup] Storefront ID: fi
+[2024-05-16 21:27:45.844] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-05-16 21:27:47.624] [debug] [utils:api][scanFolders] Scanning folder. { id: 'p.playlistsroot', count: 24 }
+[2024-05-16 21:27:47.633] [info]  [firebase][init] Initializing firebase.
+[2024-05-16 21:27:47.637] [info]  [MusicKit][boot] MusicKit setup complete.
+[2024-05-16 21:27:47.647] [debug] [firebase:auth][authStateChanged] Auth state changed {}
+[2024-05-16 21:27:47.647] [debug] [firebase:auth][authStateChanged] User is null
+[2024-05-16 21:27:59.173] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/aa/3f/7baa3fc2-fc58-2382-695a-3069a6053572/23UM1IM56900.rgb.jpg/{w}x{h}bb.jpg
+[2024-05-16 21:30:47.562] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/45/1e/bf/451ebf47-3bc0-3aee-5af6-540f21e1a40c/197338005385.jpg/{w}x{h}bb.jpg
+[2024-05-16 21:33:04.270] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-05-16 21:33:04.877] [debug] [utils:api][scanFolders] Scanning folder. { id: 'p.playlistsroot', count: 24 }
+[2024-05-16 21:33:27.611] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/40/1d/91401db5-794d-760c-2542-0d8813bf9584/196922749681_Cover.jpg/{w}x{h}bb.jpg
+[2024-05-16 21:34:47.465] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-05-16 21:34:48.080] [debug] [utils:api][scanFolders] Scanning folder. { id: 'p.playlistsroot', count: 24 }
+[2024-05-16 21:36:00.191] [debug] [utils:api][getCatalogId] Failed to fetch catalog id. {
+  libraryId: 'p.MoGJJKaFvXKXO0K',
+  libraryType: 'library-playlists',
+  data: {
+    data: {
+      data: [
+        {
+          id: 'p.MoGJJKaFvXKXO0K',
+          type: 'library-playlists',
+          href: '/v1/me/library/playlists/p.MoGJJKaFvXKXO0K?l=en-GB'
+        }
+      ],
+      resources: {
+        'library-playlists': {
+          'p.MoGJJKaFvXKXO0K': {
+            id: 'p.MoGJJKaFvXKXO0K',
+            type: 'library-playlists',
+            href: '/v1/me/library/playlists/p.MoGJJKaFvXKXO0K?l=en-GB',
+            attributes: [Object],
+            relationships: [Object]
+          }
+        }
+      }
+    }
+  }
+}
+[2024-05-16 21:36:31.496] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bf/bc/41/bfbc411d-b7d1-b4c9-782e-81a1c9e92917/24UMGIM02921.rgb.jpg/{w}x{h}bb.jpg
+[2024-05-16 21:39:30.621] [debug] [MusicKit][nowPlayingItemDidChange:fetchArtwork] MusicKit artwork https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/6e/dd/b46edd2f-6c59-15e2-60ae-9800ef84de99/196032143959.jpg/{w}x{h}bb.jpg
+[2024-05-16 21:40:06.259] [info]  [main:quit] App is quitting

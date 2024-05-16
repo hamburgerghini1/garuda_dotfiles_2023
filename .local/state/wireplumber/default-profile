@@ -4,3 +4,4 @@ alsa_card.pci-0000_0d_00.1.3=off
 alsa_card.pci-0000_0f_00.4=off
 alsa_card.pci-0000_0f_00.4.3=off
 alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03.3=output:analog-stereo
+alsa_card.usb-Sony_Interactive_Entertainment_DualSense_Wireless_Controller-00=off

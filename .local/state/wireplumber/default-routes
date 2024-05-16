@@ -21,8 +21,8 @@ alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03.5:pro
 alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03.9:input:analog-input={"latencyOffsetNsec":0, "channelMap":["MONO"], "channelVolumes":[1.000000], "mute":true}
 alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03.9:output:analog-output={"latencyOffsetNsec":0, "channelMap":["FL", "FR"], "channelVolumes":[0.056658, 0.056658], "mute":false}
 alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03.9:profile:output:analog-stereo+input:mono-fallback=["analog-output", "analog-input"]
-alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03:input:analog-input={"channelVolumes":[0.000000], "channelMap":["MONO"], "mute":true, "latencyOffsetNsec":0}
-alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03:output:analog-output={"channelVolumes":[0.020778, 0.020778], "channelMap":["FL", "FR"], "mute":false, "latencyOffsetNsec":0}
+alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03:input:analog-input={"latencyOffsetNsec":0, "channelMap":["MONO"], "channelVolumes":[0.000000], "mute":false}
+alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03:output:analog-output={"latencyOffsetNsec":0, "channelMap":["FL", "FR"], "channelVolumes":[0.034813, 0.034813], "mute":false}
 alsa_card.usb-Creative_Technology_Ltd_Sound_Blaster_X1_53DEC10B2053C0C1-03:profile:output:analog-stereo+input:mono-fallback=["analog-output", "analog-input"]
-alsa_card.usb-Sony_Interactive_Entertainment_DualSense_Wireless_Controller-00:input:analog-input-headset-mic={"channelMap":["FL", "FR"], "latencyOffsetNsec":0, "channelVolumes":[1.000000, 1.000000], "mute":true}
+alsa_card.usb-Sony_Interactive_Entertainment_DualSense_Wireless_Controller-00:input:analog-input-headset-mic={"latencyOffsetNsec":0, "mute":true, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
 alsa_card.usb-Sony_Interactive_Entertainment_DualSense_Wireless_Controller-00:profile:output:analog-surround-40+input:analog-stereo=["analog-input-headset-mic"]

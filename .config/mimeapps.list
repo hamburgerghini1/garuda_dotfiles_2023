@@ -159,6 +159,7 @@ video/x-theora+ogg=org.videolan.VLC.desktop;
 x-scheme-handler/geo=google-maps-geo-handler.desktop;
 x-scheme-handler/http=one.ablaze.floorp.desktop;
 x-scheme-handler/https=one.ablaze.floorp.desktop;
+application/vnd.microsoft.portable-executable=protontricks-launch.desktop;
 
 [Default Applications]
 audio/3gpp=org.videolan.VLC.desktop

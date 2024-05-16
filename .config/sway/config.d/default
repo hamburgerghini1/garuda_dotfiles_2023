@@ -207,16 +207,6 @@ bindsym --whole-window --border $mod+shift+button5 resize grow width 5 px or 5 p
 
 
 #
-# Ciderbar
-#
-bindsym $mod+m [class="Cider"] scratchpad show
-bindsym $mod+Ctrl+p exec cider-polybar -a playpause
-bindsym $mod+Shift+v exec cider-polybar -a volume -v -0.02
-bindsym $mod+Ctrl+v exec  cider-polybar -a volume -v 0.02
-bindsym $mod+n exec cider-polybar -a next
-bindsym $mod+Ctrl+ n exec cider-polybar -a previous
-
-#
 # Volume control on mouse
 #
 bindsym button4 exec amixer -q set Master 5%+
@@ -231,6 +221,9 @@ input type:keyboard xkb_numlock enabled
 
 # sway notification center control
 bindsym $mod+Shift+n exec swaync-client -t -sw
+
+# launch macOS VM
+bindsym $mod+M exec quickemu --vm macos-sonoma.conf --width 2560 --height 1440
 
 # pw-volume
 bindsym XF86AudioRaiseVolume exec "pw-volume change +2.5%; pkill -RTMIN+8 waybar"
