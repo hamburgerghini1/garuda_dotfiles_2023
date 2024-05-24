@@ -19,8 +19,6 @@ Spotify waybar script is from https://github.com/Alexays/Waybar/blob/master/reso
 Repo also includes sway-interactive-screenshot binary (https://github.com/moverest/sway-interactive-screenshot)
 It's found at .config/sway/scripts
 
-There is also pw-volume https://github.com/smasher164/pw-volume , no idea if that works since I have not figured out how to control volume... (this is solved by installing pulseaudio-utils on fedora and debian, arch has pw-volume on the aur)
-
 Fastfetch config is from https://github.com/xerolinux/xero-layan-git/tree/main/Configs/Home/.config/fastfetch
 
 # For missing swaync icons (though it should be working now)
@@ -79,6 +77,8 @@ autotiling
 alacritty and/or kitty (kitty's config looks better imo)
 
 fastfetch/hyfetch *
+
+pw-volume (on fedora and debian pulseaudio-utils) for volume control with mouse
 
 
 Screenshot
