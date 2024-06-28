@@ -1,5 +1,7 @@
 # sway_config
 
+## NO LONGER MAINTAINED. I SWITCHED TO KDE PLASMA 6.
+
 My cyberpunk styled Sway Window manager config based of https://github.com/Roboron3042/Cyberpunk-Neon
 
 For missing waybar icons: install otf-awesome-fonts and ttf-awesome-fonts, also run the papirus kolorizer install script
