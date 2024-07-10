@@ -139,4 +139,4 @@ alias rem='sudo nala remove'
 alias list='sudo nala list --installed'
 
 # Display system information
-neofetch
+fastfetch
