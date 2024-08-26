@@ -1,1 +1,0 @@
-{"workbench.editor.preferHistoryBasedLanguageDetection":true,"editor.tokenColorCustomizations":{"[*Light*]":{"textMateRules":[{"scope":"ref.matchtext","settings":{"foreground":"#000"}}]},"[*Dark*]":{"textMateRules":[{"scope":"ref.matchtext","settings":{"foreground":"#fff"}}]}},"terminal.integrated.commandsToSkipShell":["github.copilot.terminal.suggestCommand"]}
