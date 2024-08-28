@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Remember Me
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/228300
-Icon=steam_icon_228300
-Terminal=false
-Type=Application
-Categories=Game;

@@ -1,7 +1,0 @@
-2024/05/15-20:10:23.452 2b444 Reusing MANIFEST /home/tommi/.config/sh.cider.electron/IndexedDB/http_localhost_9500.indexeddb.leveldb/MANIFEST-000001
-2024/05/15-20:10:23.452 2b444 Recovering log #4
-2024/05/15-20:10:23.453 2b444 Reusing old log /home/tommi/.config/sh.cider.electron/IndexedDB/http_localhost_9500.indexeddb.leveldb/000004.log 
-2024/05/15-20:10:26.052 2b455 Level-0 table #8: started
-2024/05/15-20:10:26.055 2b455 Level-0 table #8: 63355 bytes OK
-2024/05/15-20:10:26.059 2b455 Delete type=0 #4
-2024/05/15-20:10:26.059 2b442 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

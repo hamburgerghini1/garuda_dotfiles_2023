@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Bigscreen Beta
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/457550
-Icon=steam_icon_457550
-Terminal=false
-Type=Application
-Categories=Game;

@@ -1,4 +1,0 @@
-[Context]
-sockets=gpg-agent;pcsc;ssh-auth;system-bus;session-bus;fallback-x11;wayland
-devices=shm;kvm;dri
-filesystems=home;host-etc;host-os;host

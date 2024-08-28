@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Persona 3 Portable
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/1809700
-Icon=steam_icon_1809700
-Terminal=false
-Type=Application
-Categories=Game;

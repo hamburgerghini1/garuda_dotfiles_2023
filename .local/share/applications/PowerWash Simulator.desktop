@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=PowerWash Simulator
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/1290000
-Icon=steam_icon_1290000
-Terminal=false
-Type=Application
-Categories=Game;

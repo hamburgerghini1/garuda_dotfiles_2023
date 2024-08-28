@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Desktop+
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/1494460
-Icon=steam_icon_1494460
-Terminal=false
-Type=Application
-Categories=Game;

@@ -1,9 +1,0 @@
-   123.6ms (setup:799): 2023-07-19 21:30:06
-   123.6ms (setup:800): /usr/bin/pipx upgrade-all
-   123.7ms (setup:801): pipx version is 1.2.0
-   123.7ms (setup:802): Default python interpreter is '/usr/bin/python'
-   123.7ms (mkdir:81): creating directory /home/tommi/.local/pipx/venvs
-   123.8ms (mkdir:81): creating directory /home/tommi/.local/bin
-   123.8ms (mkdir:81): creating directory /home/tommi/.local/pipx/.cache
-   123.9ms (setup:810): Adding CACHEDIR.TAG to cache directory
-   124.0ms (cli:874): pipx finished.

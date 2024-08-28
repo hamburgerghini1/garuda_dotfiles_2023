@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Bendy and the Ink Machine
-Comment=Play this game on Steam
-Exec=steam steam://rungameid/622650
-Icon=steam_icon_622650
-Terminal=false
-Type=Application
-Categories=Game;

@@ -1,5 +1,0 @@
-    74.0ms (setup:922): 2024-05-13 00:14:29
-    74.0ms (setup:923): /usr/bin/pipx upgrade-all --quiet
-    74.1ms (setup:924): pipx version is 1.5.0
-    74.1ms (setup:925): Default python interpreter is '/usr/bin/python'
-    74.5ms (cli:1001): pipx finished.

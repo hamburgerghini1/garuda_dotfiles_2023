@@ -1,5 +1,0 @@
-[PlasmaRunnerManager]
-LaunchCounts=1 exec:///usr/bin/konsole,1 exec:///usr/bin/dolphin,1 exec:///usr/bin/flatpak run --file-forwarding --command=sh com.spotify.Client -c eval "$(sed s#LD_PRELOAD=#LD_PRELOAD=$HOME/.spotify-adblock/spotify-adblock.so:#g /app/bin/spotify)" @@u @@,1 exec:///usr/bin/steam-runtime,1 exec:///usr/bin/vivaldi-stable,1 exec:///usr/bin/ulauncher --hide-window
-
-[PlasmaRunnerManager][History]
-cd915191-804f-4d50-8fc3-f8e5c0279f54=ul,stea,oti,dol,viv,kon
